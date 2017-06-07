@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cve2MNj" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cve2MNj" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/messageDialog/messageDialog,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">null</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cve2MNj" class="cve2MNj"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;resizable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;}" __cid="cve2MNj" class="cve2MNj"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cve2MNj" __cid="cve2MNj"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cve2MNj" style="display:none;" __cid="cve2MNj">  
+      <div class="x-dialog-title cve2MNj" __cid="cve2MNj"> 
+        <button class="close cve2MNj" __cid="cve2MNj"> 
+          <span __cid="cve2MNj" class="cve2MNj">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cve2MNj" __cid="cve2MNj"/> 
+      </div>  
+      <div class="x-dialog-body cve2MNj" __cid="cve2MNj"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar cve2MNj" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cve2MNj"> 
+    <div class="x-panel-top cve2MNj" xid="top1" style="height:auto;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cve2MNj"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url(@justepContextPath@/v_5113_nol_zh_CNs_desktopd_pc/wms_client_v8/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar cve2MNj" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cve2MNj"> 
+        <div class="x-titlebar-title cve2MNj" style="width:262px;" __cid="cve2MNj">请输入登录信息</div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cve2MNj" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cve2MNj"> 
+      <div xid="div1" __cid="cve2MNj" class="cve2MNj"> 
+        <label xid="label3" style="text-align:center;font-size:0.6rem;font-family:宋体;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;" dir="rtl" __cid="cve2MNj" class="cve2MNj">请输入工卡信息</label>  
+        <img src="@justepContextPath@/v_5113_nol_zh_CNs_desktopd_pc/wms_client_v8/img/worklog.png" alt="" xid="image1" class="center-block cve2MNj" align="middle" style="width:4rem;height:5rem;" __cid="cve2MNj"/>
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control center-block cve2MNj" xid="IDInput" style="width:50%;margin-top:5px;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keyup:$model._callModelFn.bind($model, 'input1Keypress')}" __cid="cve2MNj"/>  
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cve2MNj" xid="button1" style="background-color:#BFBFBF;color:#000000;text-decoration:none;margin-top:10px;font-weight:bold;width:2rem;font-size:0.6rem;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;退出&quot;}" __cid="cve2MNj"> 
+          <i xid="i2" __cid="cve2MNj" class="cve2MNj"/>  
+          <span xid="span2" __cid="cve2MNj" class="cve2MNj">退出</span> 
+        </a> 
+      </div> 
+    </div>  
+    <style __cid="cve2MNj" class="cve2MNj">.x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pcfd592ca11004c11a753c7b10f0757b8-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/messageDialog/messageDialog" xid="messageDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/messageDialog/messageDialog'}" data-config="{&quot;message&quot;:&quot;工卡不能为空！&quot;,&quot;title&quot;:&quot;登陆提示&quot;,&quot;type&quot;:&quot;OK&quot;}" __cid="cve2MNj" class="cve2MNj"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal-overlay cve2MNj" __cid="cve2MNj"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal cve2MNj" __cid="cve2MNj">  
+      <div class="x-modal-inner cve2MNj" __cid="cve2MNj"> 
+        <div class="x-modal-title cve2MNj" __cid="cve2MNj">登陆提示</div>  
+        <div class="x-modal-text cve2MNj" __cid="cve2MNj">工卡不能为空！</div>  
+        <input class="x-modal-prompt-input cve2MNj" type="text" __cid="cve2MNj"/> 
+      </div>  
+      <div class="x-modal-buttons cve2MNj" __cid="cve2MNj"> 
+        <a class="x-modal-button x-modal-button-bold OK cve2MNj" value="ok" __cid="cve2MNj">确定</a>  
+        <a class="x-modal-button x-modal-button-bold Yes cve2MNj" value="yes" __cid="cve2MNj">是</a>  
+        <a class="x-modal-button x-modal-button-bold No cve2MNj" value="no" __cid="cve2MNj">否</a>  
+        <a class="x-modal-button x-modal-button-bold Cancel cve2MNj" value="cancel" __cid="cve2MNj">取消</a> 
+      </div> 
+    </div> 
+  </span>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cve2MNj" class="cve2MNj"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog2" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog2Receive" __cid="cve2MNj" class="cve2MNj"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cve2MNj" __cid="cve2MNj"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cve2MNj" style="display:none;" __cid="cve2MNj">  
+      <div class="x-dialog-title cve2MNj" __cid="cve2MNj"> 
+        <button class="close cve2MNj" __cid="cve2MNj"> 
+          <span __cid="cve2MNj" class="cve2MNj">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cve2MNj" __cid="cve2MNj"/> 
+      </div>  
+      <div class="x-dialog-body cve2MNj" __cid="cve2MNj"/> 
+    </div> 
+  </span> 
+</div>

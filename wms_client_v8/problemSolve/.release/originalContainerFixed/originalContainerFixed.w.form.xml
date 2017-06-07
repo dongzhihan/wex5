@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cNv22Yj" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cNv22Yj" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.button.cNv22Yj{font-family: 微软雅黑; font-size: 0.37rem; margin-right: 0.3rem} .container.cNv22Yj{font: bold 0.5rem 微软雅黑; background: rgb(189, 215, 238); padding: 0.3rem; text-align: center; display: none; margin-bottom: 0.05rem} .title.cNv22Yj{width: 100%; text-align: center; margin: 0.5rem 0 0.5rem 0; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} span.cNv22Yj{font-family: 微软雅黑} .successCon.cNv22Yj{display: none; font-family: 微软雅黑; text-align: center; background: linear-gradient(rgb(130, 182, 100), rgb(97, 162, 53)); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); margin-top: 0.3rem; font-size: 0.44rem; color: white} .proId.cNv22Yj{line-height: 1rem; display: block; font-weight: bold; font-size: 0.38rem; text-align: right; color: rgb(0, 0, 0)} .proDes.cNv22Yj{font-size: 0.44rem; font-weight: bold; color: rgb(0, 51, 204)} .yw.cNv22Yj{font-size: 0.56rem; text-decoration: underline; font-weight: bold}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cNv22Yj" class="cNv22Yj"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar cNv22Yj" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cNv22Yj"> 
+    <div class="x-panel-top cNv22Yj" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cNv22Yj"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cNv22Yj" xid="titleBar1" style="background:linear-gradient(#ffc746,#e5b600);box-shadow:0rem 0.1rem 0.1rem #8b8b8b" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cNv22Yj"> 
+        <div class="x-titlebar-left cNv22Yj" xid="left1" __cid="cNv22Yj"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default button cNv22Yj" xid="button1" bind-click="button1Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cNv22Yj"> 
+            <i xid="i1" __cid="cNv22Yj" class="cNv22Yj"/>  
+            <span xid="span1" __cid="cNv22Yj" class="cNv22Yj">单一移货</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default button cNv22Yj" xid="button2" bind-click="button2Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cNv22Yj"> 
+            <i xid="i2" __cid="cNv22Yj" class="cNv22Yj"/>  
+            <span xid="span2" __cid="cNv22Yj" class="cNv22Yj">批量移货</span> 
+          </a> 
+        </div>  
+        <div class="x-titlebar-title cNv22Yj" xid="title1" __cid="cNv22Yj"/>  
+        <div class="x-titlebar-right  cNv22Yj" xid="right1" __cid="cNv22Yj">
+          <div class="empty cNv22Yj" __cid="cNv22Yj"/>
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default button cNv22Yj" xid="button3" bind-click="button3Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cNv22Yj"> 
+            <i xid="i3" __cid="cNv22Yj" class="cNv22Yj"/>  
+            <span xid="span3" __cid="cNv22Yj" class="cNv22Yj"/>返回
+          </a>
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cNv22Yj" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cNv22Yj"> 
+      <div xid="div1" __cid="cNv22Yj" class="cNv22Yj"> 
+        <div xid="div2" class="container cNv22Yj" __cid="cNv22Yj"> 
+          <span xid="span4" style="color:#000000" __cid="cNv22Yj" class="cNv22Yj">原始容器：
+            <span xid="originalId" bind-text="originalId" __cid="cNv22Yj" class="cNv22Yj"/> 
+          </span> 
+        </div>  
+        <div xid="destination" class="container cNv22Yj" __cid="cNv22Yj"> 
+          <span xid="span5" style="color:#000000" __cid="cNv22Yj" class="cNv22Yj">目的容器：
+            <span xid="destinationId" bind-text="destinationId" style="color:#000000" __cid="cNv22Yj" class="cNv22Yj"/> 
+          </span> 
+        </div>  
+        <label xid="label1" class="title cNv22Yj" bind-text="title" __cid="cNv22Yj"/>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control cNv22Yj" xid="input1" bind-keydown="input1Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" data-events="onBlur:input1Blur" __cid="cNv22Yj"/>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cNv22Yj" xid="row3" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cNv22Yj"> 
+          <div class="x-col cNv22Yj" xid="col14" style="font:bold 0.5rem 微软雅黑;color:#000000" __cid="cNv22Yj"> 
+            <span xid="4" __cid="cNv22Yj" class="cNv22Yj">原始容器：</span>
+            <span xid="original" bind-text="originalId" style="color:#0033CC" __cid="cNv22Yj" class="cNv22Yj">tsOB0000001</span> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cNv22Yj" xid="row1" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cNv22Yj"> 
+          <div class="x-col cNv22Yj" xid="col1" __cid="cNv22Yj"> 
+            <span xid="type" style="color:red;font-size:0.625rem;font-weight:bold" __cid="cNv22Yj" class="cNv22Yj">单品</span> 
+          </div>  
+          <div class="x-col cNv22Yj" xid="col2" __cid="cNv22Yj"> 
+            <span xid="proid" class="proId cNv22Yj" bind-text="proId" __cid="cNv22Yj">1</span> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cNv22Yj" xid="row2" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cNv22Yj"> 
+          <div class="x-col cNv22Yj" xid="col13" __cid="cNv22Yj"> 
+            <span xid="proDes" class="proDes cNv22Yj" bind-text="proDes" __cid="cNv22Yj">Gund My First Teddy Bear婴儿毛绒玩具熊 15英寸</span> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="div3" style="text-align:center;display:none" __cid="cNv22Yj" class="cNv22Yj"> 
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control cNv22Yj" xid="input2" style="width:20%;display:inline-block;text-align:center;background:#FBE5D6" bind-keydown="input2Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" data-events="onBlur:input2Blur" __cid="cNv22Yj"/> 
+      </div>  
+      <div xid="successCon" class="successCon cNv22Yj" __cid="cNv22Yj"> 
+        <span id="successMsg" __cid="cNv22Yj" class="cNv22Yj"/> 
+      </div> 
+    </div>  
+    <style __cid="cNv22Yj" class="cNv22Yj">.x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p1477bb70050e46c3b0a564d6e37606c9-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

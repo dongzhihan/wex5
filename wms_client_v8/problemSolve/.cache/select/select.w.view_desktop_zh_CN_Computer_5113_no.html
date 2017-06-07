@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cfEnIni" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cfEnIni" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/scrollView/scrollView,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.button.cfEnIni{font-family: 微软雅黑; font-size: 0.37rem; margin-right: 0.3rem} .title.cfEnIni{width: 100%; text-align: center; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} input.cfEnIni{opacity: 1; height: 0.6rem; padding: 0} .ms.cfEnIni{font: 0.44rem 微软雅黑; color: rgb(0, 0, 0); padding: 0; display: -webkit-box; line-height: 0.8rem} table.cfEnIni{width: 100%; text-align: center; font: 0.38rem 宋体; background: rgb(207, 213, 234); color: rgb(0, 0, 0); border-left: 0.05rem solid white} table.cfEnIni th.cfEnIni{border-bottom: 0.05rem solid white; border-right: 0.05rem solid white; text-align: center; padding: 0.2rem; background: rgb(68, 114, 196); font-weight: bold; color: rgb(255, 255, 255)} table.cfEnIni td.cfEnIni{border-bottom: 0.05rem solid white; border-right: 0.05rem solid white; padding: 0.2rem} .bg-info.cfEnIni{background: rgb(233, 235, 245)} .x-scroll.cfEnIni:not(*.x-iscoll5){transform: translate3d(0, 0, 0); -webkit-transform: translate3d(0, 0, 0); overflow: auto; bottom: 0; top: 0px; width: 100%; position: relative}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onInactive:modelInactive;onLoad:modelLoad" __cid="cfEnIni" class="cfEnIni"/>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar cfEnIni" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cfEnIni"> 
+    <div class="x-panel-top cfEnIni" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cfEnIni"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cfEnIni" xid="titleBar1" style="background:linear-gradient(#ffc746,#e5b600);box-shadow:0rem 0.1rem 0.1rem #8b8b8b" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cfEnIni"> 
+        <div class="x-titlebar-left cfEnIni" xid="left1" __cid="cfEnIni"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default button cfEnIni" xid="button1" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button1Click')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cfEnIni"> 
+            <i xid="i1" __cid="cfEnIni" class="cfEnIni"/>  
+            <span xid="span1" __cid="cfEnIni" class="cfEnIni">商品</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default button cfEnIni" xid="button2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button2Click')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cfEnIni"> 
+            <i xid="i2" __cid="cfEnIni" class="cfEnIni"/>  
+            <span xid="span2" __cid="cfEnIni" class="cfEnIni">容器</span> 
+          </a> 
+        </div>  
+        <div class="x-titlebar-title cfEnIni" xid="title1" __cid="cfEnIni"/>  
+        <div class="x-titlebar-right  cfEnIni" xid="right1" __cid="cfEnIni"> 
+          <div class="empty cfEnIni" __cid="cfEnIni"/>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default button cfEnIni" xid="button3" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button3Click')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cfEnIni"> 
+            <i xid="i3" __cid="cfEnIni" class="cfEnIni"/>  
+            <span xid="span3" __cid="cfEnIni" class="cfEnIni"/>返回
+          </a> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content x-scroll-view cfEnIni" xid="content1" _xid="C7877F0E4F500001DF29C7422F90196F" style="bottom: 0px;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cfEnIni"> 
+      <div xid="div1" __cid="cfEnIni" class="cfEnIni"> 
+        <div xid="ipt1" __cid="cfEnIni" class="cfEnIni"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cfEnIni" xid="input1" style="opacity:0;height:0.6rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input1Keydown')}" data-events="onBlur:input1Blur" __cid="cfEnIni"/> 
+        </div>  
+        <div xid="ipt2" style="display:none" __cid="cfEnIni" class="cfEnIni"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cfEnIni" xid="input2" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input2Keydown')}" data-events="onBlur:input2Blur" __cid="cfEnIni"/> 
+        </div>  
+        <label xid="label1" class="title cfEnIni" __cid="cfEnIni" data-bind="text:title"/>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cfEnIni" xid="row1" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cfEnIni"> 
+          <div class="x-col cfEnIni" xid="col1" style="display:inline-block;padding:0" __cid="cfEnIni"> 
+            <span xid="span4" class="ms cfEnIni" __cid="cfEnIni" data-bind="text:sku"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cfEnIni" xid="row2" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cfEnIni"> 
+          <div class="x-col cfEnIni" xid="col2" style="display:inline-block;padding:0" __cid="cfEnIni"> 
+            <span xid="span5" class="ms cfEnIni" __cid="cfEnIni" data-bind="text:proName"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cfEnIni" xid="row3" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cfEnIni"> 
+          <div class="x-col cfEnIni" xid="col3" style="display:inline-block;padding:0" __cid="cfEnIni"> 
+            <span xid="span6" class="ms cfEnIni" __cid="cfEnIni" data-bind="text:total"/> 
+          </div> 
+        </div> 
+      </div>  
+      <div class="x-scroll cfEnIni" component="$model/UI2/system/components/justep/scrollView/scrollView" xid="scrollView1" style="height:58.7%;display:none" data-bind="component:{name:'$model/UI2/system/components/justep/scrollView/scrollView'}" __cid="cfEnIni"> 
+        <div class="x-scroll-content cfEnIni" xid="div3" __cid="cfEnIni"> 
+          <table component="$model/UI2/system/components/justep/list/list" class="x-list cfEnIni" xid="list1" imit="-1" style="width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;proDes&quot;}" __cid="cfEnIni"> 
+            <thead xid="thead1" __cid="cfEnIni" class="cfEnIni"> 
+              <tr xid="tr1" __cid="cfEnIni" class="cfEnIni"> 
+                <th xid="th1" __cid="cfEnIni" class="cfEnIni">位置</th>  
+                <th xid="th2" __cid="cfEnIni" class="cfEnIni" data-bind="text:thAmount"/>  
+                <th xid="th3" __cid="cfEnIni" class="cfEnIni">状态</th>  
+                <th xid="th4" __cid="cfEnIni" class="cfEnIni">客户</th> 
+              </tr> 
+            </thead>  
+            <tbody class="x-list-template hide cfEnIni" xid="listTemplate1" __cid="cfEnIni" data-bind="foreach:{data:$model.foreach_list1($element),afterRender:$model.foreach_afterRender_list1.bind($model,$element)}"> 
+              <tr xid="tr2" __cid="cfEnIni" class="cfEnIni" data-bind="css:{'bg-info':$index() %2 == 1 }"> 
+                <td xid="td1" style="font-family:calibri;" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;storageLocationName&quot;)"/>  
+                <td xid="td2" style="font-family:calibri" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;amount&quot;)"/>  
+                <td xid="td3" style="font-family:calibri" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;inventoryState&quot;)"/>  
+                <td xid="td4" style="font-family:calibri" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;clientName&quot;)"/> 
+              </tr> 
+            </tbody> 
+          </table> 
+        </div> 
+      </div>  
+      <div class="x-scroll cfEnIni" component="$model/UI2/system/components/justep/scrollView/scrollView" xid="scrollView2" style="height:58.7%;display:none" data-bind="component:{name:'$model/UI2/system/components/justep/scrollView/scrollView'}" __cid="cfEnIni"> 
+        <div class="x-scroll-content cfEnIni" xid="div4" __cid="cfEnIni"> 
+          <table component="$model/UI2/system/components/justep/list/list" class="x-list cfEnIni" xid="list2" imit="-1" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;rqDes&quot;}" __cid="cfEnIni"> 
+            <thead xid="thead2" __cid="cfEnIni" class="cfEnIni"> 
+              <tr xid="tr3" __cid="cfEnIni" class="cfEnIni"> 
+                <th xid="th5" __cid="cfEnIni" class="cfEnIni">商品名称</th>  
+                <th xid="th6" __cid="cfEnIni" class="cfEnIni" data-bind="text:thAmount"/>  
+                <th xid="th7" __cid="cfEnIni" class="cfEnIni">状态</th>  
+                <th xid="th8" __cid="cfEnIni" class="cfEnIni">客户</th> 
+              </tr> 
+            </thead>  
+            <tbody class="x-list-template hide cfEnIni" xid="listTemplate4" __cid="cfEnIni" data-bind="foreach:{data:$model.foreach_list2($element),afterRender:$model.foreach_afterRender_list2.bind($model,$element)}"> 
+              <tr xid="tr4" __cid="cfEnIni" class="cfEnIni" data-bind="css:{'bg-info':$index() %2 == 1 }"> 
+                <td xid="td5" style="font-family:calibri;width:5rem" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;itemDataName&quot;)"/>  
+                <td xid="td6" style="font-family:calibri" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;amount&quot;)"/>  
+                <td xid="td7" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;inventoryState&quot;)"/>  
+                <td xid="td8" __cid="cfEnIni" class="cfEnIni" data-bind="text:ref(&quot;clientName&quot;)"/> 
+              </tr> 
+            </tbody> 
+          </table> 
+        </div> 
+      </div> 
+    </div>  
+    <style __cid="cfEnIni" class="cfEnIni">.x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pfd61e2637d1c46fea14d8b4bb59ba388-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div> 
+</div>

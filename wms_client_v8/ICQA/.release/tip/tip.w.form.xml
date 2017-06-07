@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cqMNvUj" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cqMNvUj" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/window/window,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">btn.cqMNvUj{background: linear-gradient(rgb(96, 131, 203), rgb(46, 97, 186))}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cqMNvUj" class="cqMNvUj"/>  
+  <div xid="div1" __cid="cqMNvUj" class="cqMNvUj">
+    <div component="$model/UI2/system/components/justep/row/row" class="x-row cqMNvUj" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cqMNvUj"> 
+      <div class="x-col cqMNvUj" xid="col1" __cid="cqMNvUj">
+        <span style="font:0.44rem 微软雅黑;color:#000000" __cid="cqMNvUj" class="cqMNvUj">一旦确认，此货位将被记录盘点完毕，如果有差异，将直接记录，是否确认货位中商品已经全部盘点完毕？</span>
+      </div> 
+    </div>
+    <div component="$model/UI2/system/components/justep/row/row" class="x-row cqMNvUj" xid="row2" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cqMNvUj"> 
+      <div class="x-col cqMNvUj" xid="col4" __cid="cqMNvUj">
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cqMNvUj" xid="button1" style="background:linear-gradient(#6083CB,#2E61BA)" bind-click="button1Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cqMNvUj"> 
+          <i xid="i1" __cid="cqMNvUj" class="cqMNvUj"/>  
+          <span xid="span1" __cid="cqMNvUj" class="cqMNvUj">确定</span>
+        </a>
+      </div>  
+      <div class="x-col cqMNvUj" xid="col5" __cid="cqMNvUj">
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cqMNvUj" xid="button2" style="background:linear-gradient(#6083CB,#2E61BA)" bind-click="button2Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cqMNvUj"> 
+          <i xid="i2" __cid="cqMNvUj" class="cqMNvUj"/>  
+          <span xid="span2" __cid="cqMNvUj" class="cqMNvUj">取消</span>
+        </a>
+      </div> 
+    </div>
+  </div>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cqMNvUj" class="cqMNvUj"/>
+</div>

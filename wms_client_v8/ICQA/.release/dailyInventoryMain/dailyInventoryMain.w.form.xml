@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cFBvmUf" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cFBvmUf" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.tittle.cFBvmUf{width: 100%; text-align: center; margin-top: 0.5rem; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} .welcome.cFBvmUf{background: linear-gradient(rgb(129, 184, 97), rgb(97, 162, 53)); font: bold 0.5rem 微软雅黑; color: rgb(255, 255, 255)} .btnOpation.cFBvmUf{text-align: center; width: 100%; font: bold 0.47rem 微软雅黑; color: rgb(0, 0, 0); background: rgb(255, 192, 0); margin-top: 0.5rem; padding: 0.5rem} .errorCon.cFBvmUf{background: rgb(255, 0, 0); padding: 0.5rem; margin-top: 0.5rem; font: bold 0.47rem 微软雅黑; color: rgb(255, 255, 255); text-align: center}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cFBvmUf" class="cFBvmUf"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p6f436685719849f5a658ccb7f06892c2-iosstatusbar cFBvmUf" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cFBvmUf"> 
+    <div class="x-panel-top cFBvmUf" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cFBvmUf">
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar welcome cFBvmUf" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cFBvmUf"> 
+        <div class="x-titlebar-title cFBvmUf" xid="title1" bind-text="welcome" __cid="cFBvmUf"/> 
+      </div>
+    </div>  
+    <div class="x-panel-content cFBvmUf" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cFBvmUf">
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full cFBvmUf" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0,&quot;routable&quot;:false,&quot;slidable&quot;:false,&quot;swipe&quot;:false,&quot;wrap&quot;:false}" __cid="cFBvmUf"> 
+        <div class="x-contents-content active cFBvmUf" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content2Active" __cid="cFBvmUf">
+          <div xid="div1" __cid="cFBvmUf" class="cFBvmUf">
+            <label xid="label1" class="tittle cFBvmUf" bind-text="tittle" __cid="cFBvmUf"/>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cFBvmUf" xid="button1" bind-click="button1Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cFBvmUf"> 
+              <i xid="i1" __cid="cFBvmUf" class="cFBvmUf"/>  
+              <span xid="span1" bind-text="opationOne" __cid="cFBvmUf" class="cFBvmUf"/>
+            </a>
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cFBvmUf" xid="button2" bind-click="button2Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cFBvmUf"> 
+              <i xid="i2" __cid="cFBvmUf" class="cFBvmUf"/>  
+              <span xid="span2" bind-text="opationTwo" __cid="cFBvmUf" class="cFBvmUf"/>
+            </a>
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cFBvmUf" xid="button3" bind-click="button3Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cFBvmUf"> 
+              <i xid="i3" __cid="cFBvmUf" class="cFBvmUf"/>  
+              <span xid="span3" bind-text="opationThree" __cid="cFBvmUf" class="cFBvmUf"/>
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cFBvmUf" xid="button4" bind-click="button4Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cFBvmUf"> 
+              <i xid="i4" __cid="cFBvmUf" class="cFBvmUf"/>  
+              <span xid="span4" bind-text="opationFour" __cid="cFBvmUf" class="cFBvmUf"/>
+            </a>
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cFBvmUf" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" bind-keypress="quitKeypress" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cFBvmUf"> 
+              <i xid="i5" __cid="cFBvmUf" class="cFBvmUf"/>  
+              <span xid="span5" __cid="cFBvmUf" class="cFBvmUf">返回</span>
+            </a> 
+          </div> 
+        </div>  
+        <div class="x-contents-content cFBvmUf" xid="content3" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content3Active" __cid="cFBvmUf">
+          <div xid="div2" __cid="cFBvmUf" class="cFBvmUf">
+            <label xid="label2" class="tittle cFBvmUf" bind-text="tittle" __cid="cFBvmUf"/>  
+            <div component="$model/UI2/system/components/justep/list/list" class="x-list cFBvmUf" xid="list1" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;ordersData&quot;}" __cid="cFBvmUf"> 
+              <ul class="x-list-template hide cFBvmUf" xid="listTemplateUl1" bind-foreach="{data:$model.foreach_list1($element),afterRender:$model.foreach_afterRender_list1.bind($model,$element)}" __cid="cFBvmUf"> 
+                <li xid="li1" class="btnOpation cFBvmUf" bind-click="stocktakingNameClick" __cid="cFBvmUf">
+                  <span xid="stocktakingName" bind-text="ref(&quot;name&quot;)" __cid="cFBvmUf" class="cFBvmUf"/>
+                </li>
+              </ul> 
+            </div>
+          </div>  
+          <div xid="orderErrorCon" class="errorCon cFBvmUf" __cid="cFBvmUf">
+            <span xid="orderErrorMsg" class="errorMsg cFBvmUf" __cid="cFBvmUf"></span>
+          </div>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cFBvmUf" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" bind-keypress="quitKeypress" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cFBvmUf"> 
+            <i xid="i5" __cid="cFBvmUf" class="cFBvmUf"/>  
+            <span xid="span5" __cid="cFBvmUf" class="cFBvmUf">返回</span>
+          </a>
+        </div>  
+        <div class="x-contents-content cFBvmUf" xid="content4" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content4Active;onInactive:content4Inactive" __cid="cFBvmUf"> 
+          <label xid="label3" class="tittle cFBvmUf" bind-text="tittle" __cid="cFBvmUf"/>  
+          <img src="$model/UI2/wms_client_v8/img/computer.png" alt="" xid="image1" class="center-block cFBvmUf" align="middle" style="height:194px;margin-top: 0.5rem" __cid="cFBvmUf"/>  
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cFBvmUf" xid="input1" style="width:70%;margin:auto" bind-keydown="input1Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cFBvmUf"/>  
+          <div xid="errorCon" class="errorCon cFBvmUf" __cid="cFBvmUf">
+            <span xid="errorMsg" class="errorMsg cFBvmUf" __cid="cFBvmUf"></span>
+          </div>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cFBvmUf" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" bind-keypress="quitKeypress" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cFBvmUf"> 
+            <i xid="i5" __cid="cFBvmUf" class="cFBvmUf"/>  
+            <span xid="span5" __cid="cFBvmUf" class="cFBvmUf">返回</span>
+          </a> 
+        </div>
+      </div>
+    </div>  
+    <style __cid="cFBvmUf" class="cFBvmUf">.x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p6f436685719849f5a658ccb7f06892c2-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div>
+</div>

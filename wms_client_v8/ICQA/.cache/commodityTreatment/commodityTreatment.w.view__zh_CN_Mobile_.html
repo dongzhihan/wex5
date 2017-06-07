@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window c2eqQ7n" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="c2eqQ7n" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.welcome.c2eqQ7n{font: bold 0.5rem calibri, 宋体; color: rgb(0, 0, 0); background: linear-gradient(rgb(255, 199, 70), rgb(229, 182, 0)); display: -webkit-box} .tittle.c2eqQ7n{width: 100%; text-align: center; margin: 0.5rem 0 0.5rem 0; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} .location.c2eqQ7n{text-align: center; font: bold 0.75rem calibri; border-top: 0.3rem solid yellow; border-bottom: 0.3rem solid yellow; color: rgb(0, 0, 0)} .locationB.c2eqQ7n{text-align: center; background: yellow; font: bold 0.625rem calibri; color: rgb(0, 0, 0)} .x-row.c2eqQ7n{padding: 0.2rem 0} .inputNum.c2eqQ7n{display: inline-block; width: 20%; text-align: center; background: rgb(251, 229, 214); font: bold 0.625rem calibri; color: rgb(0, 0, 0); margin-bottom: 0.3rem} .successCon.c2eqQ7n{display: none; font: 0.5rem 微软雅黑; background: linear-gradient(rgb(129, 184, 97), rgb(97, 162, 53)); margin-top: 0.3rem; padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white} .num.c2eqQ7n{font: 0.625rem calibri; text-decoration: underline} .correctCon.c2eqQ7n{display: none; font: 0.5rem 微软雅黑; text-align: center; background: linear-gradient(rgb(113, 166, 216), rgb(67, 138, 201)); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white} .errorCon.c2eqQ7n{display: none; font: 0.5rem 微软雅黑; text-align: center; background: rgb(255, 0, 0); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white; margin-top: 0.3rem} .x-dialog.x-dialog-normal.c2eqQ7n .x-dialog-body.c2eqQ7n{padding: 0} .num1.c2eqQ7n{font: bold 0.8rem calibri; text-decoration: underline} .proId.c2eqQ7n{line-height: 1.1rem; display: block; font-size: 0.4rem; text-align: right; color: rgb(0, 0, 0)} .proDes.c2eqQ7n{font-size: 0.5rem; font-weight: bold; color: rgb(0, 51, 204)}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="c2eqQ7n" class="c2eqQ7n"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="c2eqQ7n" class="c2eqQ7n"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog2" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;height&quot;:&quot;65%&quot;,&quot;status&quot;:&quot;normal&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="c2eqQ7n" class="c2eqQ7n"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c2eqQ7n" __cid="c2eqQ7n"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c2eqQ7n" style="display:none;" __cid="c2eqQ7n">  
+      <div class="x-dialog-title c2eqQ7n" __cid="c2eqQ7n"> 
+        <button class="close c2eqQ7n" __cid="c2eqQ7n"> 
+          <span __cid="c2eqQ7n" class="c2eqQ7n">×</span> 
+        </button>  
+        <div class="x-dialog-title-text c2eqQ7n" __cid="c2eqQ7n"/> 
+      </div>  
+      <div class="x-dialog-body c2eqQ7n" __cid="c2eqQ7n"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p77b43a374cc849f1a685757134e026bf-iosstatusbar c2eqQ7n" xid="panel1" tabindex="-1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{click:$model._callModelFn.bind($model, 'panel1Click')}" __cid="c2eqQ7n"> 
+    <div class="x-panel-top c2eqQ7n" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c2eqQ7n"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar welcome c2eqQ7n" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="c2eqQ7n"> 
+        <div class="x-titlebar-left c2eqQ7n" xid="left1" __cid="c2eqQ7n"> 
+          <span xid="welTittle" __cid="c2eqQ7n" class="c2eqQ7n">掉落商品处理</span> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content c2eqQ7n" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c2eqQ7n"> 
+      <div xid="div1" __cid="c2eqQ7n" class="c2eqQ7n"> 
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control c2eqQ7n" xid="input1" style="opacity:0;height:0.6rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input1Keydown')}" __cid="c2eqQ7n"/>  
+        <label xid="andonTit" class="tittle c2eqQ7n" style="display:none;margin-top:-0.3rem" __cid="c2eqQ7n" data-bind="text:andonTittle"/>  
+        <div xid="mainCon" __cid="c2eqQ7n" class="c2eqQ7n"> 
+          <label xid="label1" class="tittle c2eqQ7n" style="margin-top:-0.3rem" __cid="c2eqQ7n" data-bind="text:tittle"/>  
+          <div xid="proDesCon" style="font-family:微软雅黑;font-weight:bold;background:#DEEBF7" __cid="c2eqQ7n" class="c2eqQ7n"> 
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row c2eqQ7n" xid="row3" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2eqQ7n"> 
+              <div class="x-col c2eqQ7n" xid="col1" __cid="c2eqQ7n"> 
+                <span xid="type" style="color:red;font:bold 0.8rem 微软雅黑" __cid="c2eqQ7n" class="c2eqQ7n" data-bind="text:proType"/> 
+              </div>  
+              <div class="x-col c2eqQ7n" xid="col2" __cid="c2eqQ7n"> 
+                <span xid="proid" class="proId c2eqQ7n" __cid="c2eqQ7n" data-bind="text:proId"/> 
+              </div> 
+            </div>  
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row c2eqQ7n" xid="row4" style="margin-top:-0.4rem" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2eqQ7n"> 
+              <div class="x-col c2eqQ7n" xid="col13" __cid="c2eqQ7n"> 
+                <span xid="proDes" class="proDes c2eqQ7n" __cid="c2eqQ7n" data-bind="text:proDes"/> 
+              </div> 
+            </div> 
+          </div>  
+          <div xid="locationCon" __cid="c2eqQ7n" class="c2eqQ7n"> 
+            <div xid="locationACon" __cid="c2eqQ7n" class="c2eqQ7n" data-bind="style:{ background: currentProfit.get()  }"> 
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row c2eqQ7n" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2eqQ7n"> 
+                <div class="x-col location c2eqQ7n" xid="locationA" __cid="c2eqQ7n"> 
+                  <span __cid="c2eqQ7n" class="c2eqQ7n" data-bind="text:location"/> 
+                </div> 
+              </div> 
+            </div>  
+            <div xid="locationBCon" style="display:none" __cid="c2eqQ7n" class="c2eqQ7n" data-bind="style:{ background: currentProfit.get()  }"> 
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row c2eqQ7n" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2eqQ7n"> 
+                <div class="x-col locationB c2eqQ7n" xid="locationB" __cid="c2eqQ7n"> 
+                  <span __cid="c2eqQ7n" class="c2eqQ7n" data-bind="text:location"/> 
+                </div> 
+              </div> 
+            </div>  
+            <div xid="inputNumCon" style="text-align:center;display:none;" __cid="c2eqQ7n" class="c2eqQ7n"> 
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control inputNum c2eqQ7n" xid="inputNum" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'inputNumKeydown')}" data-config="{&quot;dataType&quot;:&quot;Integer&quot;}" __cid="c2eqQ7n"/> 
+            </div> 
+          </div> 
+        </div>  
+        <div xid="gunCon" style="text-align:center;display:none;" __cid="c2eqQ7n" class="c2eqQ7n"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control inputNum c2eqQ7n" xid="inputGun" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'inputGunKeydown')}" data-config="{&quot;dataType&quot;:&quot;Integer&quot;}" __cid="c2eqQ7n"/> 
+        </div>  
+        <div xid="successCon" class="successCon c2eqQ7n" style="text-align:center" __cid="c2eqQ7n"> 
+          <span xid="successMsg" __cid="c2eqQ7n" class="c2eqQ7n"/> 
+        </div>  
+        <div xid="errorCon" class="errorCon c2eqQ7n" __cid="c2eqQ7n"> 
+          <span xid="errorMsg" __cid="c2eqQ7n" class="c2eqQ7n"/> 
+        </div>  
+        <div xid="lightCon" class="successCon c2eqQ7n" __cid="c2eqQ7n"> 
+          <span xid="lightMsg" style="text-align:left" __cid="c2eqQ7n" class="c2eqQ7n"/> 
+        </div> 
+      </div>  
+      <div xid="nextLonctionCon" style="position:fixed; bottom:0;background-color:#d9d9d9;font-family:微软雅黑;font-weight:bold;text-align:center;font-size:0.5rem;width:100%" __cid="c2eqQ7n" class="c2eqQ7n"> 
+        <div xid="correctCon" class="correctCon c2eqQ7n" __cid="c2eqQ7n"> 
+          <span xid="correctMsg" __cid="c2eqQ7n" class="c2eqQ7n"/> 
+        </div>  
+        <span style="display:inline-block;;padding:0.4rem;color:#000000;" xid="nextMsg" __cid="c2eqQ7n" class="c2eqQ7n">下一货位：
+          <span xid="nextLonction" __cid="c2eqQ7n" class="c2eqQ7n" data-bind="text:nextLocation"/> 
+        </span> 
+      </div> 
+    </div>  
+    <style __cid="c2eqQ7n" class="c2eqQ7n">.x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p77b43a374cc849f1a685757134e026bf-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;height&quot;:&quot;65%&quot;,&quot;resizable&quot;:true,&quot;status&quot;:&quot;normal&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="c2eqQ7n" class="c2eqQ7n"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c2eqQ7n" __cid="c2eqQ7n"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c2eqQ7n" style="display:none;" __cid="c2eqQ7n">  
+      <div class="x-dialog-title c2eqQ7n" __cid="c2eqQ7n"> 
+        <button class="close c2eqQ7n" __cid="c2eqQ7n"> 
+          <span __cid="c2eqQ7n" class="c2eqQ7n">×</span> 
+        </button>  
+        <div class="x-dialog-title-text c2eqQ7n" __cid="c2eqQ7n"/> 
+      </div>  
+      <div class="x-dialog-body c2eqQ7n" __cid="c2eqQ7n"/> 
+    </div> 
+  </span> 
+</div>

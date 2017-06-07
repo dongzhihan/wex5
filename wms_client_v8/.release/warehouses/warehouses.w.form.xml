@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cR7bQZf" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cR7bQZf" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cR7bQZf" class="cR7bQZf"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar cR7bQZf" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cR7bQZf"> 
+    <div class="x-panel-top cR7bQZf" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cR7bQZf">
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/wms_client_v8/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar cR7bQZf" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cR7bQZf"> 
+        <div class="x-titlebar-title cR7bQZf" style="width:262px;" xid="title1" __cid="cR7bQZf">请选择库房</div>
+      </div>
+    </div>  
+    <div class="x-panel-content cR7bQZf" xid="content1" style="top:2rem;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cR7bQZf">
+      <div component="$model/UI2/system/components/justep/list/list" class="x-list cR7bQZf" xid="list2" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;data1&quot;}" __cid="cR7bQZf"> 
+        <ul class="x-list-template hide cR7bQZf" xid="listTemplateUl2" bind-foreach="{data:$model.foreach_list2($element),afterRender:$model.foreach_afterRender_list2.bind($model,$element)}" __cid="cR7bQZf"> 
+          <li xid="li2" style="text-align:center;border-style:solid solid solid solid;border-width:0.1rem;background-color:#0099FF;" bind-click="li2Click" __cid="cR7bQZf" class="cR7bQZf">
+            <span xid="span1" bind-text="row.name" style="font-size:0.5rem;color:black;" __cid="cR7bQZf" class="cR7bQZf"/>
+          </li>
+        </ul> 
+      </div> 
+    </div>  
+    <div class="x-panel-bottom cR7bQZf" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cR7bQZf"/>
+    <style __cid="cR7bQZf" class="cR7bQZf">.x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p6e763001b7f648f5b16b7503d48a13fe-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cR7bQZf" class="cR7bQZf"/>
+</div>

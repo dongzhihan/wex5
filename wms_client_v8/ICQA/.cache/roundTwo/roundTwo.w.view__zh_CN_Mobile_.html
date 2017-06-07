@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cYbumMv" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cYbumMv" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.welcome.cYbumMv{font: bold 0.5rem calibri, 宋体; color: rgb(0, 0, 0); background: linear-gradient(rgb(255, 199, 70), rgb(229, 182, 0)); display: -webkit-box} .tittle.cYbumMv{width: 100%; text-align: center; margin: 0.5rem 0 0.5rem 0; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} .location.cYbumMv{text-align: center; font: bold 0.75rem calibri; border-top: 0.3rem solid; border-bottom: 0.3rem solid} .locationB.cYbumMv{text-align: center; font: bold 0.625rem calibri; color: rgb(0, 0, 0)} .x-row.cYbumMv{padding: 0.2rem 0} .inputNum.cYbumMv{display: inline-block; width: 20%; text-align: center; background: rgb(251, 229, 214); font: bold 0.625rem calibri; color: rgb(0, 0, 0); margin-bottom: 0.3rem} .successCon.cYbumMv{display: none; font: 0.5rem 微软雅黑; background: linear-gradient(rgb(129, 184, 97), rgb(97, 162, 53)); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white; margin-top: 0.3rem} .num.cYbumMv{font: bold 0.625rem calibri; text-decoration: underline} .errorCon.cYbumMv{display: none; font: bold 0.5rem 微软雅黑; text-align: center; background: rgb(255, 0, 0); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white; margin-top: 0.3rem} .x-dialog.x-dialog-normal.cYbumMv .x-dialog-body.cYbumMv{padding: 0} .num1.cYbumMv{font: bold 0.8rem calibri; text-decoration: underline} .proId.cYbumMv{line-height: 1.1rem; display: block; font-size: 0.4rem; text-align: right; color: rgb(0, 0, 0)} .proDes.cYbumMv{font-size: 0.5rem; font-weight: bold; color: rgb(0, 51, 204)} .okCon.cYbumMv{display: none; font: bold 0.5rem 微软雅黑; text-align: left; background: rgb(255, 0, 0); padding: 0.3rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white; margin-top: 0.3rem}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onParamsReceive:modelParamsReceive" __cid="cYbumMv" class="cYbumMv"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cYbumMv" class="cYbumMv"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog2" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;height&quot;:&quot;65%&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="cYbumMv" class="cYbumMv"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cYbumMv" __cid="cYbumMv"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cYbumMv" style="display:none;" __cid="cYbumMv">  
+      <div class="x-dialog-title cYbumMv" __cid="cYbumMv"> 
+        <button class="close cYbumMv" __cid="cYbumMv"> 
+          <span __cid="cYbumMv" class="cYbumMv">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cYbumMv" __cid="cYbumMv"/> 
+      </div>  
+      <div class="x-dialog-body cYbumMv" __cid="cYbumMv"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p87104c10ceb2476fa52636fe66741d9d-iosstatusbar cYbumMv" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{click:$model._callModelFn.bind($model, 'panel1Click')}" __cid="cYbumMv"> 
+    <div class="x-panel-top cYbumMv" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cYbumMv"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar welcome cYbumMv" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cYbumMv"> 
+        <div class="x-titlebar-left cYbumMv" xid="left1" __cid="cYbumMv"> 
+          <span xid="welTittle" __cid="cYbumMv" class="cYbumMv" data-bind="text:welTittle"/> 
+        </div>  
+        <div class="x-titlebar-right  cYbumMv" xid="right1" __cid="cYbumMv"> 
+          <div class="empty cYbumMv" __cid="cYbumMv"/>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYbumMv" xid="button2" style="font:0.44rem 微软雅黑;padding:0.2rem 0.4rem;background: linear-gradient(#5C81CA,#2F62BB )" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button1Click')}" __cid="cYbumMv"> 
+            <i xid="i2" __cid="cYbumMv" class="cYbumMv"/>  
+            <span xid="span2" __cid="cYbumMv" class="cYbumMv">盘点菜单</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYbumMv" xid="button1" style="font:0.44rem 微软雅黑;padding:0.2rem;display:none;background: linear-gradient(#5C81CA,#2F62BB )" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button2Click')}" __cid="cYbumMv"> 
+            <i xid="i1" __cid="cYbumMv" class="cYbumMv"/>  
+            <span xid="span1" __cid="cYbumMv" class="cYbumMv">盘点完成</span> 
+          </a> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cYbumMv" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cYbumMv"> 
+      <div xid="div1" __cid="cYbumMv" class="cYbumMv"> 
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control cYbumMv" xid="input1" style="height:0.6rem;opacity:0" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input1Keydown')}" __cid="cYbumMv"/>  
+        <label xid="andonTit" class="tittle cYbumMv" style="display:none;margin-top:-0.3rem" __cid="cYbumMv" data-bind="text:andonTittle"/>  
+        <div xid="mainCon" __cid="cYbumMv" class="cYbumMv"> 
+          <label xid="label1" class="tittle cYbumMv" style="margin-top:-0.3rem" __cid="cYbumMv" data-bind="text:tittle"/>  
+          <div xid="locationACon" style="display:none" __cid="cYbumMv" class="cYbumMv" data-bind="style:{ color: currentProfit.get()  }"> 
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row cYbumMv" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYbumMv"> 
+              <div class="x-col location cYbumMv" xid="locationA" __cid="cYbumMv"> 
+                <span style="color:#000000" __cid="cYbumMv" class="cYbumMv" data-bind="text:location"/> 
+              </div> 
+            </div> 
+          </div>  
+          <div xid="locationBCon" style="display:none" __cid="cYbumMv" class="cYbumMv" data-bind="style:{ background: currentProfit.get()  }"> 
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row cYbumMv" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYbumMv"> 
+              <div class="x-col locationB cYbumMv" xid="locationB" __cid="cYbumMv"> 
+                <span __cid="cYbumMv" class="cYbumMv" data-bind="text:location"/> 
+              </div> 
+            </div> 
+          </div>  
+          <div xid="proDesCon" style="display:none;font-family:微软雅黑;font-weight:bold" __cid="cYbumMv" class="cYbumMv"> 
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row cYbumMv" xid="row3" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYbumMv"> 
+              <div class="x-col cYbumMv" xid="col1" __cid="cYbumMv"> 
+                <span xid="type" style="color:red;font:bold 0.8rem 微软雅黑" __cid="cYbumMv" class="cYbumMv" data-bind="text:proType"/> 
+              </div>  
+              <div class="x-col cYbumMv" xid="col2" __cid="cYbumMv"> 
+                <span xid="proid" class="proId cYbumMv" __cid="cYbumMv" data-bind="text:proId"/> 
+              </div> 
+            </div>  
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row cYbumMv" xid="row4" style="margin-top:-0.4rem" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYbumMv"> 
+              <div class="x-col cYbumMv" xid="col13" __cid="cYbumMv"> 
+                <span xid="proDes" class="proDes cYbumMv" __cid="cYbumMv" data-bind="text:proDes"/> 
+              </div> 
+            </div> 
+          </div>  
+          <div xid="inputNumCon" style="text-align:center;display:none;" __cid="cYbumMv" class="cYbumMv"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control inputNum cYbumMv" xid="inputNum" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'inputNumKeydown')}" data-config="{&quot;dataType&quot;:&quot;Integer&quot;}" __cid="cYbumMv"/> 
+          </div> 
+        </div>  
+        <div xid="gunCon" style="text-align:center;display:none;" __cid="cYbumMv" class="cYbumMv"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control inputNum cYbumMv" xid="inputGun" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'inputGunKeydown')}" data-config="{&quot;dataType&quot;:&quot;Integer&quot;}" __cid="cYbumMv"/> 
+        </div>  
+        <div xid="successCon" class="successCon cYbumMv" style="text-align:center" __cid="cYbumMv"> 
+          <span xid="successMsg" __cid="cYbumMv" class="cYbumMv"/> 
+        </div>  
+        <div xid="lightCon" class="successCon cYbumMv" __cid="cYbumMv"> 
+          <span xid="lightMsg" style="text-align:left" __cid="cYbumMv" class="cYbumMv"/> 
+        </div>  
+        <div xid="errorCon" class="errorCon cYbumMv" __cid="cYbumMv"> 
+          <span xid="errorMsg" __cid="cYbumMv" class="cYbumMv"/> 
+        </div>  
+        <div xid="okCon" class="okCon cYbumMv" __cid="cYbumMv"> 
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cYbumMv" xid="row8" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYbumMv"> 
+            <div class="x-col cYbumMv" xid="col12" __cid="cYbumMv"> 
+              <span __cid="cYbumMv" class="cYbumMv">一旦确认，此货位将被记录盘点完毕，如果有差异，将直接记录，是否确认货位中商品已经全部盘点完毕？</span> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cYbumMv" xid="row2" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYbumMv"> 
+            <div class="x-col cYbumMv" xid="col14" __cid="cYbumMv"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYbumMv" xid="btnOk" style="background:linear-gradient(#6083CB,#2E61BA)" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'btnOkClick')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cYbumMv"> 
+                <i xid="i1" __cid="cYbumMv" class="cYbumMv"/>  
+                <span xid="span1" __cid="cYbumMv" class="cYbumMv">确定</span> 
+              </a> 
+            </div>  
+            <div class="x-col cYbumMv" xid="col15" __cid="cYbumMv"> 
+              <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYbumMv" xid="btnCancel" style="background:linear-gradient(#6083CB,#2E61BA)" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'btnCancelClick')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cYbumMv"> 
+                <i xid="i2" __cid="cYbumMv" class="cYbumMv"/>  
+                <span xid="span2" __cid="cYbumMv" class="cYbumMv">取消</span> 
+              </a> 
+            </div> 
+          </div> 
+        </div>  
+        <div xid="buttonCon" style="text-align:center;margin-top:0.5rem;display:none" __cid="cYbumMv" class="cYbumMv"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYbumMv" xid="button3" style="margin-right:0.5rem;background: linear-gradient(#5C81CA,#2F62BB )" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button3Click')}" __cid="cYbumMv"> 
+            <i xid="i2" __cid="cYbumMv" class="cYbumMv"/>  
+            <span xid="span2" __cid="cYbumMv" class="cYbumMv">继续盘点</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYbumMv" xid="button4" style="margin-left:0.5rem;background: linear-gradient(#5C81CA,#2F62BB )" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button4Click')}" __cid="cYbumMv"> 
+            <i xid="i3" __cid="cYbumMv" class="cYbumMv"/>  
+            <span xid="span3" __cid="cYbumMv" class="cYbumMv">退出盘点</span> 
+          </a> 
+        </div> 
+      </div>  
+      <div style="position:fixed; bottom:0;background-color:#d9d9d9;font-family:微软雅黑;font-weight:bold;font-size:0.5rem;width:100%;color:#000000" __cid="cYbumMv" class="cYbumMv"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cYbumMv" xid="row6" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYbumMv"> 
+          <div class="x-col cYbumMv" xid="col6" style="margin-left:0.3rem" __cid="cYbumMv">已盘点SKU:
+            <span __cid="cYbumMv" class="cYbumMv" data-bind="text:skuNum"/> 
+          </div>  
+          <div class="x-col cYbumMv" xid="col7" style="text-align:right;margin-right:0.3rem" __cid="cYbumMv">已盘点总数:
+            <span __cid="cYbumMv" class="cYbumMv" data-bind="text:total"/> 
+          </div> 
+        </div> 
+      </div> 
+    </div>  
+    <style __cid="cYbumMv" class="cYbumMv">.x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p87104c10ceb2476fa52636fe66741d9d-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;height&quot;:&quot;65%&quot;,&quot;resizable&quot;:true,&quot;status&quot;:&quot;normal&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="cYbumMv" class="cYbumMv"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cYbumMv" __cid="cYbumMv"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cYbumMv" style="display:none;" __cid="cYbumMv">  
+      <div class="x-dialog-title cYbumMv" __cid="cYbumMv"> 
+        <button class="close cYbumMv" __cid="cYbumMv"> 
+          <span __cid="cYbumMv" class="cYbumMv">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cYbumMv" __cid="cYbumMv"/> 
+      </div>  
+      <div class="x-dialog-body cYbumMv" __cid="cYbumMv"/> 
+    </div> 
+  </span> 
+</div>

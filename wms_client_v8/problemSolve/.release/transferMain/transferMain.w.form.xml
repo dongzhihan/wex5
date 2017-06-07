@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window ceymAR3" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="ceymAR3" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.btnstyle.ceymAR3{padding: 0.3rem 0.3rem 0.3rem 0.3rem}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="ceymAR3" class="ceymAR3"></div>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar ceymAR3" xid="panel1" tabindex="1" bind-click="panel1Click" bind-keypress="panel1Keypress" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="ceymAR3"> 
+    <div class="x-panel-top ceymAR3" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ceymAR3"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/wms_client_v8/problemSolve/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar ceymAR3" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="ceymAR3"> 
+        <div class="x-titlebar-title ceymAR3" style="width:262px;" xid="title1" __cid="ceymAR3">请选择移货工具类型</div>
+      </div>
+    </div>  
+    <div class="x-panel-content ceymAR3" xid="content1" style="background-color:transparent;height:100%;width:100%;top:2rem" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ceymAR3"> 
+      <div xid="divmain" style="height:65%;margin-top:0.5rem;" __cid="ceymAR3" class="ceymAR3"> 
+        <div xid="div1" style="width:65%;height:12%;margin:0.5rem auto auto auto;" class="center-block ceymAR3" __cid="ceymAR3"/>  
+        <div xid="div3" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block   ceymAR3" __cid="ceymAR3"></div>  
+        <div xid="div4" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block ceymAR3" __cid="ceymAR3"></div>  
+        <div xid="div5" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block ceymAR3" __cid="ceymAR3"></div>  
+        <div xid="div6" style="width:60%;height:12%;margin:10px auto auto auto;" class="center-block ceymAR3" __cid="ceymAR3"/> 
+      </div>  
+      <div xid="div7" style="height:20%;text-align:center;line-height:normal;width:80%;" class="center-block ceymAR3" __cid="ceymAR3">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row ceymAR3" xid="row2" style="margin:50px 0px 0px 0px;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="ceymAR3"> 
+          <div class="x-col ceymAR3" xid="col4" style="width:20%;" __cid="ceymAR3"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default ceymAR3" xid="mainbtn" style="width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-weight:bold;font-family:微软雅黑;" bind-click="mainbtnClick" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;主页&quot;}" __cid="ceymAR3"> 
+              <i xid="i3" __cid="ceymAR3" class="ceymAR3"/>  
+              <span xid="span3" __cid="ceymAR3" class="ceymAR3">主页</span>
+            </a> 
+          </div>  
+          <div class="x-col ceymAR3" xid="col5" style="width:20%;" __cid="ceymAR3"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default ceymAR3" xid="button4" style="font-weight:bold;width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;" bind-click="button4Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;库房&quot;}" __cid="ceymAR3"> 
+              <i xid="i4" __cid="ceymAR3" class="ceymAR3"/>  
+              <span xid="span4" __cid="ceymAR3" class="ceymAR3">库房</span>
+            </a> 
+          </div>  
+          <div class="x-col ceymAR3" xid="col6" style="width:20%;" __cid="ceymAR3"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default ceymAR3" xid="quit" style="font-weight:bold;width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;" bind-click="quitClick" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="ceymAR3"> 
+              <i xid="i5" __cid="ceymAR3" class="ceymAR3"/>  
+              <span xid="span5" __cid="ceymAR3" class="ceymAR3">返回</span>
+            </a> 
+          </div> 
+        </div>
+      </div>
+    </div>  
+    <style __cid="ceymAR3" class="ceymAR3">.x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pbe39cbbb0d5d4958a3e5ef99866767d8-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

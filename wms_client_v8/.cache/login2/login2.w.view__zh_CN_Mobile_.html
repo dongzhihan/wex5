@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cjemEJj" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cjemEJj" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/input/password,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/messageDialog/messageDialog,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">null</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cjemEJj" class="cjemEJj"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;src&quot;:&quot;$model/UI2/wms_client_v8/login3.w&quot;}" __cid="cjemEJj" class="cjemEJj"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cjemEJj" __cid="cjemEJj"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cjemEJj" style="display:none;" __cid="cjemEJj">  
+      <div class="x-dialog-title cjemEJj" __cid="cjemEJj"> 
+        <button class="close cjemEJj" __cid="cjemEJj"> 
+          <span __cid="cjemEJj" class="cjemEJj">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cjemEJj" __cid="cjemEJj"/> 
+      </div>  
+      <div class="x-dialog-body cjemEJj" __cid="cjemEJj"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pc14c6a1e77364df981a96c11c7288c78-iosstatusbar cjemEJj" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cjemEJj"> 
+    <div class="x-panel-top cjemEJj" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cjemEJj"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url(@justepContextPath@/v_64f5380592074259a9209b5aefa351c7l_zh_CNs_d_m/wms_client_v8/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar cjemEJj" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cjemEJj"> 
+        <div class="x-titlebar-title cjemEJj" style="width:262px;" xid="title1" __cid="cjemEJj">请输入登录信息</div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cjemEJj" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cjemEJj"> 
+      <label xid="label3" style="text-align:center;font-size:0.6rem;font-family:微软雅黑;width:100%;clip:rect(20px auto auto auto);padding:25px 25px 10px 25px;font-weight:normal;" dir="rtl" __cid="cjemEJj" class="cjemEJj" data-bind="text:welcome"/>  
+      <label xid="label3" style="text-align:center;font-size:0.6rem;font-family:微软雅黑;width:100%;clip:rect(20px auto auto auto);padding:0px 25px 25px 25px;font-weight:normal;" dir="rtl" __cid="cjemEJj" class="cjemEJj">请输入密码</label>  
+      <img src="@justepContextPath@/v_dc156081fddb49e3839484c10e27b542l_zh_CNs_d_m/wms_client_v8/img/passwordlogo.png" alt="" xid="image1" class="center-block cjemEJj" align="middle" style="width:252px;height:194px;" __cid="cjemEJj"/>  
+      <input component="$model/UI2/system/components/justep/input/password" class="form-control center-block cjemEJj" xid="input1" style="width:50%;" type="password" data-bind="component:{name:'$model/UI2/system/components/justep/input/password'},event:{keydown:$model._callModelFn.bind($model, 'input1Keypress')}" __cid="cjemEJj"/>  
+      <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cjemEJj" xid="button2" style="background-color:#BFBFBF;color:#000000;text-decoration:none;margin-top:10px;font-weight:bold;width:2rem;font-size:0.6rem;font-family:微软雅黑;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;退出&quot;}" __cid="cjemEJj"> 
+        <i xid="i1" __cid="cjemEJj" class="cjemEJj"/>  
+        <span xid="span1" __cid="cjemEJj" class="cjemEJj">退出</span> 
+      </a> 
+    </div>  
+    <style __cid="cjemEJj" class="cjemEJj">.x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc14c6a1e77364df981a96c11c7288c78-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog2" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog2Receive" data-config="{&quot;status&quot;:&quot;normal&quot;}" __cid="cjemEJj" class="cjemEJj"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cjemEJj" __cid="cjemEJj"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cjemEJj" style="display:none;" __cid="cjemEJj">  
+      <div class="x-dialog-title cjemEJj" __cid="cjemEJj"> 
+        <button class="close cjemEJj" __cid="cjemEJj"> 
+          <span __cid="cjemEJj" class="cjemEJj">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cjemEJj" __cid="cjemEJj"/> 
+      </div>  
+      <div class="x-dialog-body cjemEJj" __cid="cjemEJj"/> 
+    </div> 
+  </span>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cjemEJj" class="cjemEJj"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/messageDialog/messageDialog" xid="messageDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/messageDialog/messageDialog'}" data-config="{&quot;message&quot;:&quot;密码不能为空！&quot;,&quot;title&quot;:&quot;登陆提示&quot;,&quot;type&quot;:&quot;OK&quot;}" __cid="cjemEJj" class="cjemEJj"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal-overlay cjemEJj" __cid="cjemEJj"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal cjemEJj" __cid="cjemEJj">  
+      <div class="x-modal-inner cjemEJj" __cid="cjemEJj"> 
+        <div class="x-modal-title cjemEJj" __cid="cjemEJj">登陆提示</div>  
+        <div class="x-modal-text cjemEJj" __cid="cjemEJj">密码不能为空！</div>  
+        <input class="x-modal-prompt-input cjemEJj" type="text" __cid="cjemEJj"/> 
+      </div>  
+      <div class="x-modal-buttons cjemEJj" __cid="cjemEJj"> 
+        <a class="x-modal-button x-modal-button-bold OK cjemEJj" value="ok" __cid="cjemEJj">确定</a>  
+        <a class="x-modal-button x-modal-button-bold Yes cjemEJj" value="yes" __cid="cjemEJj">是</a>  
+        <a class="x-modal-button x-modal-button-bold No cjemEJj" value="no" __cid="cjemEJj">否</a>  
+        <a class="x-modal-button x-modal-button-bold Cancel cjemEJj" value="cancel" __cid="cjemEJj">取消</a> 
+      </div> 
+    </div> 
+  </span> 
+</div>

@@ -1,0 +1,94 @@
+.button
+{
+	font-family:微软雅黑;
+	font-size:0.37rem;
+	margin-right:0.3rem;
+}
+
+.container{
+	font:bold 0.5rem 微软雅黑;
+	background:#BDD7EE;
+	padding:0.3rem;
+	text-align:center;
+	display: none;
+	margin-bottom:0.05rem;
+	width:100%
+}
+
+.title
+{
+	width:100%;
+	text-align:center;
+	margin:0 0 0.5rem 0;
+	font:bold 0.5rem 微软雅黑;
+	color:#000000
+}
+
+.dateDes{
+	font:0.5rem 微软雅黑;
+	color:#ffffff;
+}
+
+.dateIn{
+	font:0.5rem 微软雅黑;
+	color:#000000;
+	line-height:1rem;
+	display:-webkit-box;
+}
+
+.btnOpation{
+	font:0.5rem 微软雅黑;
+	color:#ffffff;
+	width:60%;
+	margin-top:0.3rem;
+	box-shadow:0 0.1rem 0.1rem #8b8b8b;
+}
+
+.btnOk{
+	width:auto;
+	background:linear-gradient(#6284CB,#3061B9);
+	margin:0.5rem 0.5rem 0 0.5rem;
+}
+
+.successCon {
+	display:none;
+	font-family: 微软雅黑;
+	text-align: center;
+	background: linear-gradient(#82B664, #61A235);
+	padding: 0.8rem;
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	margin-top: 0.3rem;
+	font-size: 0.44rem;
+	color: white;
+}
+
+.proId{
+	line-height:1rem;
+	display:block;
+	font-weight:bold;
+	font-size:0.38rem;
+	text-align:right;
+	color:#000000;
+}
+.proDes{
+	font-size:0.44rem;
+	font-weight:bold;
+	color:#0033cc
+}
+.yw {
+	font-size:0.56rem;
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+.errorCon {
+	display:none;
+	font-family: 微软雅黑;
+	text-align: center;
+	background: #FF0000;
+	padding: 0.8rem;
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	margin-top: 0.3rem;
+	font-size: 0.44rem;
+	color: white;
+}

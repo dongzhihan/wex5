@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cYB7NZb" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cYB7NZb" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/scrollView/scrollView,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/labelEdit/labelEdit,$model/UI2/system/components/justep/panel/panel,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.yw.cYB7NZb{text-algin: center; font-family: Calibri} a.cYB7NZb{font-size: 0.4rem; background: gray} label.cYB7NZb{font-size: 0.5rem; font-family: 微软雅黑; text-align: left; font-weight: bold} input.cYB7NZb{display: inline-block} .title.cYB7NZb{text-align: center; margin: 0rem 0 0.5rem 0; width: 100%; color: black} .successCon.cYB7NZb{display: none; font-family: 微软雅黑; text-align: center; background: linear-gradient(rgb(130, 182, 100), rgb(97, 162, 53)); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); font-size: 0.44rem; color: white} .num.cYB7NZb{font-weight: bold; text-decoration: underline} .weight.cYB7NZb{font-weight: normal} .msgLab.cYB7NZb{font-size: 0.5rem; font-weight: bold; font-family: 微软雅黑; width: auto; display: inline-block; color: rgb(0, 0, 0); text-align: left; width: 3rem} .SmsgLab.cYB7NZb{font-size: 0.44rem} .msgValue.cYB7NZb{font-family: Calibri; color: rgb(0, 0, 255)} .errorCon.cYB7NZb{display: none; background-color: rgb(255, 0, 0); font-family: 微软雅黑; font-weight: bold; color: rgb(255, 255, 255); font-size: 0.44rem; text-align: center; padding: 0.5rem; box-shadow: 0 0.1rem 0.1rem rgb(139, 139, 139)}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onParamsReceive:modelParamsReceive" __cid="cYB7NZb" class="cYB7NZb"/>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p7be220eb613141739a24acb0c32330a1-iosstatusbar cYB7NZb" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{click:$model._callModelFn.bind($model, 'panel1Click')}" __cid="cYB7NZb"> 
+    <div class="x-panel-top cYB7NZb" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cYB7NZb"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cYB7NZb" xid="titleBar1" style="background: linear-gradient(#FFC84C, #E2B600);box-shadow: 0rem 0.1rem 0.1rem #8B8B8B;height:3rem" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cYB7NZb"> 
+        <div class="x-titlebar-left cYB7NZb" xid="left1" style="display:-webkit-box;" __cid="cYB7NZb"> 
+          <div style="display:inline-block;width:7rem" __cid="cYB7NZb" class="cYB7NZb"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYB7NZb" xid="button1" style="width:2.6rem;margin-right:0.6rem;margin-bottom:0.3rem;background:linear-gradient(#9989ce,#3061b9)" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button1Click')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cYB7NZb"> 
+              <i xid="i1" __cid="cYB7NZb" class="cYB7NZb"/>  
+              <span xid="span1" __cid="cYB7NZb" class="cYB7NZb"> 
+                <span class="yw cYB7NZb" __cid="cYB7NZb">B</span>绑定笼车
+              </span> 
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYB7NZb" xid="button2" style="width:3.5rem;margin-bottom:0.3rem;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button2Click')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cYB7NZb"> 
+              <i xid="i2" __cid="cYB7NZb" class="cYB7NZb"/>  
+              <span xid="span2" __cid="cYB7NZb" class="cYB7NZb"> 
+                <span class="yw cYB7NZb" __cid="cYB7NZb">M</span>多目的地扫描
+              </span> 
+            </a> 
+          </div>  
+          <div style="display:inline-block;width:7rem" __cid="cYB7NZb" class="cYB7NZb"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYB7NZb" xid="button3" style="width:2.6rem;margin-right:0.6rem;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button3Click')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cYB7NZb"> 
+              <i xid="i3" __cid="cYB7NZb" class="cYB7NZb"/>  
+              <span xid="span3" __cid="cYB7NZb" class="cYB7NZb"> 
+                <span class="yw cYB7NZb" __cid="cYB7NZb">F</span>笼车已满
+              </span> 
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYB7NZb" xid="button4" style="width:3.5rem;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button4Click')}" __cid="cYB7NZb"> 
+              <i xid="i4" __cid="cYB7NZb" class="cYB7NZb"/>  
+              <span xid="span4" __cid="cYB7NZb" class="cYB7NZb"> 
+                <span class="yw cYB7NZb" __cid="cYB7NZb">S</span>单目的地扫描
+              </span> 
+            </a> 
+          </div> 
+        </div>  
+        <div class="x-titlebar-right  cYB7NZb" xid="right1" __cid="cYB7NZb"> 
+          <div class="empty cYB7NZb" __cid="cYB7NZb"/>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cYB7NZb" xid="button5" style="width:2rem" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button5Click')}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cYB7NZb"> 
+            <i xid="i5" __cid="cYB7NZb" class="cYB7NZb"/>  
+            <span xid="span5" style="text-algin:center" __cid="cYB7NZb" class="cYB7NZb"> 
+              <span class="yw cYB7NZb" __cid="cYB7NZb" data-bind="event:{click:$model._callModelFn.bind($model, 'span8Click')}">E
+                <br __cid="cYB7NZb" class="cYB7NZb"/> 
+              </span>退出
+            </span> 
+          </a> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cYB7NZb" xid="content1" style="top:3rem" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cYB7NZb"> 
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full cYB7NZb" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0,&quot;routable&quot;:false,&quot;slidable&quot;:false,&quot;swipe&quot;:false,&quot;wrap&quot;:false}" __cid="cYB7NZb"> 
+        <div class="x-contents-content active cYB7NZb" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content2Active;onInactive:content2Inactive" __cid="cYB7NZb"> 
+          <div xid="div1" __cid="cYB7NZb" class="cYB7NZb"> 
+            <label xid="label1" class="title cYB7NZb" style="margin-top:0.5rem" __cid="cYB7NZb" data-bind="text:Btitle"/>  
+            <div component="$model/UI2/system/components/justep/labelEdit/labelEdit" class="x-label-edit x-label30 cYB7NZb" xid="labelEdit1" style="display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/labelEdit/labelEdit'}" __cid="cYB7NZb"> 
+              <label class="x-label cYB7NZb" xid="label2" style="width:auto;color:#000000" __cid="cYB7NZb">目的地ID：</label>  
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control x-edit cYB7NZb" xid="input1" style="width:6rem;height:0.8rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input1Keydown')}" __cid="cYB7NZb"/> 
+            </div>  
+            <div component="$model/UI2/system/components/justep/labelEdit/labelEdit" class="x-label-edit x-label30 cYB7NZb" xid="labelEdit2" style="display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/labelEdit/labelEdit'}" __cid="cYB7NZb"> 
+              <label class="x-label cYB7NZb" xid="label3" style="width:auto;color:#000000" __cid="cYB7NZb">笼车号码：</label>  
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control x-edit cYB7NZb" xid="input2" style="width:6rem;height:0.8rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input2Keydown')}" __cid="cYB7NZb"/> 
+            </div>  
+            <div xid="BErrCon" class="errorCon cYB7NZb" __cid="cYB7NZb"> 
+              <span xid="BErrMsg" __cid="cYB7NZb" class="cYB7NZb"/> 
+            </div> 
+          </div> 
+        </div>  
+        <div class="x-contents-content cYB7NZb" xid="content3" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content3Active;onInactive:content3Inactive" __cid="cYB7NZb"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cYB7NZb" xid="input4" style="opacity:0;height:0.6rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input4Keydown')}" __cid="cYB7NZb"/>  
+          <label xid="label6" class="title cYB7NZb" __cid="cYB7NZb" data-bind="text:Mtitle"/>  
+          <div xid="orderDes" style="display:none;margin-top:-0.5rem" __cid="cYB7NZb" class="cYB7NZb"> 
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row cYB7NZb" xid="row1" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYB7NZb"> 
+              <div class="x-col cYB7NZb" xid="col1" style="display:inline-block" __cid="cYB7NZb"> 
+                <span class="msgLab cYB7NZb" __cid="cYB7NZb">订单号码：</span> 
+              </div>  
+              <div class="x-col cYB7NZb" xid="col2" __cid="cYB7NZb"> 
+                <span class="msgLab msgValue cYB7NZb" xid="shipment" __cid="cYB7NZb" data-bind="text:shipment"/> 
+              </div> 
+            </div>  
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row cYB7NZb" xid="row2" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYB7NZb"> 
+              <div class="x-col cYB7NZb" xid="col3" style="display:inline-block" __cid="cYB7NZb"> 
+                <span class="msgLab cYB7NZb" __cid="cYB7NZb">Sort Code：</span> 
+              </div>  
+              <div class="x-col cYB7NZb" xid="col4" __cid="cYB7NZb"> 
+                <span class="msgLab msgValue cYB7NZb" xid="sortCodeNo" __cid="cYB7NZb" data-bind="text:sortCodeNo"/> 
+              </div> 
+            </div>  
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row cYB7NZb" xid="row3" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYB7NZb"> 
+              <div class="x-col cYB7NZb" xid="col5" style="display:inline-block" __cid="cYB7NZb"> 
+                <span class="msgLab  cYB7NZb" __cid="cYB7NZb">笼车号码：</span> 
+              </div>  
+              <div class="x-col cYB7NZb" xid="col6" __cid="cYB7NZb"> 
+                <span class="msgLab msgValue cYB7NZb" xid="containerName" __cid="cYB7NZb" data-bind="text:containerName"/> 
+              </div> 
+            </div> 
+          </div>  
+          <div xid="MErrCon" class="errorCon cYB7NZb" __cid="cYB7NZb"> 
+            <span xid="MErrMsg" __cid="cYB7NZb" class="cYB7NZb"/> 
+          </div>  
+          <div xid="MSuccessCon" class="successCon cYB7NZb" __cid="cYB7NZb"> 
+            <span xid="MSuccessMsg" __cid="cYB7NZb" class="cYB7NZb"/> 
+          </div> 
+        </div>  
+        <div class="x-contents-content cYB7NZb" xid="content4" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content4Active;onInactive:content4Inactive" __cid="cYB7NZb"> 
+          <label xid="label4" class="title cYB7NZb" style="margin-top:0.5rem" __cid="cYB7NZb">扫描已满笼车号码</label>  
+          <div component="$model/UI2/system/components/justep/labelEdit/labelEdit" class="x-label-edit x-label30 cYB7NZb" xid="labelEdit3" style="display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/labelEdit/labelEdit'}" __cid="cYB7NZb"> 
+            <label class="x-label cYB7NZb" xid="label5" style="width:auto;color:#000000" __cid="cYB7NZb">已满笼车：</label>  
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control x-edit cYB7NZb" xid="input3" style="width:6rem;height:0.8rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input3Keydown')}" __cid="cYB7NZb"/> 
+          </div>  
+          <div xid="FErrCon" class="errorCon cYB7NZb" __cid="cYB7NZb"> 
+            <span xid="FErrMsg" __cid="cYB7NZb" class="cYB7NZb"/> 
+          </div>  
+          <div xid="FsuccessCon" class="successCon cYB7NZb" __cid="cYB7NZb"> 
+            <span xid="FsuccessMsg" __cid="cYB7NZb" class="cYB7NZb"/> 
+          </div> 
+        </div>  
+        <div class="x-contents-content cYB7NZb" xid="content5" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content5Active;onInactive:content5Inactive" __cid="cYB7NZb"> 
+          <div xid="div3" __cid="cYB7NZb" class="cYB7NZb"> 
+            <div xid="SorderDes" style="display:none;background:#BDD7EE;line-height:0.5rem" __cid="cYB7NZb" class="cYB7NZb"> 
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row cYB7NZb" xid="row5" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYB7NZb"> 
+                <div class="x-col cYB7NZb" xid="col9" style="display:inline-block" __cid="cYB7NZb"> 
+                  <span class="msgLab SmsgLab cYB7NZb" __cid="cYB7NZb">Sort Code：</span> 
+                </div>  
+                <div class="x-col cYB7NZb" xid="col10" __cid="cYB7NZb"> 
+                  <span class="msgLab msgValue cYB7NZb" xid="sortCodeNo" __cid="cYB7NZb" data-bind="text:sortCodeNo"/> 
+                </div> 
+              </div>  
+              <div component="$model/UI2/system/components/justep/row/row" class="x-row cYB7NZb" xid="row6" style="display:-webkit-box;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cYB7NZb"> 
+                <div class="x-col cYB7NZb" xid="col11" style="display:inline-block" __cid="cYB7NZb"> 
+                  <span class="msgLab SmsgLab cYB7NZb" __cid="cYB7NZb">笼车号码：</span> 
+                </div>  
+                <div class="x-col cYB7NZb" xid="col12" __cid="cYB7NZb"> 
+                  <span class="msgLab msgValue cYB7NZb" xid="containerName" __cid="cYB7NZb" data-bind="text:containerName"/> 
+                </div> 
+              </div> 
+            </div>  
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cYB7NZb" xid="input5" style="opacity:0;height:0.6rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input5Keydown')}" __cid="cYB7NZb"/>  
+            <label xid="label7" class="title cYB7NZb" style="width:100%;" __cid="cYB7NZb" data-bind="text:Stitle"/>  
+            <div xid="SErrCon" class="errorCon cYB7NZb" __cid="cYB7NZb"> 
+              <span xid="SErrMsg" __cid="cYB7NZb" class="cYB7NZb"/> 
+            </div>  
+            <div xid="SSuccessCon" class="successCon cYB7NZb" __cid="cYB7NZb"> 
+              <span xid="SSuccessMsg" __cid="cYB7NZb" class="cYB7NZb"/> 
+            </div> 
+          </div> 
+        </div> 
+      </div> 
+    </div>  
+    <div style="position:fixed; bottom:0;font-family:微软雅黑;font-weight:bold;text-align:center;font-size:0.44rem;width:100%" __cid="cYB7NZb" class="cYB7NZb"> 
+      <div class="x-scroll-view cYB7NZb" style="height:5.5rem;" supportpulldown="true" __cid="cYB7NZb"> 
+        <div class="x-scroll cYB7NZb" component="$model/UI2/system/components/justep/scrollView/scrollView" xid="scrollView8" data-bind="component:{name:'$model/UI2/system/components/justep/scrollView/scrollView'}" __cid="cYB7NZb"> 
+          <div class="x-scroll-content cYB7NZb" xid="div27" __cid="cYB7NZb"> 
+            <ul class="x-list x-list-template hide cYB7NZb" component="$model/UI2/system/components/justep/list/list" xid="list1" style="dispaly:none" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'},foreach:{data:$model.foreach_list1($element),afterRender:$model.foreach_afterRender_list1.bind($model,$element)}" data-config="{&quot;data&quot;:&quot;data1&quot;,&quot;limit&quot;:-1}" __cid="cYB7NZb"> 
+              <li xid="li1" style="background:#92d050;margin-top:0.05rem;color:#000000" __cid="cYB7NZb" class="cYB7NZb"> 
+                <span xid="span6" style="margin-left:0.3rem;" __cid="cYB7NZb" class="cYB7NZb" data-bind="text:ref('sortCode')"/>-
+                <span xid="span7" __cid="cYB7NZb" class="cYB7NZb" data-bind="text:ref(&quot;containerName&quot;)"/> 
+              </li> 
+            </ul> 
+          </div> 
+        </div> 
+      </div>  
+      <div __cid="cYB7NZb" class="cYB7NZb"> 
+        <span style="display:inline-block;padding:0.5rem;color:#000000;background-color:#d9d9d9;width:100%" xid="prvmsg" __cid="cYB7NZb" class="cYB7NZb">上一订单：
+          <span xid="span1" __cid="cYB7NZb" class="cYB7NZb" data-bind="text:prvOrder"/> 
+        </span> 
+      </div> 
+    </div>  
+    <style __cid="cYB7NZb" class="cYB7NZb">.x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p7be220eb613141739a24acb0c32330a1-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div> 
+</div>

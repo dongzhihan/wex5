@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cE7ri2u" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cE7ri2u" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cE7ri2u" class="cE7ri2u"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar cE7ri2u" xid="panel1" bind-click="panel1Click" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cE7ri2u"> 
+    <div class="x-panel-top cE7ri2u" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cE7ri2u">
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cE7ri2u" xid="titleBar1" style="background: linear-gradient(#80B860, #61A335);box-shadow: 0rem 0.1rem 0.1rem #8B8B8B;" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cE7ri2u"> 
+        <div class="x-titlebar-title cE7ri2u" xid="title1" __cid="cE7ri2u">
+          <span style="font-family:微软雅黑;color:#FFFFFF;font-weight:bold;font-size:0.5rem" bind-text="comename" __cid="cE7ri2u" class="cE7ri2u">信息</span>
+        </div> 
+      </div>
+    </div>  
+    <div class="x-panel-content cE7ri2u" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cE7ri2u"> 
+      <div xid="div1" __cid="cE7ri2u" class="cE7ri2u"> 
+        <label xid="label2" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;font-weight:normal;font-size:0.65rem;color:#000000;" dir="rtl" __cid="cE7ri2u" class="cE7ri2u">请扫描工作站条码</label>  
+        <img src="$model/UI2/wms_client_v8/img/computer.png" alt="" xid="image1" class="center-block cE7ri2u" align="middle" style="height:194px;margin-top: 0.5rem" __cid="cE7ri2u"/>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control cE7ri2u" xid="input1" bind-keydown="input1Keydown" style="opacity:0" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cE7ri2u"/>
+      </div>
+    </div>  
+    <div class="x-panel-bottom cE7ri2u" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cE7ri2u"/>
+    <style __cid="cE7ri2u" class="cE7ri2u">.x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pe5f02634b41b4136bd1d5a3e9fc0aaa0-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div>
+</div>

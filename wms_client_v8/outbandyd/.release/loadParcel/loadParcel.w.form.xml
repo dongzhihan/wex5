@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cUFzie2" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cUFzie2" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/labelEdit/labelEdit,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.success.cUFzie2{display: inline-block; font-family: 微软雅黑; font-size: 0.5rem; font-weight: normal; text-align: center; padding: 0.5rem; background: linear-gradient(rgb(128, 184, 96), rgb(97, 163, 53)); box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139)} label.cUFzie2{font-size: 0.5rem; font-family: 微软雅黑; text-align: right; font-weight: bold} input.cUFzie2{display: inline-block} .tittle.cUFzie2{text-align: center; margin: 0rem 0 0.5rem 0; width: 100%; color: black}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cUFzie2" class="cUFzie2"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar cUFzie2" xid="panel1" bind-click="panel1Click" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cUFzie2"> 
+    <div class="x-panel-top cUFzie2" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cUFzie2"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cUFzie2" xid="titleBar1" style="background: linear-gradient(#FFC744, #E5B600);box-shadow: 0rem 0.1rem 0.1rem #8B8B8B;display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cUFzie2"> 
+        <div class="x-titlebar-right  cUFzie2" xid="right1" __cid="cUFzie2">
+          <div class="empty cUFzie2" __cid="cUFzie2"/>
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cUFzie2" xid="button2" bind-click="button2Click" style="padding:0.2rem 0.3rem;font-size:0.4rem;margin-right:0.15rem;background: linear-gradient(#5C81CA,#2F62BB );" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cUFzie2"> 
+            <i xid="i2" __cid="cUFzie2" class="cUFzie2"/>  
+            <span xid="span2" style="font-weight:normal" __cid="cUFzie2" class="cUFzie2">退出</span> 
+          </a>
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cUFzie2" xid="content1" style="height:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cUFzie2"> 
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full cUFzie2" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0,&quot;routable&quot;:false}" __cid="cUFzie2"> 
+        <div class="x-contents-content active cUFzie2" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" __cid="cUFzie2"> 
+          <div __cid="cUFzie2" class="cUFzie2"> 
+            <div xid="mianCon" __cid="cUFzie2" class="cUFzie2"> 
+              <label xid="label1" bind-text="tittle" class="tittle cUFzie2" style="margin-top:0.5rem" __cid="cUFzie2"/>  
+              <div component="$model/UI2/system/components/justep/labelEdit/labelEdit" class="x-label-edit x-label30 cUFzie2" xid="labelEdit1" style="display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/labelEdit/labelEdit'}" __cid="cUFzie2"> 
+                <label class="x-label cUFzie2" xid="label2" style="width:3.5rem;color:#000000" __cid="cUFzie2">Sort Code：</label>  
+                <input component="$model/UI2/system/components/justep/input/input" class="form-control x-edit cUFzie2" xid="input1" style="width:6rem;height:0.8rem" bind-keydown="input1Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUFzie2"/> 
+              </div>  
+              <div component="$model/UI2/system/components/justep/labelEdit/labelEdit" class="x-label-edit x-label30 cUFzie2" xid="labelEdit2" style="display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/labelEdit/labelEdit'}" __cid="cUFzie2"> 
+                <label class="x-label cUFzie2" xid="label3" style="width:3.5rem;color:#000000" __cid="cUFzie2">笼车号码：</label>  
+                <input component="$model/UI2/system/components/justep/input/input" class="form-control x-edit cUFzie2" xid="input2" style="width:6rem;height:0.8rem" bind-keydown="input2Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUFzie2"/> 
+              </div>  
+              <div component="$model/UI2/system/components/justep/labelEdit/labelEdit" class="x-label-edit x-label30 cUFzie2" xid="labelEdit3" style="display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/labelEdit/labelEdit'}" __cid="cUFzie2"> 
+                <label class="x-label cUFzie2" xid="label4" style="width:3.5rem;color:#000000" __cid="cUFzie2">发货门：</label>  
+                <input component="$model/UI2/system/components/justep/input/input" class="form-control x-edit cUFzie2" xid="input3" style="width:6rem;height:0.8rem" bind-keydown="input3Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUFzie2"/> 
+              </div> 
+            </div>  
+            <div xid="errorCon" style="display:none;background-color:#FF0000;font-family:微软雅黑;font-weight:bold;color:#FFFFFF;font-size:0.5rem;text-align:center;padding:0.5rem;" dir="rtl" __cid="cUFzie2" class="cUFzie2"> 
+              <span xid="errorMsg" __cid="cUFzie2" class="cUFzie2"/> 
+            </div>  
+            <div xid="successCon" style="display:none" __cid="cUFzie2" class="cUFzie2"> 
+              <span xid="success" class="success cUFzie2" __cid="cUFzie2"/> 
+            </div> 
+          </div> 
+        </div> 
+      </div> 
+    </div>  
+    <style __cid="cUFzie2" class="cUFzie2">.x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pe3b3c35fe9b24a49a275464fd4a7012b-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

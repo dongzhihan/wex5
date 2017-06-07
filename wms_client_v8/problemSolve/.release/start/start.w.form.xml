@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cARJRRj" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cARJRRj" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cARJRRj" class="cARJRRj"></div>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar cARJRRj" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cARJRRj"> 
+    <div class="x-panel-top cARJRRj" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cARJRRj"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/wms_client_v8/problemSolveyh/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar cARJRRj" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cARJRRj">
+        <div class="x-titlebar-title cARJRRj" style="width:262px;" xid="title1" __cid="cARJRRj">请选择移货工具类型</div>
+      </div>
+    </div>  
+    <div class="x-panel-content cARJRRj" xid="content1" style="background-color:transparent;height:100%;width:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cARJRRj">
+      <div xid="div1" style="width:65%;height:12%;margin:0.5rem auto auto auto;" class="center-block cARJRRj" __cid="cARJRRj">
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnstyle cARJRRj" xid="button6" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:Calibri;font-weight:bold;" bind-click="button6Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cARJRRj"> 
+          <i xid="i6" __cid="cARJRRj" class="cARJRRj"/>  
+          <span xid="span6" __cid="cARJRRj" class="cARJRRj">1-原始容器固定</span>
+        </a>
+      </div>  
+      <div xid="div3" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block   cARJRRj" __cid="cARJRRj"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnstyle cARJRRj" xid="button8" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:Calibri;font-weight:bold;" bind-click="button8Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cARJRRj"> 
+          <i xid="i8" __cid="cARJRRj" class="cARJRRj"/>  
+          <span xid="span8" __cid="cARJRRj" class="cARJRRj">2-目的容器固定</span>
+        </a> 
+      </div>  
+      <div xid="div4" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block cARJRRj" __cid="cARJRRj"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnstyle cARJRRj" xid="button9" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:Calibri;font-weight:bold;" bind-click="button9Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cARJRRj"> 
+          <i xid="i9" __cid="cARJRRj" class="cARJRRj"/>  
+          <span xid="span9" __cid="cARJRRj" class="cARJRRj">3-原始&amp;目的容器固定</span>
+        </a> 
+      </div>  
+      <div xid="div5" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block cARJRRj" __cid="cARJRRj"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnstyle cARJRRj" xid="button10" style="background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:Calibri;font-weight:bold;text-align:center;width:100%;" bind-click="button10Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cARJRRj"> 
+          <i xid="i10" __cid="cARJRRj" class="cARJRRj"/>  
+          <span xid="span10" __cid="cARJRRj" class="cARJRRj">4-逐一移货</span>
+        </a> 
+      </div>  
+      <div xid="div7" style="height:20%;text-align:center;line-height:normal;width:80%;" class="center-block cARJRRj" __cid="cARJRRj">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cARJRRj" xid="row2" style="margin:50px 0px 0px 0px;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cARJRRj"> 
+          <div class="x-col cARJRRj" xid="col4" style="width:20%;" __cid="cARJRRj"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cARJRRj" xid="mainbtn" style="width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-weight:bold;font-family:微软雅黑;" bind-click="mainbtnClick" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;主页&quot;}" __cid="cARJRRj"> 
+              <i xid="i3" __cid="cARJRRj" class="cARJRRj"/>  
+              <span xid="span3" __cid="cARJRRj" class="cARJRRj">主页</span>
+            </a> 
+          </div>  
+          <div class="x-col cARJRRj" xid="col5" style="width:20%;" __cid="cARJRRj"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cARJRRj" xid="button4" style="font-weight:bold;width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;" bind-click="button4Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;库房&quot;}" __cid="cARJRRj"> 
+              <i xid="i4" __cid="cARJRRj" class="cARJRRj"/>  
+              <span xid="span4" __cid="cARJRRj" class="cARJRRj">库房</span>
+            </a> 
+          </div>  
+          <div class="x-col cARJRRj" xid="col6" style="width:20%;" __cid="cARJRRj"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cARJRRj" xid="quit" style="font-weight:bold;width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;" bind-click="quitClick" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cARJRRj"> 
+              <i xid="i5" __cid="cARJRRj" class="cARJRRj"/>  
+              <span xid="span5" __cid="cARJRRj" class="cARJRRj">返回</span>
+            </a> 
+          </div> 
+        </div>
+      </div>
+    </div>  
+    <style __cid="cARJRRj" class="cARJRRj">.x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p4e996c7a38cd41f5bd74cb5d9f606ac5-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

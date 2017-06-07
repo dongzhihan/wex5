@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cneIfQ3" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cneIfQ3" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">ul.cneIfQ3{padding: 0.5rem 0rem 0 1.4rem; font: 0.47rem 微软雅黑; line-height: 0.8rem; color: rgb(0, 0, 0)} .x-dialog.x-dialog-normal.cneIfQ3 .x-dialog-body.cneIfQ3{padding: 0} .labelEdit2.cneIfQ3{width: auto}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cneIfQ3" class="cneIfQ3"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" data-events="onReceive:windowReceiver1Receive" __cid="cneIfQ3" class="cneIfQ3"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;height&quot;:&quot;65%&quot;,&quot;status&quot;:&quot;normal&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="cneIfQ3" class="cneIfQ3"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cneIfQ3" __cid="cneIfQ3"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cneIfQ3" style="display:none;" __cid="cneIfQ3">  
+      <div class="x-dialog-title cneIfQ3" __cid="cneIfQ3"> 
+        <button class="close cneIfQ3" __cid="cneIfQ3"> 
+          <span __cid="cneIfQ3" class="cneIfQ3">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cneIfQ3" __cid="cneIfQ3"/> 
+      </div>  
+      <div class="x-dialog-body cneIfQ3" __cid="cneIfQ3"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar cneIfQ3" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cneIfQ3"> 
+    <div class="x-panel-top cneIfQ3" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cneIfQ3"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cneIfQ3" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cneIfQ3"> 
+        <div class="x-titlebar-left cneIfQ3" xid="left1" __cid="cneIfQ3"/>  
+        <div class="x-titlebar-title cneIfQ3" xid="title1" __cid="cneIfQ3"> 
+          <span style="font:bold 0.5rem 微软雅黑" __cid="cneIfQ3" class="cneIfQ3">盘点菜单</span> 
+        </div>  
+        <div class="x-titlebar-right  cneIfQ3" xid="right1" __cid="cneIfQ3"> 
+          <div class="empty cneIfQ3" __cid="cneIfQ3"/> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cneIfQ3" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cneIfQ3"> 
+      <div xid="div1" style="text-align:center;margin-top:0.5rem" __cid="cneIfQ3" class="cneIfQ3"> 
+        <label class="x-label cneIfQ3" xid="label2" style="text-align:right;font:bold 0.5rem 微软雅黑" __cid="cneIfQ3">热键号码:</label>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control x-edit cneIfQ3" xid="hotKey" style="width:30%;display:inline-block;font:bold 0.5rem 微软雅黑;text-align:center;height:1rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'hotKeyKeydown')}" __cid="cneIfQ3"/> 
+      </div>  
+      <ul xid="ul1" __cid="cneIfQ3" class="cneIfQ3"> 
+        <li __cid="cneIfQ3" class="cneIfQ3">1-货位无法扫描</li>  
+        <li __cid="cneIfQ3" class="cneIfQ3">2-信息查询</li>  
+        <li __cid="cneIfQ3" class="cneIfQ3">3-报告暗灯</li>  
+        <li id="e" __cid="cneIfQ3" class="cneIfQ3">4-停止处理掉落商品</li> 
+      </ul> 
+    </div>  
+    <div class="x-panel-bottom cneIfQ3" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cneIfQ3"> 
+      <div xid="div2" style="text-align:center;margin:0 auto;font:0.47rem 微软雅黑" __cid="cneIfQ3" class="cneIfQ3"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cneIfQ3" xid="button1" style="margin-right:1.5rem;background: linear-gradient(#5C81CA,#2F62BB )" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button1Click')}" data-config="{&quot;label&quot;:&quot;确定&quot;}" __cid="cneIfQ3"> 
+          <i xid="i1" __cid="cneIfQ3" class="cneIfQ3"/>  
+          <span xid="span1" __cid="cneIfQ3" class="cneIfQ3"/> 
+        </a>  
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cneIfQ3" xid="button2" style="background: linear-gradient(#5C81CA,#2F62BB )" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button2Click')}" data-config="{&quot;label&quot;:&quot;取消&quot;}" __cid="cneIfQ3"> 
+          <i xid="i2" __cid="cneIfQ3" class="cneIfQ3"/>  
+          <span xid="span2" __cid="cneIfQ3" class="cneIfQ3"/> 
+        </a> 
+      </div> 
+    </div>  
+    <style __cid="cneIfQ3" class="cneIfQ3">.x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pa210b34d9ae749a99eded4e36a6bf946-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div> 
+</div>

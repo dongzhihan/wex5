@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cAvErya" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cAvErya" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.tittle.cAvErya{width: 100%; text-align: center; margin-top: 0.5rem; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} .welcome.cAvErya{background: linear-gradient(rgb(129, 184, 97), rgb(97, 162, 53)); font: bold 0.5rem 微软雅黑; color: rgb(255, 255, 255)} .btnOpation.cAvErya{text-align: center; width: 100%; font: bold 0.47rem 微软雅黑; color: rgb(0, 0, 0); background: rgb(255, 192, 0); margin-top: 0.5rem; padding: 0.5rem} .errorCon.cAvErya{background: rgb(255, 0, 0); padding: 0.5rem; margin-top: 0.5rem; font: bold 0.47rem 微软雅黑; color: rgb(255, 255, 255); text-align: center; display: none}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cAvErya" class="cAvErya"/>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar cAvErya" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cAvErya"> 
+    <div class="x-panel-top cAvErya" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cAvErya"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar welcome cAvErya" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cAvErya"> 
+        <div class="x-titlebar-title cAvErya" xid="title1" __cid="cAvErya" data-bind="text:welcome"/> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cAvErya" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cAvErya"> 
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full cAvErya" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0,&quot;routable&quot;:false,&quot;slidable&quot;:false,&quot;swipe&quot;:false,&quot;wrap&quot;:false}" __cid="cAvErya"> 
+        <div class="x-contents-content active cAvErya" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content2Active" __cid="cAvErya"> 
+          <div xid="div1" __cid="cAvErya" class="cAvErya"> 
+            <label xid="label1" class="tittle cAvErya" __cid="cAvErya" data-bind="text:tittle"/>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cAvErya" xid="button1" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button1Click')}" __cid="cAvErya"> 
+              <i xid="i1" __cid="cAvErya" class="cAvErya"/>  
+              <span xid="span1" __cid="cAvErya" class="cAvErya" data-bind="text:opationOne"/> 
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cAvErya" xid="button2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button2Click')}" __cid="cAvErya"> 
+              <i xid="i2" __cid="cAvErya" class="cAvErya"/>  
+              <span xid="span2" __cid="cAvErya" class="cAvErya" data-bind="text:opationTwo"/> 
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cAvErya" xid="button3" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button3Click')}" __cid="cAvErya"> 
+              <i xid="i3" __cid="cAvErya" class="cAvErya"/>  
+              <span xid="span3" __cid="cAvErya" class="cAvErya" data-bind="text:opationThree"/> 
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cAvErya" xid="button4" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button4Click')}" __cid="cAvErya"> 
+              <i xid="i4" __cid="cAvErya" class="cAvErya"/>  
+              <span xid="span4" __cid="cAvErya" class="cAvErya" data-bind="text:opationFour"/> 
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cAvErya" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{keypress:$model._callModelFn.bind($model, 'quitKeypress')}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cAvErya"> 
+              <i xid="i5" __cid="cAvErya" class="cAvErya"/>  
+              <span xid="span5" __cid="cAvErya" class="cAvErya">返回</span> 
+            </a> 
+          </div> 
+        </div>  
+        <div class="x-contents-content cAvErya" xid="content3" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content3Active" __cid="cAvErya"> 
+          <div xid="div2" __cid="cAvErya" class="cAvErya"> 
+            <label xid="label2" class="tittle cAvErya" __cid="cAvErya" data-bind="text:tittle"/>  
+            <div component="$model/UI2/system/components/justep/list/list" class="x-list cAvErya" xid="list1" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;ordersData&quot;}" __cid="cAvErya"> 
+              <ul class="x-list-template hide cAvErya" xid="listTemplateUl1" __cid="cAvErya" data-bind="foreach:{data:$model.foreach_list1($element),afterRender:$model.foreach_afterRender_list1.bind($model,$element)}"> 
+                <li xid="li1" class="btnOpation cAvErya" __cid="cAvErya" data-bind="event:{click:$model._callModelFn.bind($model, 'stocktakingNameClick')}"> 
+                  <span xid="stocktakingName" __cid="cAvErya" class="cAvErya" data-bind="text:ref(&quot;name&quot;)"/> 
+                </li> 
+              </ul> 
+            </div> 
+          </div>  
+          <div xid="orderErrorCon" class="errorCon cAvErya" __cid="cAvErya"> 
+            <span xid="orderErrorMsg" class="errorMsg cAvErya" __cid="cAvErya"/> 
+          </div>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cAvErya" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{keypress:$model._callModelFn.bind($model, 'quitKeypress')}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cAvErya"> 
+            <i xid="i5" __cid="cAvErya" class="cAvErya"/>  
+            <span xid="span5" __cid="cAvErya" class="cAvErya">返回</span> 
+          </a> 
+        </div>  
+        <div class="x-contents-content cAvErya" xid="content4" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content4Active;onInactive:content4Inactive" __cid="cAvErya"> 
+          <div xid="div3" __cid="cAvErya" class="cAvErya"> 
+            <label xid="label3" class="tittle cAvErya" __cid="cAvErya" data-bind="text:tittle"/>  
+            <img src="@justepContextPath@/v_682256060b4b41379e42a61d52bb1379l_zh_CNs_d_m/wms_client_v8/img/computer.png" alt="" xid="image1" class="center-block cAvErya" align="middle" style="height:194px;margin-top: 0.5rem" __cid="cAvErya"/>  
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cAvErya" xid="input1" style="width:70%;margin:auto" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input1Keydown')}" __cid="cAvErya"/> 
+          </div>  
+          <div xid="errorCon" class="errorCon cAvErya" __cid="cAvErya"> 
+            <span xid="errorMsg" class="errorMsg cAvErya" __cid="cAvErya"/> 
+          </div>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cAvErya" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{keypress:$model._callModelFn.bind($model, 'quitKeypress')}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cAvErya"> 
+            <i xid="i5" __cid="cAvErya" class="cAvErya"/>  
+            <span xid="span5" __cid="cAvErya" class="cAvErya">返回</span> 
+          </a> 
+        </div> 
+      </div> 
+    </div>  
+    <style __cid="cAvErya" class="cAvErya">.x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p40a50fd912b44dda9c4a45cddd01da9a-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div> 
+</div>

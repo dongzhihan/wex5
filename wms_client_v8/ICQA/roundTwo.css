@@ -1,0 +1,102 @@
+.welcome{
+	font:bold 0.5rem calibri,宋体;
+	color:#000000;
+	background:linear-gradient(#ffc746,#e5b600);
+	display:-webkit-box;
+}
+
+.tittle{
+	width:100%;
+	text-align:center;
+	margin:0.5rem 0 0.5rem 0;
+	font:bold 0.5rem 微软雅黑;
+	color:#000000
+}
+
+.location{
+	text-align:center;
+	font:bold 0.75rem calibri;
+	border-top:0.3rem solid;
+	border-bottom:0.3rem solid;
+
+}
+
+.locationB{
+	text-align:center;
+	font:bold 0.625rem calibri;
+	color:#000000
+}
+.x-row{
+	padding:0.2rem 0;
+}
+
+.inputNum{
+	display:inline-block;
+	width:20%;
+	text-align:center;
+	background:#FBE5D6;
+	font:bold 0.625rem calibri;
+    color:#000000;
+    margin-bottom:0.3rem;
+}
+
+.successCon {
+	display:none;
+	font:0.5rem 微软雅黑;
+	background: linear-gradient(#81B861,#61A235);
+	padding: 0.8rem;
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	color: white;
+	margin-top:0.3rem
+}
+
+.num{
+	font:bold 0.625rem calibri;
+	text-decoration: underline;	
+}
+
+.errorCon{
+	display:none;
+	font:bold 0.5rem 微软雅黑;
+	text-align: center;
+	background: #ff0000;
+	padding: 0.8rem;
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	color: white;
+	margin-top:0.3rem
+}
+
+.x-dialog.x-dialog-normal .x-dialog-body{
+	padding:0;
+}
+
+.num1{
+	
+	font:bold 0.8rem calibri;
+	text-decoration: underline;	
+}
+
+.proId{
+	line-height:1.1rem;
+	display:block;
+	font-size:0.4rem;
+	text-align:right;
+	color:#000000;
+}
+
+.proDes{
+	font-size:0.5rem;
+	font-weight:bold;
+	color:#0033cc
+}
+
+.okCon{
+	display:none;
+	font:bold 0.5rem 微软雅黑;
+	text-align: left;
+	background: #ff0000;
+	padding: 0.3rem;
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	color: white;
+	margin-top:0.3rem;
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cVVVbiu" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cVVVbiu" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.tittle.cVVVbiu{width: 100%; font: bold 0.625rem 宋体; margin-top: 0.5rem; text-align: center} ul.cVVVbiu{font: 0.5rem calibri, 宋体; padding: 0.5rem; line-height: 0.7rem} .btn.cVVVbiu{width: 100%; background: rgb(255, 192, 0); font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cVVVbiu" class="cVVVbiu"/>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cVVVbiu" class="cVVVbiu"/>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p8e27af47fc484dda9986763ed660353f-iosstatusbar cVVVbiu" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cVVVbiu"> 
+    <div class="x-panel-content cVVVbiu" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cVVVbiu"> 
+      <div xid="div1" __cid="cVVVbiu" class="cVVVbiu"> 
+        <label xid="label1" class="tittle cVVVbiu" __cid="cVVVbiu">信息</label>  
+        <ul xid="ul1" __cid="cVVVbiu" class="cVVVbiu"> 
+          <li __cid="cVVVbiu" class="cVVVbiu">
+            <span __cid="cVVVbiu" class="cVVVbiu">用 户：
+              <span bind-text="userName" __cid="cVVVbiu" class="cVVVbiu"/>
+            </span>
+          </li>  
+          <li __cid="cVVVbiu" class="cVVVbiu">
+            <span __cid="cVVVbiu" class="cVVVbiu">当前任务：
+              <span bind-text="mission" __cid="cVVVbiu" class="cVVVbiu"/>
+            </span>
+          </li>  
+          <li __cid="cVVVbiu" class="cVVVbiu">
+            <span __cid="cVVVbiu" class="cVVVbiu">处理总量：
+              <span bind-text="total" __cid="cVVVbiu" class="cVVVbiu"/>
+            </span>
+          </li>  
+          <li __cid="cVVVbiu" class="cVVVbiu">
+            <span __cid="cVVVbiu" class="cVVVbiu">盘点货位：
+              <span bind-text="number" __cid="cVVVbiu" class="cVVVbiu"/>
+            </span>
+          </li>  
+          <li __cid="cVVVbiu" class="cVVVbiu">
+            <span __cid="cVVVbiu" class="cVVVbiu">盘点时间：
+              <span bind-text="time" __cid="cVVVbiu" class="cVVVbiu"/>
+            </span>
+          </li>  
+          <li __cid="cVVVbiu" class="cVVVbiu">
+            <span __cid="cVVVbiu" class="cVVVbiu">盘点效率：
+              <span bind-text="efficiency" __cid="cVVVbiu" class="cVVVbiu"/>
+            </span>
+          </li>  
+          <li __cid="cVVVbiu" class="cVVVbiu">
+            <span __cid="cVVVbiu" class="cVVVbiu">下一货位：
+              <span bind-text="next" __cid="cVVVbiu" class="cVVVbiu"/>
+            </span>
+          </li> 
+        </ul>  
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cVVVbiu" xid="button1" bind-click="button1Click" style="margin-top:1.5rem" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cVVVbiu"> 
+          <i xid="i1" __cid="cVVVbiu" class="cVVVbiu"/>  
+          <span xid="span1" __cid="cVVVbiu" class="cVVVbiu">继续盘点</span>
+        </a>
+      </div> 
+    </div>  
+    <style __cid="cVVVbiu" class="cVVVbiu">.x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p8e27af47fc484dda9986763ed660353f-iosstatusbar &gt;.x-panel-content {top: 0px;}</style>
+  </div>
+</div>

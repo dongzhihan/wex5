@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cUfYrYj" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cUfYrYj" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.button.cUfYrYj{font-family: 微软雅黑; font-size: 0.37rem; margin-right: 0.3rem} .container.cUfYrYj{font: bold 0.5rem 微软雅黑; background: rgb(189, 215, 238); padding: 0.3rem; text-align: center; display: none; margin-bottom: 0.05rem; width: 100%} .title.cUfYrYj{width: 100%; text-align: center; margin: 0 0 0.5rem 0; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} .dateDes.cUfYrYj{font: 0.5rem 微软雅黑; color: rgb(255, 255, 255)} .dateIn.cUfYrYj{font: 0.5rem 微软雅黑; color: rgb(0, 0, 0); line-height: 1rem; display: -webkit-box} .btnOpation.cUfYrYj{font: 0.5rem 微软雅黑; color: rgb(255, 255, 255); width: 60%; margin-top: 0.3rem; box-shadow: 0 0.1rem 0.1rem rgb(139, 139, 139)} .btnOk.cUfYrYj{width: auto; background: linear-gradient(rgb(98, 132, 203), rgb(48, 97, 185)); margin: 0.5rem 0.5rem 0 0.5rem} .successCon.cUfYrYj{display: none; font-family: 微软雅黑; text-align: center; background: linear-gradient(rgb(130, 182, 100), rgb(97, 162, 53)); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); margin-top: 0.3rem; font-size: 0.44rem; color: white} .proId.cUfYrYj{line-height: 1rem; display: block; font-weight: bold; font-size: 0.38rem; text-align: right; color: rgb(0, 0, 0)} .proDes.cUfYrYj{font-size: 0.44rem; font-weight: bold; color: rgb(0, 51, 204)} .yw.cUfYrYj{font-size: 0.56rem; text-decoration: underline; font-weight: bold} .errorCon.cUfYrYj{display: none; font-family: 微软雅黑; text-align: center; background: rgb(255, 0, 0); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); margin-top: 0.3rem; font-size: 0.44rem; color: white}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onParamsReceive:modelParamsReceive" __cid="cUfYrYj" class="cUfYrYj"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar cUfYrYj" xid="panel1" bind-click="panel1Click" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cUfYrYj"> 
+    <div class="x-panel-top cUfYrYj" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cUfYrYj"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cUfYrYj" xid="titleBar1" style="background:linear-gradient(#ffc746,#e5b600);box-shadow:0rem 0.1rem 0.1rem #8b8b8b" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cUfYrYj"> 
+        <div class="x-titlebar-left cUfYrYj" xid="left1" __cid="cUfYrYj"></div>  
+        <div class="x-titlebar-title cUfYrYj" xid="title1" __cid="cUfYrYj"/>  
+        <div class="x-titlebar-right  cUfYrYj" xid="right1" __cid="cUfYrYj">
+          <div class="empty cUfYrYj" __cid="cUfYrYj"/>
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default button cUfYrYj" xid="button3" bind-click="button3Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cUfYrYj"> 
+            <i xid="i3" __cid="cUfYrYj" class="cUfYrYj"/>  
+            <span xid="span3" __cid="cUfYrYj" class="cUfYrYj"/>返回
+          </a>
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cUfYrYj" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cUfYrYj"> 
+      <div xid="div1" __cid="cUfYrYj" class="cUfYrYj"> 
+        <div xid="originalCon" class="container cUfYrYj" __cid="cUfYrYj"> 
+          <span xid="span4" style="color:#000000" __cid="cUfYrYj" class="cUfYrYj">原始容器：
+            <span xid="original" bind-text="original" __cid="cUfYrYj" class="cUfYrYj"/> 
+          </span> 
+        </div>  
+        <div xid="mainContent" __cid="cUfYrYj" class="cUfYrYj"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cUfYrYj" xid="input1" bind-keydown="input1Keydown" style="opacity:0;height:0.6rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUfYrYj"/>  
+          <label xid="label1" class="title cUfYrYj" bind-text="title" __cid="cUfYrYj"/> 
+        </div>  
+        <div xid="proDesCon" style="display:none" __cid="cUfYrYj" class="cUfYrYj"> 
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cUfYrYj" xid="sourceCon" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+            <div class="x-co7 cUfYrYj" xid="col14" style="font:bold 0.5rem 微软雅黑;color:#000000" __cid="cUfYrYj"> 
+              <span xid="span7" __cid="cUfYrYj" class="cUfYrYj">原始容器：</span>  
+              <span xid="originall" bind-text="original" style="color:#0033CC" __cid="cUfYrYj" class="cUfYrYj"/> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cUfYrYj" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+            <div class="x-col cUfYrYj" xid="col1" __cid="cUfYrYj"> 
+              <span xid="type" style="color:red;font-size:0.625rem;font-weight:bold" bind-text="proType" __cid="cUfYrYj" class="cUfYrYj"/> 
+            </div>  
+            <div class="x-col cUfYrYj" xid="col2" __cid="cUfYrYj"> 
+              <span xid="proid" class="proId cUfYrYj" bind-text="proId" __cid="cUfYrYj"/> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cUfYrYj" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+            <div class="x-col cUfYrYj" xid="col13" __cid="cUfYrYj"> 
+              <span xid="proDes" class="proDes cUfYrYj" bind-text="proDes" __cid="cUfYrYj"/> 
+            </div> 
+          </div> 
+        </div>  
+        <div xid="dateCon" style="display:none;background:linear-gradient(#F18D59,#E26B1A);box-shadow:0rem 0.1rem 0.1rem #8b8b8b" __cid="cUfYrYj" class="cUfYrYj"> 
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cUfYrYj" xid="productionDate" style="dispaly:none" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+            <div class="x-col cUfYrYj" xid="col14" __cid="cUfYrYj"> 
+              <span xid="span5" class="dateDes cUfYrYj" __cid="cUfYrYj">生产日期：
+                <span bind-text="productionDate" __cid="cUfYrYj" class="cUfYrYj"/> 
+              </span> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cUfYrYj" xid="row4" style="" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+            <div class="x-col cUfYrYj" xid="col15" __cid="cUfYrYj"> 
+              <span xid="span6" class="dateDes cUfYrYj" __cid="cUfYrYj">到期日期：
+                <span xid="expirationDate" bind-text="expirationDate" __cid="cUfYrYj" class="cUfYrYj"/> 
+              </span> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cUfYrYj" xid="expiryDateOut" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+            <div class="x-col cUfYrYj" xid="col16" __cid="cUfYrYj"> 
+              <span xid="span7" class="dateDes cUfYrYj" __cid="cUfYrYj">有 效 期 ：
+                <span bind-text="expiryDateOut" __cid="cUfYrYj" class="cUfYrYj"/> 
+              </span> 
+            </div> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="opationCon" style="display:none" __cid="cUfYrYj" class="cUfYrYj"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cUfYrYj" xid="button4" bind-click="button4Click" style="background:linear-gradient(#6083cb,#2e61ba)" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cUfYrYj"> 
+          <i xid="i4" __cid="cUfYrYj" class="cUfYrYj"/>  
+          <span xid="span8" __cid="cUfYrYj" class="cUfYrYj">1确定</span> 
+        </a>  
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cUfYrYj" xid="button5" bind-click="button5Click" style="background:linear-gradient(#6083cb,#2e61ba)" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cUfYrYj"> 
+          <i xid="i5" __cid="cUfYrYj" class="cUfYrYj"/>  
+          <span xid="span9" __cid="cUfYrYj" class="cUfYrYj">2取消</span> 
+        </a> 
+      </div>  
+      <div xid="dateInCon" style="display:none" __cid="cUfYrYj" class="cUfYrYj"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cUfYrYj" xid="row7" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+          <div class="x-col cUfYrYj" xid="col3" style="width:80%" __cid="cUfYrYj"> 
+            <span xid="year" bind-text="yearlab" __cid="cUfYrYj" class="cUfYrYj"/> 
+          </div>  
+          <div class="x-col cUfYrYj" xid="col4" __cid="cUfYrYj"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cUfYrYj" xid="yearIn" style="height:1rem" bind-keydown="yearInKeydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUfYrYj"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cUfYrYj" xid="row9" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+          <div class="x-col cUfYrYj" xid="col9" style="width:80%" __cid="cUfYrYj"> 
+            <span xid="month" bind-text="monthlab" __cid="cUfYrYj" class="cUfYrYj"/> 
+          </div>  
+          <div class="x-col cUfYrYj" xid="col10" __cid="cUfYrYj"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cUfYrYj" xid="monthIn" style="height:1rem" bind-keydown="monthInKeydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUfYrYj"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cUfYrYj" xid="row8" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+          <div class="x-col cUfYrYj" xid="col6" style="width:80%" __cid="cUfYrYj"> 
+            <span xid="day" bind-text="daylab" __cid="cUfYrYj" class="cUfYrYj"/> 
+          </div>  
+          <div class="x-col cUfYrYj" xid="col7" __cid="cUfYrYj"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cUfYrYj" xid="dayIn" style="height:1rem" bind-keydown="dayInKeydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUfYrYj"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cUfYrYj" xid="expiryDateCon" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cUfYrYj"> 
+          <div class="x-col cUfYrYj" xid="col12" style="width:80%" __cid="cUfYrYj"> 
+            <span xid="expiryDate" bind-text="expiryDatelab" __cid="cUfYrYj" class="cUfYrYj"/> 
+          </div>  
+          <div class="x-col cUfYrYj" xid="col17" __cid="cUfYrYj"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cUfYrYj" xid="expiryDateIn" style="height:1rem" bind-keydown="expiryDateInKeydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUfYrYj"/> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="okCon" style="width:100%;display:none" __cid="cUfYrYj" class="cUfYrYj"> 
+        <div style="width:6rem;text-align:center;margin:0 auto" __cid="cUfYrYj" class="cUfYrYj"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation btnOk cUfYrYj" xid="button6" bind-click="button6Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cUfYrYj"> 
+            <i xid="i6" __cid="cUfYrYj" class="cUfYrYj"/>  
+            <span xid="span11" __cid="cUfYrYj" class="cUfYrYj">确定</span>
+          </a>
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation btnOk cUfYrYj" xid="button7" bind-click="button7Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="cUfYrYj"> 
+            <i xid="i7" __cid="cUfYrYj" class="cUfYrYj"/>  
+            <span xid="span12" __cid="cUfYrYj" class="cUfYrYj">取消</span>
+          </a>
+        </div> 
+      </div>  
+      <div xid="successCon" class="successCon cUfYrYj" __cid="cUfYrYj"> 
+        <span xid="successMsg" __cid="cUfYrYj" class="cUfYrYj"/> 
+      </div>  
+      <div xid="errorCon" class="errorCon cUfYrYj" __cid="cUfYrYj"> 
+        <span xid="errorMsg" __cid="cUfYrYj" class="cUfYrYj"/> 
+      </div> 
+    </div>  
+    <style __cid="cUfYrYj" class="cUfYrYj">.x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc7fa7bc41eda4f948e6a8cb17bd5f8da-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>
