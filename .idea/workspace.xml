@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d1b846f-a274-400d-be93-6eaa2b3872c9" name="Default" comment="=16:58">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/ICQA.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/Scanbatch/Scanbatch.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/ground.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/ground.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/grounding/grounding.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/groundmenu/groundmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/inBound.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login/login.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login5/login5.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login6/login6.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity123/mainActivity123.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/outBound.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/problem/problem.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/warehouses.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/ICQA/ICQA.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/Scanbatch/Scanbatch.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/ground/ground.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/grounding/grounding.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/groundmenu/groundmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/inBound/inBound.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/index/index.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/lightmenu/lightmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login/login.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login1/login1.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login2/login2.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login3/login3.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login4/login4.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login5/login5.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login6/login6.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/main/main.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/mainActivity/mainActivity.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/mainActivity123/mainActivity123.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/noscanmenu/noscanmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/outBound/outBound.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/problem/problem.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/scancar_id/scancar_id.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/scanmenu/scanmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/sgend/sgend.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/sgmenu/sgmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/start/start.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/test/test.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/usermessage/usermessage.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/warehouses/warehouses.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityMessage/commodityMessage.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/commodityTreatment.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/roundOne.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/tip/tip.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/ICQAMessage/ICQAMessage.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/commodityMessage/commodityMessage.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/commodityTreatment/commodityTreatment.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/dailyInventoryMain/dailyInventoryMain.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/roundOne/roundOne.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/roundTwo/roundTwo.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/systemCountMain/systemCountMain.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/tip/tip.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/changeContainer/changeContainer.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/startrebatch.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/changeContainer/changeContainer.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/mainActivity/mainActivity.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/start/start.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/startrebatch/startrebatch.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/btn1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/btn12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/btn3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/car1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/chezi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/ibnlog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/passwordlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/scanbanch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/scrap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/tiaoma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/weixin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/img/worklog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/startcheck/startcheck.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/ground/ground.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/lightmenu/lightmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/noscanmenu/noscanmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/scancar_id/scancar_id.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/scanmenu/scanmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/sgend/sgend.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/sgmenu/sgmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/start/start.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/startcheck/startcheck.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/usermessage/usermessage.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/usermessages/usermessages.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/receiveTip/receiveTip.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/recipient.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/skuqty.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/receiveTip/receiveTip.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/recipient/recipient.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/skuqty/skuqty.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/start/start.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/ICQALightMenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/lightmenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/noscanmenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/ICQALightMenu/ICQALightMenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/lightmenu/lightmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/noscanmenu/noscanmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/scanmenu/scanmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/start.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.release/mainActivity/mainActivity.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.release/start/start.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/Scanbatch/Scanbatch.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/carMessage.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/carMessage.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandopeaction/outbandopeaction.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandstart/outbandstart.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_5113_no.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/startcheck/startcheck.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/user.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/user.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/Scanbatch/Scanbatch.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/carMessage/carMessage.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/outbandopeaction/outbandopeaction.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/outbandstart/outbandstart.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/pickmain/pickmain.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/pickmenu/pickmenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/qtymenu/qtymenu.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/scancar_id/scancar_id.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/start/start.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/startcheck/startcheck.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/user/user.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/usermessages/usermessages.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/originalContainerFixed/originalContainerFixed.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/select.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/transfer.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/transferMain.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/vaild.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/vaildMain.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/originalContainerFixed/originalContainerFixed.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/select/select.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/start/start.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/transfer/transfer.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/transferMain/transferMain.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/vaild/vaild.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/vaildMain/vaildMain.w.form.xml.sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/ICQA.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/ICQA.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ICQA/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/Scanbatch/Scanbatch.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/Scanbatch/Scanbatch.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/Scanbatch/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/ground.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/ground.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/ground.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/ground.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/ground/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/grounding/grounding.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/grounding/grounding.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/grounding/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/groundmenu/groundmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/groundmenu/groundmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/groundmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/inBound.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/inBound.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/inBound/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/index.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/index/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/lightmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login/login.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login/login.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/login1.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login1/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/login2.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login2/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/login3.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login3/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/login4.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login4/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login5/login5.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login5/login5.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login5/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login6/login6.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login6/login6.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/login6/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/main/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity123/mainActivity123.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity123/mainActivity123.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/mainActivity123/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/noscanmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/outBound.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/outBound.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/problem/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/problem/problem.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/problem/problem.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scancar_id/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scanmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/sgend.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/test/test.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/usermessage/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/warehouses.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.cache/warehouses/warehouses.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.idea/truk.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/ICQA/ICQA.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/ICQA/ICQA.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/Scanbatch/Scanbatch.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/Scanbatch/Scanbatch.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/ground/ground.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/ground/ground.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/grounding/grounding.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/grounding/grounding.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/groundmenu/groundmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/groundmenu/groundmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/inBound/inBound.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/inBound/inBound.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/index/index.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/index/index.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/lightmenu/lightmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/lightmenu/lightmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login/login.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login/login.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login1/login1.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login1/login1.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login2/login2.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login2/login2.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login3/login3.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login3/login3.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login4/login4.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login4/login4.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login5/login5.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login5/login5.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login6/login6.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/login6/login6.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/main/main.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/main/main.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/mainActivity/mainActivity.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/mainActivity/mainActivity.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/mainActivity123/mainActivity123.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/mainActivity123/mainActivity123.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/noscanmenu/noscanmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/noscanmenu/noscanmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/outBound/outBound.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/outBound/outBound.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/problem/problem.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/problem/problem.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/scancar_id/scancar_id.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/scancar_id/scancar_id.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/scanmenu/scanmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/scanmenu/scanmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/sgend/sgend.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/sgend/sgend.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/sgmenu/sgmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/sgmenu/sgmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/start/start.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/start/start.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/test/test.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/test/test.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/usermessage/usermessage.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/usermessage/usermessage.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/warehouses/warehouses.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/.release/warehouses/warehouses.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/ICQAMessage/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityMessage/commodityMessage.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityMessage/commodityMessage.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityMessage/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/commodityTreatment.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/commodityTreatment.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/commodityTreatment/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/dailyInventoryMain/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/roundOne.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundOne/roundOne.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundTwo/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/systemCountMain/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/tip/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/tip/tip.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.cache/tip/tip.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/ICQAMessage/ICQAMessage.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/ICQAMessage/ICQAMessage.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/commodityMessage/commodityMessage.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/commodityMessage/commodityMessage.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/commodityTreatment/commodityTreatment.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/commodityTreatment/commodityTreatment.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/dailyInventoryMain/dailyInventoryMain.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/dailyInventoryMain/dailyInventoryMain.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/roundOne/roundOne.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/roundOne/roundOne.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/roundTwo/roundTwo.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/roundTwo/roundTwo.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/systemCountMain/systemCountMain.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/systemCountMain/systemCountMain.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/tip/tip.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/.release/tip/tip.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/ICQAMessage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/ICQAMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/ICQAMessage.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/commodityMessage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/commodityMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/commodityMessage.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/commodityTreatment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/commodityTreatment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/commodityTreatment.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/dailyInventoryMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/dailyInventoryMain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/dailyInventoryMain.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/roundOne.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/roundOne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/roundOne.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/roundTwo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/roundTwo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/roundTwo.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/systemCountMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/systemCountMain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/systemCountMain.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/tip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/tip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/ICQA/tip.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/changeContainer/changeContainer.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/changeContainer/changeContainer.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/changeContainer/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/mainActivity/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/startrebatch.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.cache/startrebatch/startrebatch.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/changeContainer/changeContainer.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/changeContainer/changeContainer.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/mainActivity/mainActivity.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/mainActivity/mainActivity.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/start/start.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/start/start.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/startrebatch/startrebatch.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/.release/startrebatch/startrebatch.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/changeContainer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/changeContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/changeContainer.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/start.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/startrebatch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/startrebatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/Rebatch/startrebatch.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/change.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/change.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inBound.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inBound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inBound.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/ground/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/lightmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/noscanmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scanmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/startcheck/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/startcheck/startcheck.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/startcheck/startcheck.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/ground/ground.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/ground/ground.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/lightmenu/lightmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/lightmenu/lightmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/noscanmenu/noscanmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/noscanmenu/noscanmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/scancar_id/scancar_id.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/scancar_id/scancar_id.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/scanmenu/scanmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/scanmenu/scanmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/sgend/sgend.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/sgend/sgend.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/sgmenu/sgmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/sgmenu/sgmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/start/start.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/start/start.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/startcheck/startcheck.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/startcheck/startcheck.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/usermessage/usermessage.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/usermessage/usermessage.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/usermessages/usermessages.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/.release/usermessages/usermessages.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/ground.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/ground.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/ground.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/groundexpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/scancar_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/scancar_id.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/sgend.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/sgend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/sgend.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/sgmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/sgmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/sgmenu.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/start.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/startcheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/startcheck.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/usermessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/usermessage.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/usermessages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inbandsg/usermessages.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/receiveTip/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/receiveTip/receiveTip.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/receiveTip/receiveTip.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/recipient.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/recipient/recipient.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/skuqty.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/skuqty/skuqty.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/receiveTip/receiveTip.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/receiveTip/receiveTip.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/recipient/recipient.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/recipient/recipient.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/skuqty/skuqty.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/skuqty/skuqty.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/start/start.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/.release/start/start.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/receiveTip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/receiveTip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/receiveTip.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/recipient.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/recipient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/recipient.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/skuqty.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/skuqty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/skuqty.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/start.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/inboundsh/start.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/index.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/STOW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/combo.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/flexible.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/flexible.debug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/flexible.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/flexible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/flexible_css.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/flexible_css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/makegrid.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/makegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/build/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/hotKey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/pickLang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/js/userMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/ICQALightMenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/ICQALightMenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/ICQALightMenu/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/lightmenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/lightmenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/lightmenu/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/noscanmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/noscanmenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/noscanmenu/noscanmenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/scanmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.cache/scanmenu/scanmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/ICQALightMenu/ICQALightMenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/ICQALightMenu/ICQALightMenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/lightmenu/lightmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/lightmenu/lightmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/noscanmenu/noscanmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/noscanmenu/noscanmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/scanmenu/scanmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/.release/scanmenu/scanmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/ICQALightMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/ICQALightMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/ICQALightMenu.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/lightmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/lightmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/lightmenu.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/noscanmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/noscanmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/noscanmenu.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/scanmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/scanmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/light/scanmenu.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/login1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/login1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/login1.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/login2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/login2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/login2.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/main.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/mainActivity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/mainActivity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/mainActivity.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outBound.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outBound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outBound.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/mainActivity/mainActivity.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/mainActivity/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/start.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.cache/start/start.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.release/mainActivity/mainActivity.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.release/mainActivity/mainActivity.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.release/start/start.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/.release/start/start.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/mainActivity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/mainActivity.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/start.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbandyd/start.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/Scanbatch/Scanbatch.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/Scanbatch/Scanbatch.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/Scanbatch/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/carMessage.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/carMessage.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/carMessage.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/carMessage.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/carMessage/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandopeaction/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandopeaction/outbandopeaction.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandopeaction/outbandopeaction.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandstart/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandstart/outbandstart.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/outbandstart/outbandstart.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/qtymenu/qtymenu.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/main_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_5113_no.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_5113_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/startcheck/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/startcheck/startcheck.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/startcheck/startcheck.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/user.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/user.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/user.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/user/user.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/Scanbatch/Scanbatch.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/Scanbatch/Scanbatch.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/carMessage/carMessage.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/carMessage/carMessage.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/outbandopeaction/outbandopeaction.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/outbandopeaction/outbandopeaction.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/outbandstart/outbandstart.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/outbandstart/outbandstart.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/pickmain/pickmain.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/pickmain/pickmain.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/pickmenu/pickmenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/pickmenu/pickmenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/qtymenu/qtymenu.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/qtymenu/qtymenu.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/scancar_id/scancar_id.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/scancar_id/scancar_id.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/start/start.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/start/start.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/startcheck/startcheck.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/startcheck/startcheck.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/user/user.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/user/user.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/usermessages/usermessages.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/.release/usermessages/usermessages.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/Scanbatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/carMessage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/carMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/carMessage.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/mainActivity.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/outbandopeaction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/outbandopeaction.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/outbandstart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/outbandstart.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/pick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/pickmain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/pickmain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/pickmain.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/pickmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/pickmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/pickmenu.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/qtymenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/qtymenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/qtymenu.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/scancar_id.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/scancar_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/scancar_id.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/start.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/start.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/startcheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/startcheck.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/user.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/user.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/usermessages.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/usermessages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/outbound/usermessages.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problem.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problem.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/originalContainerFixed/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/originalContainerFixed/originalContainerFixed.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/originalContainerFixed/originalContainerFixed.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/select.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/select/select.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/transfer.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transfer/transfer.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/transferMain.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/transferMain/transferMain.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/vaild.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaild/vaild.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/main__zh_CN_Mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/main_desktop_zh_CN_Computer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/vaildMain.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.cache/vaildMain/vaildMain.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/originalContainerFixed/originalContainerFixed.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/originalContainerFixed/originalContainerFixed.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/select/select.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/select/select.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/start/start.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/start/start.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/transfer/transfer.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/transfer/transfer.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/transferMain/transferMain.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/transferMain/transferMain.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/vaild/vaild.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/vaild/vaild.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/vaildMain/vaildMain.w.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/.release/vaildMain/vaildMain.w.form.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/select.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/transfer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/transfer.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/transferMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/transferMain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/transferMain.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/vaild.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/vaild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/vaild.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/vaildMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/vaildMain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/problemSolve/vaildMain.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/test.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/test/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/test/user.w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/warehouses.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pda v6/warehouses.w" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="combo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pda v6/js/build/combo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pda v6/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wex5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wex5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wex5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wex5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pda v6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wex5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wex5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\wex5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="wex5" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d1b846f-a274-400d-be93-6eaa2b3872c9" name="Default" comment="" />
+      <created>1496823410441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496823410441</updated>
+      <workItem from="1496823411772" duration="1428000" />
+      <workItem from="1496825888542" duration="910000" />
+    </task>
+    <task id="LOCAL-00001" summary="=16:25">
+      <created>1496824156718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496824156718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="=16:21">
+      <created>1496824790679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496824790679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2338000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25267094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="=16:25" />
+    <MESSAGE value="=16:21" />
+    <MESSAGE value="=16:58" />
+    <option name="LAST_COMMIT_MESSAGE" value="=16:58" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pda v6/js/build/combo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pda v6/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truk/js/build/combo.js" />
+    <entry file="file://$PROJECT_DIR$/pda v6/js/build/combo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pda v6/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
