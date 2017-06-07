@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cfaiama" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cfaiama" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cfaiama" class="cfaiama"/>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pa3daf76fec79416285ac9e2342fd8922-iosstatusbar cfaiama" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cfaiama"> 
+    <div class="x-panel-top cfaiama" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cfaiama"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url(@justepContextPath@/v_64518ab229604348b827ac7301ef653el_zh_CNs_desktopd_pc/truk/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar cfaiama" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cfaiama"> 
+        <div class="x-titlebar-title cfaiama" style="width:262px;" xid="title1" __cid="cfaiama">请选择库房</div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cfaiama" xid="content1" style="top:2rem;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cfaiama"> 
+      <div component="$model/UI2/system/components/justep/list/list" class="x-list cfaiama" xid="list2" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;data1&quot;}" __cid="cfaiama"> 
+        <ul class="x-list-template hide cfaiama" xid="listTemplateUl2" __cid="cfaiama" data-bind="foreach:{data:$model.foreach_list2($element),afterRender:$model.foreach_afterRender_list2.bind($model,$element)}"> 
+          <li xid="li2" style="text-align:center;border-style:solid solid solid solid;border-width:0.1rem;background-color:#0099FF;" __cid="cfaiama" class="cfaiama" data-bind="event:{click:$model._callModelFn.bind($model, 'li2Click')}"> 
+            <span xid="span1" style="font-size:0.5rem;color:black;" __cid="cfaiama" class="cfaiama" data-bind="text:row.name"/> 
+          </li> 
+        </ul> 
+      </div> 
+    </div>  
+    <div class="x-panel-bottom cfaiama" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cfaiama"/>  
+    <style __cid="cfaiama" class="cfaiama">.x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pa3daf76fec79416285ac9e2342fd8922-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cfaiama" class="cfaiama"/> 
+</div>

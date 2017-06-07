@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cINBnEn" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cINBnEn" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.spstyle3.cINBnEn{font-weight: normal} .spstyle2.cINBnEn{text-decoration: underline; font-weight: bold; font-size: 0.6rem}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cINBnEn" class="cINBnEn"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;src&quot;:&quot;$model/UI2/mushiny/login3.w&quot;}" __cid="cINBnEn" class="cINBnEn">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cINBnEn" __cid="cINBnEn"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cINBnEn" style="display:none;" __cid="cINBnEn">
+      <xhtml:div class="x-dialog-title cINBnEn" __cid="cINBnEn">
+        <xhtml:button class="close cINBnEn" __cid="cINBnEn">
+          <xhtml:span __cid="cINBnEn" class="cINBnEn">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cINBnEn" __cid="cINBnEn"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cINBnEn" __cid="cINBnEn"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar cINBnEn" xid="panel1" style="height:90%;" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cINBnEn"> 
+    <div class="x-panel-top cINBnEn" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cINBnEn"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cINBnEn" style="font-family:微软雅黑;height:auto;font-size:0.7rem;background-color:#6EB041;" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cINBnEn"> 
+        <div class="x-titlebar-title cINBnEn" bind-text="comename" style="width:262px;" __cid="cINBnEn"/> 
+      </div> 
+    </div>  
+    <div xid="message" class="waring1 cINBnEn" align="center" bind-click="div1Click" style="height:auto;text-align:center;padding:0.5rem 0.25rem 0.5rem 0.25rem;font-family:微软雅黑;font-size:0.6rem;font-weight:bold;color:#FFFFFF;display:none;" dir="ltr" __cid="cINBnEn"/>
+    <div xid="content1" style="top:20%;height:80%;" class="x-panel-content cINBnEn" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cINBnEn"> 
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full cINBnEn" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0}" __cid="cINBnEn"> 
+        <div class="x-contents-content active cINBnEn" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" __cid="cINBnEn">
+          <label xid="label3" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;font-weight:normal;font-size:0.65rem;color:#000000;" dir="rtl" __cid="cINBnEn" class="cINBnEn">请选择拣货模式</label>
+          <div xid="div3" style="width:100%;height:12%;margin:0.5rem auto auto auto;" class="center-block cINBnEn" __cid="cINBnEn"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cINBnEn" xid="button6" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;font-weight:bold;background-image: url($model/UI2/truk/img/btn3.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button6Click" data-config="{&quot;label&quot;:&quot;基于批次拣货&quot;}" __cid="cINBnEn"> 
+              <i xid="i6" __cid="cINBnEn" class="cINBnEn"/>  
+              <span xid="span6" __cid="cINBnEn" class="cINBnEn">基于批次拣货</span>
+            </a>
+          </div>
+          <div xid="div1" style="width:100%;height:12%;margin:10px auto auto auto;" class="center-block cINBnEn" __cid="cINBnEn">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cINBnEn" xid="button1" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;font-weight:bold;background-image: url($model/UI2/truk/img/btn3.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:assignedClick" data-config="{&quot;label&quot;:&quot;系统自动分配拣货&quot;}" __cid="cINBnEn"> 
+              <i xid="i1" __cid="cINBnEn" class="cINBnEn"/>  
+              <span xid="span1" __cid="cINBnEn" class="cINBnEn">系统自动分配拣货</span>
+            </a>
+          </div>  
+          <div xid="div2" class="waring1 cINBnEn" align="center" bind-click="div1Click" style="height:auto;text-align:center;padding:0.5rem 0.25rem 0.5rem 0.25rem;font-family:微软雅黑;font-size:0.6rem;font-weight:bold;color:#FFFFFF;" dir="ltr" __cid="cINBnEn"/>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block cINBnEn" xid="quit" style="margin-top:1.8rem;width:2rem;font-size:0.6rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFFF00;" bind-keypress="quitKeypress" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cINBnEn"> 
+            <i xid="i5" __cid="cINBnEn" class="cINBnEn"/>  
+            <span xid="span5" __cid="cINBnEn" class="cINBnEn">返回</span>
+          </a>
+        </div>  
+        <div class="x-contents-content cINBnEn" xid="content3" bind-click="content3Click" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content3Active" __cid="cINBnEn"> 
+          <label xid="label2" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;font-weight:normal;font-size:0.65rem;color:#000000;" dir="rtl" __cid="cINBnEn" class="cINBnEn">请扫描批次号码</label>  
+          <img src="$model/UI2/truk/img/tiaoma.png" alt="" xid="image1" class="center-block cINBnEn" style="width:4rem;1rem;" __cid="cINBnEn"/>  
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cINBnEn" xid="input1" bind-keydown="input1Keydown" style="opacity: 0;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cINBnEn"/>  
+          <div xid="div4" class="waring1 cINBnEn" align="left" style="height:auto;text-align:center;padding:20px 10px 20px 10px;display:none;font-family:微软雅黑;font-size:0.5rem;font-weight:bold;" dir="ltr" __cid="cINBnEn"/>
+        </div> 
+      </div>
+    </div>  
+    <style __cid="cINBnEn" class="cINBnEn">.x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p1b699a3b7f9b4368a9b4fee4ef9ec564-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

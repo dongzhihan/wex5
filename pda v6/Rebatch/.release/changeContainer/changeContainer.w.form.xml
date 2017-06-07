@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window ce2iQf2" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="ce2iQf2" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/scrollView/scrollView,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">table.ce2iQf2{width: 100%; margin-top: 0.2rem; text-align: center; font: 0.44rem 宋体; background: rgb(207, 213, 234); color: rgb(0, 0, 0); border-left: 0.05rem solid white; display: none} table.ce2iQf2 th.ce2iQf2{border-bottom: 0.05rem solid white; border-right: 0.05rem solid white; text-align: center; padding: 0.2rem; background: rgb(68, 114, 196); font-weight: bold; color: rgb(255, 255, 255)} table.ce2iQf2 td.ce2iQf2{border-bottom: 0.05rem solid white; border-right: 0.05rem solid white; padding: 0.2rem} .bg-info.ce2iQf2{background: rgb(233, 235, 245)}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="ce2iQf2" class="ce2iQf2"></div>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="ce2iQf2" class="ce2iQf2"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar ce2iQf2" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="ce2iQf2"> 
+    <div class="x-panel-content ce2iQf2" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ce2iQf2"> 
+      <div style="width:95%;margin:0 auto; height:9.5rem" class=" x-scroll-view ce2iQf2" __cid="ce2iQf2"> 
+        <div class="x-scroll ce2iQf2" component="$model/UI2/system/components/justep/scrollView/scrollView" xid="scrollView3" data-bind="component:{name:'$model/UI2/system/components/justep/scrollView/scrollView'}" __cid="ce2iQf2"> 
+          <div class="x-scroll-content ce2iQf2" xid="div8" __cid="ce2iQf2"> 
+            <table class="x-list ce2iQf2" component="$model/UI2/system/components/justep/list/list" xid="list3" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;slotInfo&quot;,&quot;limit&quot;:-1}" __cid="ce2iQf2"> 
+              <thead xid="thead1" __cid="ce2iQf2" class="ce2iQf2"> 
+                <tr xid="tr1" __cid="ce2iQf2" class="ce2iQf2"> 
+                  <th xid="th1" __cid="ce2iQf2" class="ce2iQf2">Slot号码</th>  
+                  <th xid="th2" __cid="ce2iQf2" class="ce2iQf2">操作</th> 
+                </tr> 
+              </thead>  
+              <tbody class="x-list-template hide ce2iQf2" xid="listTemplate3" bind-foreach="{data:$model.foreach_list3($element),afterRender:$model.foreach_afterRender_list3.bind($model,$element)}" __cid="ce2iQf2"> 
+                <tr xid="tr2" bind-css="{'bg-info':$index() %2 == 1 }" __cid="ce2iQf2" class="ce2iQf2"> 
+                  <td xid="td1" bind-text="ref(&quot;rebatchSlotName&quot;)" style="font-family:calibri;" __cid="ce2iQf2" class="ce2iQf2"/>  
+                  <td xid="td2" __cid="ce2iQf2" class="ce2iQf2"> 
+                    <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default ce2iQf2" xid="button1" style="padding:0.1rem 0.5rem;background:#00b050;box-shadow: 1px 1px 1px #2e2e2e;" bind-visible="ref('id')" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" __cid="ce2iQf2"> 
+                      <i xid="i1" __cid="ce2iQf2" class="ce2iQf2"/>  
+                      <span xid="span1" __cid="ce2iQf2" class="ce2iQf2">换车完成</span> 
+                    </a> 
+                  </td> 
+                </tr> 
+              </tbody> 
+            </table> 
+          </div> 
+        </div> 
+      </div>  
+      <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default ce2iQf2" xid="button2" style="padding:0.1rem 0.5rem;margin-top:0.2rem" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" __cid="ce2iQf2"> 
+        <i xid="i2" __cid="ce2iQf2" class="ce2iQf2"/>  
+        <span xid="span2" __cid="ce2iQf2" class="ce2iQf2">返回</span> 
+      </a> 
+    </div>  
+    <style __cid="ce2iQf2" class="ce2iQf2">.x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pc93bb0da21fa4a04bd5bac65ccc731b5-iosstatusbar &gt;.x-panel-content {top: 0px;}</style>
+  </div> 
+</div>

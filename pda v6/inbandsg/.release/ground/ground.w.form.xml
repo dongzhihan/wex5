@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" id="di1" tabindex="-1" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cZrymie" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cZrymie" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.type.cZrymie{color: red; font: SimSun; font-size: 0.8rem} .text.cZrymie{color: blue; font: SimSun; font-size: 0.4rem} .qtystyle.cZrymie{font-size: 0.6rem; font-weight: bold} #sp8.cZrymie{float: left} .righttext.cZrymie{color: black; float: right; font-size: 0.5rem} .waring1.cZrymie span.cZrymie{} .clr.cZrymie{box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); background: linear-gradient(rgb(92, 129, 202), rgb(47, 98, 187))} .waring1.cZrymie{background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); text-align: center; height: 100%; width: 100%; font-size: 1em; position: relative} .x-dialog-body.cZrymie{padding: 0} .spstyle.cZrymie{text-decoration: underline; font-weight: bold} #scaninput.cZrymie{-webkit-user-modify: read-write-plaintext-only} #qty.cZrymie{-webkit-user-modify: read-write-plaintext-only} .spstyle3.cZrymie{font-weight: normal} .spstyle2.cZrymie{text-decoration: underline; font-weight: bold; font-size: 0.6rem}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onInactive:modelInactive;onLoad:modelLoad" __cid="cZrymie" class="cZrymie"></div>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" style="top:10px;left:128px;" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cZrymie" class="cZrymie"/>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" style="top:11px;left:87px;" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialogReceive" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;height&quot;:&quot;65%&quot;,&quot;routable&quot;:false,&quot;status&quot;:&quot;normal&quot;,&quot;top&quot;:&quot;10%&quot;}" __cid="cZrymie" class="cZrymie">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cZrymie" __cid="cZrymie"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cZrymie" style="display:none;" __cid="cZrymie">
+      <xhtml:div class="x-dialog-title cZrymie" __cid="cZrymie">
+        <xhtml:button class="close cZrymie" __cid="cZrymie">
+          <xhtml:span __cid="cZrymie" class="cZrymie">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cZrymie" __cid="cZrymie"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cZrymie" __cid="cZrymie"/>
+    </xhtml:div>
+  </span>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p4642d3a525f84959b3a7b55d6346a855-iosstatusbar cZrymie" xid="panel1" style="height:100%;width:100%;" bind-click="panel1Click" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cZrymie"> 
+    <div class="x-panel-top cZrymie" xid="top1" style="width:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" data-config="{&quot;height&quot;:48}" __cid="cZrymie"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cZrymie" style="background-image: url($model/UI2/truk/img/btn3.png);height:100%;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cZrymie"> 
+        <div class="x-titlebar-left cZrymie" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;width:30%;" __cid="cZrymie"> 
+          <a component="$model/UI2/system/components/justep/button/button" id="sgsp" xid="button1" style="margin-left:5px;background: linear-gradient(#5C81CA,#2F62BB );font-size:0.4rem;text-align:center;border:none;" bind-keypress="button1Keypress" class="btn btn-default cZrymie" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;单件&quot;}" __cid="cZrymie"> 
+            <i xid="i1" __cid="cZrymie" class="cZrymie"/>  
+            <span xid="span1" __cid="cZrymie" class="cZrymie">单件</span>
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-only-label cZrymie" xid="button2" style="margin-left:5px;background: linear-gradient(#5C81CA,#2F62BB );font-size:0.4rem;text-align:center;border:none;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;批量&quot;}" __cid="cZrymie"> 
+            <i xid="i2" __cid="cZrymie" class="cZrymie"/>  
+            <span xid="span2" __cid="cZrymie" class="cZrymie">批量</span>
+          </a>
+        </div>  
+        <div class="x-titlebar-right  cZrymie" style="margin:1px 1px 1px 1px;width:30%;height:100%;" __cid="cZrymie">
+          <div class="empty cZrymie" __cid="cZrymie"/>
+          <img src="$model/UI2/truk/img/car1.png" alt="" xid="car1" style="height:80%;" height="100%" dir="ltr" __cid="cZrymie" class="cZrymie"/>
+          <span xid="car1qty" bind-text="carNumber" class="qtystyle cZrymie" __cid="cZrymie"/>
+          <img src="$model/UI2/truk/img/chezi.png" alt="" xid="car2" style="height:80%;" __cid="cZrymie" class="cZrymie"/>
+          <span xid="car2qty" bind-text="hsNumber" class="qtystyle cZrymie" __cid="cZrymie"/>
+        </div> 
+      </div> 
+    </div>  
+    <div tabindex="-1" xid="div2" align="center" style="position:fixed;background-color:#D9D9D9;left:0;width:100%;font-weight:bold;font-family:微软雅黑;bottom:0px;height:8%;top:92%;" class="pull-left center-block cZrymie" __cid="cZrymie"> 
+      <span xid="span10" style="font-size:0.4rem;display:block;position:absolute;width:100%;height:40%;top:30%;" bind-text="lastStorage" __cid="cZrymie" class="cZrymie"/>
+    </div>
+    <div class="x-panel-content cZrymie" xid="content1" style="width:100%;height:94%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cZrymie"> 
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row center-block cZrymie" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cZrymie"> 
+        <div class="x-col cZrymie" xid="col1" __cid="cZrymie"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cZrymie" xid="input1" id="scaninput" style="opacity: 0;height:0.6rem;" bind-keydown="input2Keypress" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" data-config="{&quot;valueUpdateMode&quot;:&quot;keypress&quot;}" __cid="cZrymie"/>
+        </div>
+      </div>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cZrymie" xid="row5" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cZrymie"> 
+        <div class="x-col cZrymie" xid="col3" style="text-align:center;" __cid="cZrymie">
+          <span xid="span3" style="font-size:0.6rem;font-weight:bold;font-family:微软雅黑;" class="center-block cZrymie" bind-text="hintreminder" __cid="cZrymie">检查并扫描商品</span>
+        </div> 
+      </div>
+      <div xid="line" style="background-color:#FF0000;height:0.1rem;display:none;" __cid="cZrymie" class="cZrymie"/>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cZrymie" xid="row3" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cZrymie"> 
+        <div class="x-col cZrymie" xid="col2" __cid="cZrymie">
+          <span class="type cZrymie" xid="span4" style="font-weight:bold;font-family:微软雅黑;" bind-text="unitName" __cid="cZrymie"/>  
+          <span xid="span6" style="margin-top:0.2rem;font-family:微软雅黑;" class="righttext cZrymie" bind-text="No" __cid="cZrymie"/>
+        </div> 
+      </div>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cZrymie" xid="row4" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cZrymie"> 
+        <span xid="span5" class="text cZrymie" bind-text="textName" style="font-size:0.5rem;font-family:微软雅黑;font-weight:bold;width:100%;" __cid="cZrymie"/>
+      </div>
+      <label xid="label3" style="text-align:center;font-size:0.5rem;font-family:微软雅黑;width:100%;clip:rect(20px auto auto auto);background-color:#C00000;color:#FFFFFF;display:none;font-weight:bold;padding-top:0.2rem;padding-bottom:0.2rem;margin:0px 0px 0px 0px;" dir="ltr" id="goodsall" bind-text="binName" __cid="cZrymie" class="cZrymie"/>  
+      <label xid="carid" style="text-align:center;font-size:0.5rem;font-family:微软雅黑;width:100%;clip:rect(20px auto auto auto);color:#FFFFFF;font-weight:bold;padding-top:0.2rem;padding-bottom:0.2rem;background-color:#F4BF00;display:none;" dir="rtl" bind-text="bccar" __cid="cZrymie" class="cZrymie"/>
+      <div xid="baoc" style="text-align:center;margin-bottom:0.3rem;display:none;" __cid="cZrymie" class="cZrymie">
+        <img src="$model/UI2/truk/img/scrap.png" alt="" xid="image1" style="width:4rem;height:3rem;" __cid="cZrymie" class="cZrymie"/>  
+        <a component="$model/UI2/system/components/justep/button/button" xid="mainbtn" style="background-image: url($model/UI2/truk/img/btn12.png);background-size:100% 100%;font-size:0.6rem;text-align:center;top:0;left:0;font-family:微软雅黑;width:80%;" class="btn btn-default center-block cZrymie" bind-click="mainbtnClick" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;操作失误，返回上一页面&quot;}" __cid="cZrymie"> 
+          <i xid="i3" __cid="cZrymie" class="cZrymie"/>  
+          <span xid="span7" __cid="cZrymie" class="cZrymie">重新选择上架模式</span>
+        </a>
+      </div>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cZrymie" style="width:100%;padding:0px 0px 0px 0px;margin-right:0px;margin-bottom:0px;margin-left:0px;" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cZrymie"> 
+        <div class="x-col cZrymie" xid="col6" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;" __cid="cZrymie">
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control center-block cZrymie" xid="input3" style="display:none;width:2rem;text-align:center;font-weight:bold;margin-top:0.2rem;margin-bottom:0.2rem;" bind-keydown="input3Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" data-config="{&quot;dataType&quot;:&quot;Integer&quot;,&quot;valueUpdateMode&quot;:&quot;keypress&quot;}" __cid="cZrymie"/>
+          <div id="messagStow" xid="div1" class="waring1 cZrymie" align="left" bind-click="div1Click" style="height:auto;text-align:center;padding:20px 10px 20px 10px;display:none;font-family:微软雅黑;font-size:0.5rem;font-weight:bold;" dir="ltr" bind-html="det" __cid="cZrymie"></div> 
+        </div>
+      </div>
+      <div xid="div3" __cid="cZrymie" class="cZrymie"/> 
+    </div>  
+    <style __cid="cZrymie" class="cZrymie">.x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p4642d3a525f84959b3a7b55d6346a855-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog2" style="top:62px;left:28px;" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog2Receive" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;height&quot;:&quot;60%&quot;,&quot;top&quot;:&quot;20%&quot;}" __cid="cZrymie" class="cZrymie">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cZrymie" __cid="cZrymie"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cZrymie" style="display:none;" __cid="cZrymie">
+      <xhtml:div class="x-dialog-title cZrymie" __cid="cZrymie">
+        <xhtml:button class="close cZrymie" __cid="cZrymie">
+          <xhtml:span __cid="cZrymie" class="cZrymie">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cZrymie" __cid="cZrymie"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cZrymie" __cid="cZrymie"/>
+    </xhtml:div>
+  </span>
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog" style="left:523px;top:120px;" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialogReceive" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;height&quot;:&quot;auto&quot;,&quot;resizable&quot;:true,&quot;routable&quot;:true,&quot;showTitle&quot;:false,&quot;width&quot;:&quot;auto&quot;}" __cid="cZrymie" class="cZrymie"> 
+    <result concept="data" operation="edit" origin="data" xid="default6" __cid="cZrymie" class="cZrymie"> 
+      <mapping from="id" to="id" locator="true" xid="default7" __cid="cZrymie" class="cZrymie"/>  
+      <mapping from="name" to="name" xid="default8" __cid="cZrymie" class="cZrymie"/>  
+      <mapping from="age" to="age" xid="default9" __cid="cZrymie" class="cZrymie"/>
+    </result>  
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cZrymie" __cid="cZrymie"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cZrymie" style="display:none;" showTitle="false" __cid="cZrymie">
+      <xhtml:div class="x-dialog-title cZrymie" __cid="cZrymie">
+        <xhtml:button class="close cZrymie" __cid="cZrymie">
+          <xhtml:span __cid="cZrymie" class="cZrymie">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cZrymie" __cid="cZrymie"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cZrymie" __cid="cZrymie"/>
+    </xhtml:div>
+  </span>
+</div>

@@ -1,0 +1,99 @@
+.type{
+color:red;
+font:SimSun;
+font-size:0.8rem;
+}
+.text{
+ 
+
+color:blue;
+font:SimSun;
+font-size:0.4rem;
+}
+
+.righttext{
+color:black;
+float:right;
+
+font-size:0.5rem;
+}
+.spstyle
+{ text-decoration:underline;
+ font-weight:bold;
+}
+.iptcar
+{
+	width:6rem;
+}
+
+	
+.btnsty
+{
+	background: linear-gradient(#5C81CA,#2F62BB );margin-left:5px;font-size:0.4rem;text-align:center;border:none;
+}
+.btnstygray
+{
+	background: #8A8A8A;margin-left:5px;font-size:0.4rem;text-align:center;border:none;
+}
+
+.spstyle3
+{  
+ font-weight:normal;
+}
+.spstyle2
+{ text-decoration:underline;
+ font-weight:bold;
+ font-size:0.6rem;
+}
+
+.tipCon{
+	background:#ff0000;	
+	font:bold 0.5rem 微软雅黑;
+	color:#ffffff;
+	padding:0.5rem 0.3rem;
+}
+
+.tipli{
+	font:0.5rem 微软雅黑;
+	color:#000000;
+	border:solid 0.01rem #AAC2D7;
+	padding:0.3rem;
+}
+
+.errorCon {
+	display: none;
+	background-color: #FF0000;
+	font-family: 微软雅黑;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 0.5rem;
+	text-align: center;
+	padding: 0.3rem;
+	margin-top: 0.2rem;
+}
+
+.btnOpation{
+	font:0.5rem 微软雅黑;
+	color:#ffffff;
+	width:60%;
+	margin-top:0.3rem;
+	background:linear-gradient(#6083cb,#2e61ba);
+	box-shadow:0 0.1rem 0.1rem #8b8b8b;
+}
+
+.dateDes{
+	font:0.5rem 微软雅黑;
+	color:#ffffff;
+}
+
+.dateIn{
+	font:0.5rem 微软雅黑;
+	color:#000000;
+	line-height:0.8rem;
+	display:-webkit-box;
+}
+.btnOk{
+	width:auto;
+	background:linear-gradient(#6284CB,#3061B9);
+	margin:0.5rem 0.5rem 0 0.5rem;
+}

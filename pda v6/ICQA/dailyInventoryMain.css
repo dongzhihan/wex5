@@ -1,0 +1,35 @@
+.tittle
+{
+	width:100%;
+	text-align:center;
+	margin-top:0.5rem;
+	font:bold 0.5rem 微软雅黑;
+	color:#000000
+}
+
+.welcome{
+	background:linear-gradient(#81B861,#61A235);
+	font:bold 0.5rem 微软雅黑;
+	color:#ffffff;
+}
+
+.btnOpation{
+	text-align:center;
+	width:100%;
+	font:bold 0.47rem 微软雅黑;
+	color:#000000;
+	background:#FFC000;
+	margin-top:0.5rem;
+	padding:0.5rem;
+}
+
+.errorCon{
+	background:#ff0000;
+	padding:0.5rem;
+	margin-top:0.5rem;
+	font:bold 0.47rem 微软雅黑;
+	color:#ffffff;
+	text-align:center;
+	
+}
+

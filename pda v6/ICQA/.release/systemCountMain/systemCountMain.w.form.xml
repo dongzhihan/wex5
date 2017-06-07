@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window ciqMv2u" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="ciqMv2u" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.tittle.ciqMv2u{width: 100%; text-align: center; margin-top: 0.5rem; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} .welcome.ciqMv2u{background: linear-gradient(rgb(129, 184, 97), rgb(97, 162, 53)); font: bold 0.5rem 微软雅黑; color: rgb(255, 255, 255)} .btnOpation.ciqMv2u{text-align: center; width: 100%; font: bold 0.47rem 微软雅黑; color: rgb(0, 0, 0); background: rgb(255, 192, 0); margin-top: 0.5rem; padding: 0.5rem} .errorCon.ciqMv2u{background: rgb(255, 0, 0); padding: 0.5rem; margin-top: 0.5rem; font: bold 0.47rem 微软雅黑; color: rgb(255, 255, 255); text-align: center; display: none}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="ciqMv2u" class="ciqMv2u"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p1708659df2054b1da929f37c2e27dbe3-iosstatusbar ciqMv2u" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="ciqMv2u"> 
+    <div class="x-panel-top ciqMv2u" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ciqMv2u">
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar welcome ciqMv2u" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="ciqMv2u"> 
+        <div class="x-titlebar-title ciqMv2u" xid="title1" bind-text="welcome" __cid="ciqMv2u"/> 
+      </div>
+    </div>  
+    <div class="x-panel-content ciqMv2u" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ciqMv2u">
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full ciqMv2u" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0,&quot;routable&quot;:false,&quot;slidable&quot;:false,&quot;swipe&quot;:false,&quot;wrap&quot;:false}" __cid="ciqMv2u"> 
+        <div class="x-contents-content active ciqMv2u" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content2Active" __cid="ciqMv2u">
+          <div xid="div1" __cid="ciqMv2u" class="ciqMv2u">
+            <label xid="label1" class="tittle ciqMv2u" bind-text="tittle" __cid="ciqMv2u"/>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation ciqMv2u" xid="button1" bind-click="button1Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="ciqMv2u"> 
+              <i xid="i1" __cid="ciqMv2u" class="ciqMv2u"/>  
+              <span xid="span1" bind-text="opationOne" __cid="ciqMv2u" class="ciqMv2u"/>
+            </a>
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation ciqMv2u" xid="button2" bind-click="button2Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="ciqMv2u"> 
+              <i xid="i2" __cid="ciqMv2u" class="ciqMv2u"/>  
+              <span xid="span2" bind-text="opationTwo" __cid="ciqMv2u" class="ciqMv2u"/>
+            </a>
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation ciqMv2u" xid="button3" bind-click="button3Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="ciqMv2u"> 
+              <i xid="i3" __cid="ciqMv2u" class="ciqMv2u"/>  
+              <span xid="span3" bind-text="opationThree" __cid="ciqMv2u" class="ciqMv2u"/>
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation ciqMv2u" xid="button4" bind-click="button4Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" __cid="ciqMv2u"> 
+              <i xid="i4" __cid="ciqMv2u" class="ciqMv2u"/>  
+              <span xid="span4" bind-text="opationFour" __cid="ciqMv2u" class="ciqMv2u"/>
+            </a>
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block ciqMv2u" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" bind-keypress="quitKeypress" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="ciqMv2u"> 
+              <i xid="i5" __cid="ciqMv2u" class="ciqMv2u"/>  
+              <span xid="span5" __cid="ciqMv2u" class="ciqMv2u">返回</span>
+            </a> 
+          </div> 
+        </div>  
+        <div class="x-contents-content ciqMv2u" xid="content3" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content3Active" __cid="ciqMv2u">
+          <div xid="div2" __cid="ciqMv2u" class="ciqMv2u">
+            <label xid="label2" class="tittle ciqMv2u" bind-text="tittle" __cid="ciqMv2u"/>  
+            <div component="$model/UI2/system/components/justep/list/list" class="x-list ciqMv2u" xid="list1" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;data&quot;:&quot;ordersData&quot;}" __cid="ciqMv2u"> 
+              <ul class="x-list-template hide ciqMv2u" xid="listTemplateUl1" bind-foreach="{data:$model.foreach_list1($element),afterRender:$model.foreach_afterRender_list1.bind($model,$element)}" __cid="ciqMv2u"> 
+                <li xid="li1" class="btnOpation ciqMv2u" bind-click="stocktakingNameClick" __cid="ciqMv2u">
+                  <span xid="stocktakingName" bind-text="ref(&quot;name&quot;)" __cid="ciqMv2u" class="ciqMv2u"/>
+                </li>
+              </ul> 
+            </div>
+          </div>  
+          <div xid="orderErrorCon" class="errorCon ciqMv2u" __cid="ciqMv2u">
+            <span xid="orderErrorMsg" class="errorMsg ciqMv2u" __cid="ciqMv2u"></span>
+          </div>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block ciqMv2u" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" bind-keypress="quitKeypress" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="ciqMv2u"> 
+            <i xid="i5" __cid="ciqMv2u" class="ciqMv2u"/>  
+            <span xid="span5" __cid="ciqMv2u" class="ciqMv2u">返回</span>
+          </a>
+        </div>  
+        <div class="x-contents-content ciqMv2u" xid="content4" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content4Active;onInactive:content4Inactive" __cid="ciqMv2u">
+          <div xid="div3" __cid="ciqMv2u" class="ciqMv2u">
+            <label xid="label3" class="tittle ciqMv2u" bind-text="tittle" __cid="ciqMv2u"/>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation ciqMv2u" xid="button5" bind-click="button5Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="ciqMv2u"> 
+              <i xid="i5" __cid="ciqMv2u" class="ciqMv2u"/>  
+              <span xid="span5" __cid="ciqMv2u" class="ciqMv2u">系统自动分配任务</span>
+            </a>  
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation ciqMv2u" xid="button6" bind-click="button6Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="ciqMv2u"> 
+              <i xid="i6" __cid="ciqMv2u" class="ciqMv2u"/>  
+              <span xid="span6" __cid="ciqMv2u" class="ciqMv2u">扫描临近货位</span>
+            </a>
+          </div>  
+          <div xid="errorCon" class="errorCon ciqMv2u" __cid="ciqMv2u">
+            <span xid="errorMsg" class="errorMsg ciqMv2u" __cid="ciqMv2u"></span>
+          </div>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block ciqMv2u" xid="quit" style="margin-top:0.5rem;width:2rem;font-size:0.47rem;font-weight:bold;font-family:微软雅黑;color:#000000;background-color:#FFC000;" bind-keypress="quitKeypress" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:quitClick" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="ciqMv2u"> 
+            <i xid="i5" __cid="ciqMv2u" class="ciqMv2u"/>  
+            <span xid="span5" __cid="ciqMv2u" class="ciqMv2u">返回</span>
+          </a>
+        </div>
+      </div>
+    </div>  
+    <style __cid="ciqMv2u" class="ciqMv2u">.x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p1708659df2054b1da929f37c2e27dbe3-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div>
+</div>

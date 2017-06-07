@@ -1,0 +1,57 @@
+.type{
+color:red;
+font-family:微软雅黑;
+font-size:0.8rem;
+}
+.qty{
+color:black;
+
+font-size:0.8rem;
+ font-weight:bold;
+ 
+}
+.qtystyle
+{
+	font-size:0.6rem;
+	 font-weight:bold;
+}
+.spstyle
+{ text-decoration:underline;
+ font-weight:bold;
+}
+.spstyle4
+{  
+ font-weight:bold;
+}
+.text{
+ 
+
+color:blue;
+ font-family:微软雅黑;
+font-size:0.4rem;
+}
+
+.righttext{
+color:black;
+float:right;
+
+font-size:0.5rem;
+}
+.war1
+{
+	background: linear-gradient(#6FAB46,#71B048 );
+}
+.qtystyle
+{
+	font-size:0.6rem;
+	 font-weight:bold;
+}
+.spstyle3
+{  
+ font-weight:normal;
+}
+.spstyle2
+{ text-decoration:underline;
+ font-weight:bold;
+ font-size:0.6rem;
+}

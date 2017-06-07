@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cEn67nu" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cEn67nu" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/messageDialog/messageDialog,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.spstyle4.cEn67nu{color: black}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cEn67nu" class="cEn67nu"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/messageDialog/messageDialog" xid="messageDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/messageDialog/messageDialog'}" data-config="{&quot;type&quot;:&quot;YesNo&quot;}" __cid="cEn67nu" class="cEn67nu"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal-overlay cEn67nu" __cid="cEn67nu"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal cEn67nu" __cid="cEn67nu">  
+      <div class="x-modal-inner cEn67nu" __cid="cEn67nu"> 
+        <div class="x-modal-title cEn67nu" __cid="cEn67nu"/>  
+        <div class="x-modal-text cEn67nu" __cid="cEn67nu"/>  
+        <input class="x-modal-prompt-input cEn67nu" type="text" __cid="cEn67nu"/> 
+      </div>  
+      <div class="x-modal-buttons cEn67nu" __cid="cEn67nu"> 
+        <a class="x-modal-button x-modal-button-bold OK cEn67nu" value="ok" __cid="cEn67nu">确定</a>  
+        <a class="x-modal-button x-modal-button-bold Yes cEn67nu" value="yes" __cid="cEn67nu">是</a>  
+        <a class="x-modal-button x-modal-button-bold No cEn67nu" value="no" __cid="cEn67nu">否</a>  
+        <a class="x-modal-button x-modal-button-bold Cancel cEn67nu" value="cancel" __cid="cEn67nu">取消</a> 
+      </div> 
+    </div> 
+  </span>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;routable&quot;:true}" __cid="cEn67nu" class="cEn67nu"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cEn67nu" __cid="cEn67nu"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cEn67nu" style="display:none;" __cid="cEn67nu">  
+      <div class="x-dialog-title cEn67nu" __cid="cEn67nu"> 
+        <button class="close cEn67nu" __cid="cEn67nu"> 
+          <span __cid="cEn67nu" class="cEn67nu">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cEn67nu" __cid="cEn67nu"/> 
+      </div>  
+      <div class="x-dialog-body cEn67nu" __cid="cEn67nu"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pab37de8d110a439690787be5f59c18b0-iosstatusbar cEn67nu" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{keypress:$model._callModelFn.bind($model, 'panel1Keypress'),click:$model._callModelFn.bind($model, 'panel1Click')}" __cid="cEn67nu"> 
+    <label xid="outbandopwaring" style="text-align:left;font-size:2rem;font-family:微软雅黑;padding:15px 15px 15px 15px;width:100%;background-color:red;color:#FFFFFF;font-size:0.5rem;opacity:0" dir="ltr" id="messagepick" __cid="cEn67nu" class="cEn67nu"/>  
+    <div class="x-panel-content cEn67nu" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEn67nu"> 
+      <input component="$model/UI2/system/components/justep/input/input" class="form-control cEn67nu" xid="input2" style="opacity:0;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input2Keypress')}" data-config="{&quot;valueUpdateMode&quot;:&quot;input&quot;}" __cid="cEn67nu"/> 
+    </div>  
+    <div class="x-panel-bottom cEn67nu" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEn67nu"/>  
+    <div xid="div1" style="width:80%;text-align:center;color:#000000;font-family:微软雅黑;" class="center-block cEn67nu" __cid="cEn67nu"> 
+      <label id="lb" style="font-size:0.7rem;font-family:微软雅黑;color:#000000;font-weight:bold;width:100%;" dir="rtl" __cid="cEn67nu" class="cEn67nu">请扫描车牌号码</label>  
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cEn67nu" xid="row1" style="text-align:left;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEn67nu"> 
+        <div class="x-col cEn67nu" xid="col3" __cid="cEn67nu"> 
+          <span xid="span1" style="font-size:0.5rem;" __cid="cEn67nu" class="cEn67nu">开始货位：</span>  
+          <span xid="span4" style="font-size:0.5rem;" __cid="cEn67nu" class="cEn67nu" data-bind="text:storageLocation"/> 
+        </div> 
+      </div>  
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cEn67nu" xid="row2" style="text-align:left;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEn67nu"> 
+        <div class="x-col cEn67nu" xid="col5" __cid="cEn67nu"> 
+          <span xid="span2" style="font-size:0.5rem;" __cid="cEn67nu" class="cEn67nu">当 前 PP ：</span>  
+          <span xid="span5" style="font-size:0.5rem;" __cid="cEn67nu" class="cEn67nu" data-bind="text:pickType"/> 
+        </div> 
+      </div>  
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cEn67nu" xid="row3" style="text-align:left;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEn67nu"> 
+        <div class="x-col cEn67nu" xid="col1" __cid="cEn67nu" data-bind="visible:pickOriginalCar.get()"> 
+          <span xid="span7" style="font-size:0.5rem;" __cid="cEn67nu" class="cEn67nu">原车：</span>  
+          <span xid="span6" style="font-size:0.5rem;" __cid="cEn67nu" class="cEn67nu" data-bind="text:pickOriginalCar"/> 
+        </div> 
+      </div> 
+    </div>  
+    <img src="@justepContextPath@/v_eec43b613de042a6bdcb86f2499331b8l_zh_CNs_desktopd_pc/truk/img/ibnlog.png" alt="" xid="image1" class="center-block cEn67nu" align="middle" style="height:194px;" __cid="cEn67nu"/>  
+    <div style="position:relative;text-align:center;height:8%;width:60%;" class="center-block cEn67nu" xid="change" __cid="cEn67nu"> 
+      <a component="$model/UI2/system/components/justep/button/button" xid="mainbtn" style="background:linear-gradient(#5C81CA,#2F62BB );background-size:100% 100%;font-size:0.6rem;position:absolute;text-align:center;width:100%;top:0;left:0;padding:0.15rem 0.15rem 0.15rem 0.15rem;font-family:微软雅黑;" class="btn btn-default center-block cEn67nu" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:mainbtnClick" data-config="{&quot;label&quot;:&quot;重新选择拣货模式&quot;}" __cid="cEn67nu"> 
+        <i xid="i3" __cid="cEn67nu" class="cEn67nu"/>  
+        <span xid="span3" __cid="cEn67nu" class="cEn67nu">重新选择拣货模式</span> 
+      </a> 
+    </div>  
+    <style __cid="cEn67nu" class="cEn67nu">.x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pab37de8d110a439690787be5f59c18b0-iosstatusbar &gt;.x-panel-content {top: 0px;}</style> 
+  </div> 
+</div>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window container-fluid cEVfuia" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cEVfuia" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.listyle.cEVfuia{font-family: "微软雅黑"; color: black; font-size: 0.4rem} .clr.cEVfuia{box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); background: linear-gradient(rgb(92, 129, 202), rgb(47, 98, 187))}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="cEVfuia" class="cEVfuia"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialogsg" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;height&quot;:&quot;65%&quot;,&quot;resizable&quot;:true,&quot;routable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;,&quot;status&quot;:&quot;normal&quot;,&quot;top&quot;:&quot;10%&quot;}" __cid="cEVfuia" class="cEVfuia">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cEVfuia" __cid="cEVfuia"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cEVfuia" style="display:none;" __cid="cEVfuia">
+      <xhtml:div class="x-dialog-title cEVfuia" __cid="cEVfuia">
+        <xhtml:button class="close cEVfuia" __cid="cEVfuia">
+          <xhtml:span __cid="cEVfuia" class="cEVfuia">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cEVfuia" __cid="cEVfuia"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cEVfuia" __cid="cEVfuia"/>
+    </xhtml:div>
+  </span>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiversg" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" data-events="onReceive:windowReceiver1Receive" __cid="cEVfuia" class="cEVfuia"/>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p07fed409cf944763abd0e62687c2a398-iosstatusbar cEVfuia" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cEVfuia"> 
+    <div class="x-panel-top cEVfuia" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEVfuia"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/truk/inbandsg/img/out.png) fixed center center no-repeat; background-size:cover;" class="x-titlebar cEVfuia" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cEVfuia"> 
+        <div xid="left1" reverse="false" class="x-titlebar-right  cEVfuia" style="width:70px;text-align:right;" __cid="cEVfuia">
+          <div class="empty cEVfuia" __cid="cEVfuia"/>
+        </div>
+        <div class="x-titlebar-title cEVfuia" style="width:262px;" __cid="cEVfuia">上架菜单</div>  
+        <div class="x-titlebar-right reverse cEVfuia" __cid="cEVfuia"></div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content  x-scroll-view cEVfuia" xid="content1" _xid="C745E73767000001E5C355A01748AA50" style="bottom: 0px;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEVfuia"> 
+      <div xid="div7" __cid="cEVfuia" class="cEVfuia">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEVfuia" xid="row2" style="width:100%;margin:0px 0px 5px 0px;padding:0px 0px 0px 0px;height:10%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEVfuia"> 
+          <div class="x-col cEVfuia" xid="col6" style="height:100%;width:100%;" __cid="cEVfuia"> 
+            <div xid="div1" style="width:100%;height:63%;text-align:center;" __cid="cEVfuia" class="cEVfuia"> 
+              <span xid="span1" style="font-family:微软雅黑;font-size:0.5rem;font-weight:bold;" __cid="cEVfuia" class="cEVfuia">热键号码：</span>  
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control cEVfuia" xid="input5" id="hotkey" style="width:20%;display:inline-block;font-weight:bold;font-size:0.5rem;" bind-keydown="input5Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cEVfuia"/>
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEVfuia" xid="row1" style="width:100%;height:40%;text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEVfuia"> 
+          <div class="x-col cEVfuia" xid="col1" __cid="cEVfuia"> 
+            <div xid="div2" __cid="cEVfuia" class="cEVfuia"> 
+              <ul xid="ul1" dir="ltr" __cid="cEVfuia" class="cEVfuia"> 
+                <li class="listyle cEVfuia" xid="li2" __cid="cEVfuia">1—单件上架</li>  
+                <li class="listyle cEVfuia" xid="li3" __cid="cEVfuia">2—批量上架</li>  
+                <li class="listyle cEVfuia" xid="li4" __cid="cEVfuia">3—商品残损</li>  
+                <li class="listyle cEVfuia" xid="li5" __cid="cEVfuia">4—信息查询</li>  
+                <li class="listyle cEVfuia" xid="li6" __cid="cEVfuia">5—报告暗灯</li>  
+                <li class="listyle cEVfuia" xid="li1" __cid="cEVfuia">6—结束上架</li>
+              </ul> 
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEVfuia" xid="row3" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEVfuia"> 
+          <div class="x-col cEVfuia" xid="col5" __cid="cEVfuia">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default clr cEVfuia" xid="button1" style="background: linear-gradient(#5C81CA,#2F62BB );font-family:微软雅黑;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;确定&quot;}" __cid="cEVfuia"> 
+              <i xid="i1" __cid="cEVfuia" class="cEVfuia"/>  
+              <span xid="span2" __cid="cEVfuia" class="cEVfuia">确定</span>
+            </a>
+          </div>  
+          <div class="x-col cEVfuia" xid="col7" __cid="cEVfuia">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default clr cEVfuia" xid="button2" style="background: linear-gradient(#5C81CA,#2F62BB );font-family:微软雅黑;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;取消&quot;}" __cid="cEVfuia"> 
+              <i xid="i2" __cid="cEVfuia" class="cEVfuia"/>  
+              <span xid="span3" __cid="cEVfuia" class="cEVfuia">取消</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>  
+    <style __cid="cEVfuia" class="cEVfuia">.x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p07fed409cf944763abd0e62687c2a398-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

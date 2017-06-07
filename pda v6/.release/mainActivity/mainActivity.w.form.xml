@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cF7zy63" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cF7zy63" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">null</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cF7zy63" class="cF7zy63"></div>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar cF7zy63" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cF7zy63"> 
+    <div class="x-panel-content cF7zy63" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cF7zy63"/>  
+    <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cF7zy63" xid="button1" bind-click="button1Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;button&quot;}" __cid="cF7zy63"> 
+      <i xid="i1" __cid="cF7zy63" class="cF7zy63"/>  
+      <span xid="span1" __cid="cF7zy63" class="cF7zy63"/>
+    </a>
+    <style __cid="cF7zy63" class="cF7zy63">.x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p2b9f79a00d9f4ab39ace1b783e261e4f-iosstatusbar &gt;.x-panel-content {top: 0px;}</style>
+  </div> 
+</div>

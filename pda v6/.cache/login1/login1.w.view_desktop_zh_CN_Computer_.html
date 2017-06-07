@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window ciMvY32" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="ciMvY32" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/messageDialog/messageDialog,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">null</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="ciMvY32" class="ciMvY32"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;resizable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;}" __cid="ciMvY32" class="ciMvY32"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay ciMvY32" __cid="ciMvY32"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog ciMvY32" style="display:none;" __cid="ciMvY32">  
+      <div class="x-dialog-title ciMvY32" __cid="ciMvY32"> 
+        <button class="close ciMvY32" __cid="ciMvY32"> 
+          <span __cid="ciMvY32" class="ciMvY32">×</span> 
+        </button>  
+        <div class="x-dialog-title-text ciMvY32" __cid="ciMvY32"/> 
+      </div>  
+      <div class="x-dialog-body ciMvY32" __cid="ciMvY32"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar ciMvY32" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="ciMvY32"> 
+    <div class="x-panel-top ciMvY32" xid="top1" style="height:auto;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ciMvY32"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url(@justepContextPath@/v_ab3f84c5214146cf98ccbd384a2d0446l_zh_CNs_desktopd_pc/truk/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar ciMvY32" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="ciMvY32"> 
+        <div class="x-titlebar-title ciMvY32" style="width:262px;" __cid="ciMvY32">请输入登录信息</div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content ciMvY32" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ciMvY32"> 
+      <div xid="div1" __cid="ciMvY32" class="ciMvY32"> 
+        <label xid="label3" style="text-align:center;font-size:0.6rem;font-family:宋体;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;" dir="rtl" __cid="ciMvY32" class="ciMvY32">请输入工卡信息</label>  
+        <img src="@justepContextPath@/v_773ca75758ba4f0b9bba082cb61c2153l_zh_CNs_desktopd_pc/truk/img/worklog.png" alt="" xid="image1" class="center-block ciMvY32" align="middle" style="width:4rem;height:5rem;" __cid="ciMvY32"/>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control center-block ciMvY32" xid="IDInput" style="width:50%;margin-top:5px;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keyup:$model._callModelFn.bind($model, 'input1Keypress')}" __cid="ciMvY32"/>  
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default center-block ciMvY32" xid="button1" style="background-color:#BFBFBF;color:#000000;text-decoration:none;margin-top:10px;font-weight:bold;width:2rem;font-size:0.6rem;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;退出&quot;}" __cid="ciMvY32"> 
+          <i xid="i2" __cid="ciMvY32" class="ciMvY32"/>  
+          <span xid="span2" __cid="ciMvY32" class="ciMvY32">退出</span> 
+        </a> 
+      </div> 
+    </div>  
+    <style __cid="ciMvY32" class="ciMvY32">.x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pb2d14a4b24124496bd5c4705231e4e11-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/messageDialog/messageDialog" xid="messageDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/messageDialog/messageDialog'}" data-config="{&quot;message&quot;:&quot;工卡不能为空！&quot;,&quot;title&quot;:&quot;登陆提示&quot;,&quot;type&quot;:&quot;OK&quot;}" __cid="ciMvY32" class="ciMvY32"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal-overlay ciMvY32" __cid="ciMvY32"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal ciMvY32" __cid="ciMvY32">  
+      <div class="x-modal-inner ciMvY32" __cid="ciMvY32"> 
+        <div class="x-modal-title ciMvY32" __cid="ciMvY32">登陆提示</div>  
+        <div class="x-modal-text ciMvY32" __cid="ciMvY32">工卡不能为空！</div>  
+        <input class="x-modal-prompt-input ciMvY32" type="text" __cid="ciMvY32"/> 
+      </div>  
+      <div class="x-modal-buttons ciMvY32" __cid="ciMvY32"> 
+        <a class="x-modal-button x-modal-button-bold OK ciMvY32" value="ok" __cid="ciMvY32">确定</a>  
+        <a class="x-modal-button x-modal-button-bold Yes ciMvY32" value="yes" __cid="ciMvY32">是</a>  
+        <a class="x-modal-button x-modal-button-bold No ciMvY32" value="no" __cid="ciMvY32">否</a>  
+        <a class="x-modal-button x-modal-button-bold Cancel ciMvY32" value="cancel" __cid="ciMvY32">取消</a> 
+      </div> 
+    </div> 
+  </span>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="ciMvY32" class="ciMvY32"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog2" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog2Receive" __cid="ciMvY32" class="ciMvY32"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay ciMvY32" __cid="ciMvY32"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog ciMvY32" style="display:none;" __cid="ciMvY32">  
+      <div class="x-dialog-title ciMvY32" __cid="ciMvY32"> 
+        <button class="close ciMvY32" __cid="ciMvY32"> 
+          <span __cid="ciMvY32" class="ciMvY32">×</span> 
+        </button>  
+        <div class="x-dialog-title-text ciMvY32" __cid="ciMvY32"/> 
+      </div>  
+      <div class="x-dialog-body ciMvY32" __cid="ciMvY32"/> 
+    </div> 
+  </span> 
+</div>

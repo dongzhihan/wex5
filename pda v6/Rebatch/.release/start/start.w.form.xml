@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cf2MFbq" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cf2MFbq" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="cf2MFbq" class="cf2MFbq"/>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar cf2MFbq" xid="panel1" bind-click="panel1Click" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cf2MFbq"> 
+    <div class="x-panel-top cf2MFbq" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cf2MFbq">
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cf2MFbq" xid="titleBar1" style="background: linear-gradient(#80B860, #61A335);box-shadow: 0rem 0.1rem 0.1rem #8B8B8B;" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cf2MFbq"> 
+        <div class="x-titlebar-title cf2MFbq" xid="title1" __cid="cf2MFbq">
+          <span style="font-family:微软雅黑;color:#FFFFFF;font-weight:bold;font-size:0.5rem" bind-text="comename" __cid="cf2MFbq" class="cf2MFbq">信息</span>
+        </div> 
+      </div>
+    </div>  
+    <div class="x-panel-content cf2MFbq" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cf2MFbq"> 
+      <div xid="div1" __cid="cf2MFbq" class="cf2MFbq"> 
+        <label xid="label2" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;font-weight:normal;font-size:0.65rem;color:#000000;" dir="rtl" __cid="cf2MFbq" class="cf2MFbq">请扫描工作站条码</label>  
+        <img src="$model/UI2/truk/img/tiaoma.png" alt="" xid="image1" class="center-block cf2MFbq" style="width:4rem;1rem;" __cid="cf2MFbq"/>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control cf2MFbq" xid="input1" bind-keydown="input1Keydown" style="opacity:0" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cf2MFbq"/>
+      </div>
+    </div>  
+    <div class="x-panel-bottom cf2MFbq" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cf2MFbq"/>
+    <style __cid="cf2MFbq" class="cf2MFbq">.x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pbdc8eb4d664f401b8adb511f5166df6a-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div>
+</div>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window ceiUFbe" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="ceiUFbe" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.spstyle.ceiUFbe{text-decoration: underline; font-weight: bold} .spstyle2.ceiUFbe{text-decoration: underline; font-weight: bold; font-size: 2em} .waring.ceiUFbe span.ceiUFbe{font-size: 1.5em}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad" __cid="ceiUFbe" class="ceiUFbe"></div>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" data-events="onReceive:windowReceiver1Receive" __cid="ceiUFbe" class="ceiUFbe"/>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;forceRefreshOnOpen&quot;:false,&quot;routable&quot;:true}" __cid="ceiUFbe" class="ceiUFbe">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay ceiUFbe" __cid="ceiUFbe"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog ceiUFbe" style="display:none;" __cid="ceiUFbe">
+      <xhtml:div class="x-dialog-title ceiUFbe" __cid="ceiUFbe">
+        <xhtml:button class="close ceiUFbe" __cid="ceiUFbe">
+          <xhtml:span __cid="ceiUFbe" class="ceiUFbe">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text ceiUFbe" __cid="ceiUFbe"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body ceiUFbe" __cid="ceiUFbe"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p127594e1087e4891bc263274a227e303-iosstatusbar ceiUFbe" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="ceiUFbe"> 
+    <div class="x-panel-top ceiUFbe" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ceiUFbe"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar ceiUFbe" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" data-config="{&quot;title&quot;:&quot;上架结束&quot;}" __cid="ceiUFbe"> 
+        <div class="x-titlebar-left ceiUFbe" __cid="ceiUFbe"></div>  
+        <div class="x-titlebar-title ceiUFbe" __cid="ceiUFbe">上架结束</div>  
+        <div class="x-titlebar-right  ceiUFbe" style="margin:1px 30px 1px 1px;width:30%;height:100%;" xid="right1" __cid="ceiUFbe">
+          <div class="empty ceiUFbe" __cid="ceiUFbe"/>
+          <img src="$model/UI2/mushiny/img/car1.png" alt="" xid="car1" style="width:20%;height:100%;" __cid="ceiUFbe" class="ceiUFbe"/>
+          <span class="label ceiUFbe" xid="car1qty" __cid="ceiUFbe">123</span>
+          <img src="$model/UI2/mushiny/img/chezi.png" alt="" xid="car2" style="width:20%;height:100%;" __cid="ceiUFbe" class="ceiUFbe"/>
+          <span class="label ceiUFbe" xid="car2qty" __cid="ceiUFbe">123</span>
+        </div>
+      </div> 
+    </div>  
+    <div class="x-panel-content ceiUFbe" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="ceiUFbe">
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row ceiUFbe" xid="row2" style="width:100%;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:30%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="ceiUFbe"> 
+        <div class="x-col ceiUFbe" xid="col6" style="height:100%;width:100%;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="ceiUFbe"> 
+          <div id="message" xid="div1" class="waring ceiUFbe" align="justify" style="height:auto;text-align:center;background-color:#DEEBF7;" dir="ltr" bind-html="details" __cid="ceiUFbe"></div> 
+        </div> 
+      </div> 
+    </div>  
+    <style __cid="ceiUFbe" class="ceiUFbe">.x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p127594e1087e4891bc263274a227e303-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

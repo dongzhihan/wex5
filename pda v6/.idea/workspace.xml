@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="715f1a50-3345-44db-a04a-c714add9cdc5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/main_desktop_zh_CN_Computer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/inBound.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/inBound/inBound.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/index/index.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/index/index.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/index/index.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/.cache/index/index.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/login1.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/login1/login1.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/login2.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/login2/login2.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/main/main.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/.cache/main/main.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/outBound.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/outBound/outBound.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/problem/problem.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/problem/problem.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/ICQA/ICQA.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/ICQA/ICQA.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/inBound/inBound.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/inBound/inBound.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/index/index.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/index/index.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/login1/login1.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/login1/login1.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/login2/login2.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/login2/login2.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/main/main.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/main/main.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/outBound/outBound.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/outBound/outBound.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/problem/problem.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/problem/problem.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/warehouses/warehouses.w.form.xml.sign" afterPath="$PROJECT_DIR$/.release/warehouses/warehouses.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/ICQAMessage/ICQAMessage.w.form.xml.sign" afterPath="$PROJECT_DIR$/ICQA/.release/ICQAMessage/ICQAMessage.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/commodityTreatment/commodityTreatment.w.form.xml.sign" afterPath="$PROJECT_DIR$/ICQA/.release/commodityTreatment/commodityTreatment.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/dailyInventoryMain/dailyInventoryMain.w.form.xml.sign" afterPath="$PROJECT_DIR$/ICQA/.release/dailyInventoryMain/dailyInventoryMain.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/roundOne/roundOne.w.form.xml.sign" afterPath="$PROJECT_DIR$/ICQA/.release/roundOne/roundOne.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/roundTwo/roundTwo.w.form.xml.sign" afterPath="$PROJECT_DIR$/ICQA/.release/roundTwo/roundTwo.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/systemCountMain/systemCountMain.w.form.xml.sign" afterPath="$PROJECT_DIR$/ICQA/.release/systemCountMain/systemCountMain.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.release/start/start.w.form.xml.sign" afterPath="$PROJECT_DIR$/Rebatch/.release/start/start.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.release/startrebatch/startrebatch.w.form.xml.sign" afterPath="$PROJECT_DIR$/Rebatch/.release/startrebatch/startrebatch.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/ground/ground.w.form.xml.sign" afterPath="$PROJECT_DIR$/inbandsg/.release/ground/ground.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/scancar_id/scancar_id.w.form.xml.sign" afterPath="$PROJECT_DIR$/inbandsg/.release/scancar_id/scancar_id.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/sgend/sgend.w.form.xml.sign" afterPath="$PROJECT_DIR$/inbandsg/.release/sgend/sgend.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/sgmenu/sgmenu.w.form.xml.sign" afterPath="$PROJECT_DIR$/inbandsg/.release/sgmenu/sgmenu.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/start/start.w.form.xml.sign" afterPath="$PROJECT_DIR$/inbandsg/.release/start/start.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/usermessage/usermessage.w.form.xml.sign" afterPath="$PROJECT_DIR$/inbandsg/.release/usermessage/usermessage.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/usermessages/usermessages.w.form.xml.sign" afterPath="$PROJECT_DIR$/inbandsg/.release/usermessages/usermessages.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.release/recipient/recipient.w.form.xml.sign" afterPath="$PROJECT_DIR$/inboundsh/.release/recipient/recipient.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.release/skuqty/skuqty.w.form.xml.sign" afterPath="$PROJECT_DIR$/inboundsh/.release/skuqty/skuqty.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.release/start/start.w.form.xml.sign" afterPath="$PROJECT_DIR$/inboundsh/.release/start/start.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.release/ICQALightMenu/ICQALightMenu.w.form.xml.sign" afterPath="$PROJECT_DIR$/light/.release/ICQALightMenu/ICQALightMenu.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.release/lightmenu/lightmenu.w.form.xml.sign" afterPath="$PROJECT_DIR$/light/.release/lightmenu/lightmenu.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/.release/start/start.w.form.xml.sign" afterPath="$PROJECT_DIR$/outbandyd/.release/start/start.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/start/start.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/user/user.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/user/user.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html.sign" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/pickmain/pickmain.w.form.xml.sign" afterPath="$PROJECT_DIR$/outbound/.release/pickmain/pickmain.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/pickmenu/pickmenu.w.form.xml.sign" afterPath="$PROJECT_DIR$/outbound/.release/pickmenu/pickmenu.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/scancar_id/scancar_id.w.form.xml.sign" afterPath="$PROJECT_DIR$/outbound/.release/scancar_id/scancar_id.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/start/start.w.form.xml.sign" afterPath="$PROJECT_DIR$/outbound/.release/start/start.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/user/user.w.form.xml.sign" afterPath="$PROJECT_DIR$/outbound/.release/user/user.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/usermessages/usermessages.w.form.xml.sign" afterPath="$PROJECT_DIR$/outbound/.release/usermessages/usermessages.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.html.sign" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.html.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/select/select.w.form.xml.sign" afterPath="$PROJECT_DIR$/problemSolve/.release/select/select.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/transfer/transfer.w.form.xml.sign" afterPath="$PROJECT_DIR$/problemSolve/.release/transfer/transfer.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/transferMain/transferMain.w.form.xml.sign" afterPath="$PROJECT_DIR$/problemSolve/.release/transferMain/transferMain.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/vaild/vaild.w.form.xml.sign" afterPath="$PROJECT_DIR$/problemSolve/.release/vaild/vaild.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/vaildMain/vaildMain.w.form.xml.sign" afterPath="$PROJECT_DIR$/problemSolve/.release/vaildMain/vaildMain.w.form.xml.sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/ICQA/ICQA.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/ICQA/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/ICQA/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/.cache/inBound/inBOund.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/inBound.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/inBound/inBound.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/inBound.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/inBound/inBound.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/inBound/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/inBound/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/.cache/inBound/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/index/index.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/index/index.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/index/index.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/.cache/index/index.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/index/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/index/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/index/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/.cache/index/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/login1.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/login1/login1.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/login1.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/login1/login1.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/.cache/login1/login1.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/login1/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login1/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/.cache/login1/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/login2.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/login2/login2.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/login2.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/login2/login2.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/.cache/login2/login2.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/login2/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/login2/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/.cache/login2/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/main/main.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/main/main.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/.cache/main/main.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/.cache/main/main.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/main/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/main/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/.cache/main/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/outBound/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/.cache/outBound/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/outBound.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/outBound/outBound.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/outBound.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/outBound/outBound.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/.cache/outBound/outBound.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/problem/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/problem/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/problem/problem.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/problem/problem.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/problem/problem.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/problem/problem.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/warehouses/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/.cache/warehouses/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/.cache/warehouses/warehouses.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/ICQA/ICQA.w.form.xml" afterPath="$PROJECT_DIR$/.release/ICQA/ICQA.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/inBound/inBound.w.form.xml" afterPath="$PROJECT_DIR$/.release/inBound/inBound.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/login1/login1.w.form.xml" afterPath="$PROJECT_DIR$/.release/login1/login1.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/login2/login2.w.form.xml" afterPath="$PROJECT_DIR$/.release/login2/login2.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/main/main.w.form.xml" afterPath="$PROJECT_DIR$/.release/main/main.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/outBound/outBound.w.form.xml" afterPath="$PROJECT_DIR$/.release/outBound/outBound.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/problem/problem.w.form.xml" afterPath="$PROJECT_DIR$/.release/problem/problem.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.release/warehouses/warehouses.w.form.xml" afterPath="$PROJECT_DIR$/.release/warehouses/warehouses.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA.js" afterPath="$PROJECT_DIR$/ICQA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/ICQAMessage.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/ICQA/.cache/ICQAMessage/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/commodityTreatment.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/ICQA/.cache/commodityTreatment/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/dailyInventoryMain.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/ICQA/.cache/dailyInventoryMain/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundOne/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/ICQA/.cache/roundOne/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/ICQA/.cache/roundOne/roundOne.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundTwo/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/ICQA/.cache/roundTwo/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/ICQA/.cache/roundTwo/roundTwo.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/ICQA/.cache/systemCountMain/systemCountMain.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/ICQAMessage/ICQAMessage.w.form.xml" afterPath="$PROJECT_DIR$/ICQA/.release/ICQAMessage/ICQAMessage.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/commodityTreatment/commodityTreatment.w.form.xml" afterPath="$PROJECT_DIR$/ICQA/.release/commodityTreatment/commodityTreatment.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/dailyInventoryMain/dailyInventoryMain.w.form.xml" afterPath="$PROJECT_DIR$/ICQA/.release/dailyInventoryMain/dailyInventoryMain.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/roundOne/roundOne.w.form.xml" afterPath="$PROJECT_DIR$/ICQA/.release/roundOne/roundOne.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/roundTwo/roundTwo.w.form.xml" afterPath="$PROJECT_DIR$/ICQA/.release/roundTwo/roundTwo.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/.release/systemCountMain/systemCountMain.w.form.xml" afterPath="$PROJECT_DIR$/ICQA/.release/systemCountMain/systemCountMain.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/commodityTreatment.css" afterPath="$PROJECT_DIR$/ICQA/commodityTreatment.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/commodityTreatment.js" afterPath="$PROJECT_DIR$/ICQA/commodityTreatment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/commodityTreatment.w" afterPath="$PROJECT_DIR$/ICQA/commodityTreatment.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/dailyInventoryMain.js" afterPath="$PROJECT_DIR$/ICQA/dailyInventoryMain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/dailyInventoryMain.w" afterPath="$PROJECT_DIR$/ICQA/dailyInventoryMain.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/roundOne.js" afterPath="$PROJECT_DIR$/ICQA/roundOne.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/roundOne.w" afterPath="$PROJECT_DIR$/ICQA/roundOne.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/roundTwo.js" afterPath="$PROJECT_DIR$/ICQA/roundTwo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/roundTwo.w" afterPath="$PROJECT_DIR$/ICQA/roundTwo.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/systemCountMain.js" afterPath="$PROJECT_DIR$/ICQA/systemCountMain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ICQA/systemCountMain.w" afterPath="$PROJECT_DIR$/ICQA/systemCountMain.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/Rebatch/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/Rebatch/.cache/startrebatch/startrebatch.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.release/start/start.w.form.js" afterPath="$PROJECT_DIR$/Rebatch/.release/start/start.w.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.release/start/start.w.form.xml" afterPath="$PROJECT_DIR$/Rebatch/.release/start/start.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.release/startrebatch/startrebatch.w.form.js" afterPath="$PROJECT_DIR$/Rebatch/.release/startrebatch/startrebatch.w.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/.release/startrebatch/startrebatch.w.form.xml" afterPath="$PROJECT_DIR$/Rebatch/.release/startrebatch/startrebatch.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/start.js" afterPath="$PROJECT_DIR$/Rebatch/start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/start.w" afterPath="$PROJECT_DIR$/Rebatch/start.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/startrebatch.css" afterPath="$PROJECT_DIR$/Rebatch/startrebatch.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/startrebatch.js" afterPath="$PROJECT_DIR$/Rebatch/startrebatch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rebatch/startrebatch.w" afterPath="$PROJECT_DIR$/Rebatch/startrebatch.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inBound.js" afterPath="$PROJECT_DIR$/inBound.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/ground.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/ground/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/ground/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgend/sgend.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/sgmenu/sgmenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessage/usermessage.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessages/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessages/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inbandsg/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/ground/ground.w.form.xml" afterPath="$PROJECT_DIR$/inbandsg/.release/ground/ground.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/scancar_id/scancar_id.w.form.xml" afterPath="$PROJECT_DIR$/inbandsg/.release/scancar_id/scancar_id.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/sgend/sgend.w.form.xml" afterPath="$PROJECT_DIR$/inbandsg/.release/sgend/sgend.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/sgmenu/sgmenu.w.form.xml" afterPath="$PROJECT_DIR$/inbandsg/.release/sgmenu/sgmenu.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/start/start.w.form.xml" afterPath="$PROJECT_DIR$/inbandsg/.release/start/start.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/usermessage/usermessage.w.form.xml" afterPath="$PROJECT_DIR$/inbandsg/.release/usermessage/usermessage.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/.release/usermessages/usermessages.w.form.xml" afterPath="$PROJECT_DIR$/inbandsg/.release/usermessages/usermessages.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/ground.css" afterPath="$PROJECT_DIR$/inbandsg/ground.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/ground.js" afterPath="$PROJECT_DIR$/inbandsg/ground.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/ground.w" afterPath="$PROJECT_DIR$/inbandsg/ground.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/scancar_id.js" afterPath="$PROJECT_DIR$/inbandsg/scancar_id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/sgend.js" afterPath="$PROJECT_DIR$/inbandsg/sgend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/sgend.w" afterPath="$PROJECT_DIR$/inbandsg/sgend.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/sgmenu.js" afterPath="$PROJECT_DIR$/inbandsg/sgmenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/usermessage.js" afterPath="$PROJECT_DIR$/inbandsg/usermessage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbandsg/usermessages.js" afterPath="$PROJECT_DIR$/inbandsg/usermessages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/recipient/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inboundsh/.cache/recipient/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inboundsh/.cache/recipient/recipient.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/skuqty/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inboundsh/.cache/skuqty/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inboundsh/.cache/skuqty/skuqty.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/start/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/inboundsh/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/inboundsh/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.release/recipient/recipient.w.form.xml" afterPath="$PROJECT_DIR$/inboundsh/.release/recipient/recipient.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.release/skuqty/skuqty.w.form.xml" afterPath="$PROJECT_DIR$/inboundsh/.release/skuqty/skuqty.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/.release/start/start.w.form.xml" afterPath="$PROJECT_DIR$/inboundsh/.release/start/start.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/recipient.js" afterPath="$PROJECT_DIR$/inboundsh/recipient.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/skuqty.js" afterPath="$PROJECT_DIR$/inboundsh/skuqty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inboundsh/start.js" afterPath="$PROJECT_DIR$/inboundsh/start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/api.js" afterPath="$PROJECT_DIR$/js/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/pickLang.js" afterPath="$PROJECT_DIR$/js/pickLang.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/light/.cache/ICQALightMenu/ICQALightMenu.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/ICQALightMenu/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/light/.cache/ICQALightMenu/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/light/.cache/lightmenu/lightmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.cache/lightmenu/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/light/.cache/lightmenu/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.release/ICQALightMenu/ICQALightMenu.w.form.xml" afterPath="$PROJECT_DIR$/light/.release/ICQALightMenu/ICQALightMenu.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/.release/lightmenu/lightmenu.w.form.xml" afterPath="$PROJECT_DIR$/light/.release/lightmenu/lightmenu.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/light/ICQALightMenu.js" afterPath="$PROJECT_DIR$/light/ICQALightMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login1.js" afterPath="$PROJECT_DIR$/login1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login2.js" afterPath="$PROJECT_DIR$/login2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outBound.js" afterPath="$PROJECT_DIR$/outBound.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/outbandyd/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/outbandyd/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/.release/start/start.w.form.js" afterPath="$PROJECT_DIR$/outbandyd/.release/start/start.w.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/.release/start/start.w.form.xml" afterPath="$PROJECT_DIR$/outbandyd/.release/start/start.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/start.css" afterPath="$PROJECT_DIR$/outbandyd/start.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/start.js" afterPath="$PROJECT_DIR$/outbandyd/start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbandyd/start.w" afterPath="$PROJECT_DIR$/outbandyd/start.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/outbound/.cache/pickmain/pickmain.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/outbound/.cache/pickmenu/pickmenu.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/outbound/.cache/scancar_id/scancar_id.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/outbound/.cache/start/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/outbound/.cache/start/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/start.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/outbound/.cache/start/start.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/start.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/outbound/.cache/start/start.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/outbound/.cache/start/start.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/user/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/outbound/.cache/user/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/user/user.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/outbound/.cache/user/user.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/user/user.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/outbound/.cache/user/user.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/main_desktop_zh_CN_Computer.html" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/main_desktop_zh_CN_Computer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.js" afterPath="$PROJECT_DIR$/outbound/.cache/usermessages/usermessages.w.view_desktop_zh_CN_Computer_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/pickmain/pickmain.w.form.xml" afterPath="$PROJECT_DIR$/outbound/.release/pickmain/pickmain.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/pickmenu/pickmenu.w.form.xml" afterPath="$PROJECT_DIR$/outbound/.release/pickmenu/pickmenu.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/scancar_id/scancar_id.w.form.xml" afterPath="$PROJECT_DIR$/outbound/.release/scancar_id/scancar_id.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/start/start.w.form.xml" afterPath="$PROJECT_DIR$/outbound/.release/start/start.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/user/user.w.form.xml" afterPath="$PROJECT_DIR$/outbound/.release/user/user.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/.release/usermessages/usermessages.w.form.xml" afterPath="$PROJECT_DIR$/outbound/.release/usermessages/usermessages.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/pickmain.js" afterPath="$PROJECT_DIR$/outbound/pickmain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/pickmain.w" afterPath="$PROJECT_DIR$/outbound/pickmain.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/pickmenu.js" afterPath="$PROJECT_DIR$/outbound/pickmenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/qtymenu.js" afterPath="$PROJECT_DIR$/outbound/qtymenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/scancar_id.js" afterPath="$PROJECT_DIR$/outbound/scancar_id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/scancar_id.w" afterPath="$PROJECT_DIR$/outbound/scancar_id.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/start.js" afterPath="$PROJECT_DIR$/outbound/start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/start.w" afterPath="$PROJECT_DIR$/outbound/start.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/user.js" afterPath="$PROJECT_DIR$/outbound/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/user.w" afterPath="$PROJECT_DIR$/outbound/user.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outbound/usermessages.js" afterPath="$PROJECT_DIR$/outbound/usermessages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problem.js" afterPath="$PROJECT_DIR$/problem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/select/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/select/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/problemSolve/.cache/select/select.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transfer/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/transfer/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/problemSolve/.cache/transfer/transfer.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transferMain/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/transferMain/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/problemSolve/.cache/transferMain/transferMain.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaild/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaild/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaild/vaild.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/main__zh_CN_Mobile.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/main__zh_CN_Mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.html" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.js" afterPath="$PROJECT_DIR$/problemSolve/.cache/vaildMain/vaildMain.w.view__zh_CN_Mobile_.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/select/select.w.form.xml" afterPath="$PROJECT_DIR$/problemSolve/.release/select/select.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/transfer/transfer.w.form.xml" afterPath="$PROJECT_DIR$/problemSolve/.release/transfer/transfer.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/transferMain/transferMain.w.form.xml" afterPath="$PROJECT_DIR$/problemSolve/.release/transferMain/transferMain.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/vaild/vaild.w.form.xml" afterPath="$PROJECT_DIR$/problemSolve/.release/vaild/vaild.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/.release/vaildMain/vaildMain.w.form.xml" afterPath="$PROJECT_DIR$/problemSolve/.release/vaildMain/vaildMain.w.form.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/select.js" afterPath="$PROJECT_DIR$/problemSolve/select.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/select.w" afterPath="$PROJECT_DIR$/problemSolve/select.w" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/transferMain.js" afterPath="$PROJECT_DIR$/problemSolve/transferMain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/vaild.js" afterPath="$PROJECT_DIR$/problemSolve/vaild.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problemSolve/vaildMain.js" afterPath="$PROJECT_DIR$/problemSolve/vaildMain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.js" afterPath="$PROJECT_DIR$/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/warehouses.js" afterPath="$PROJECT_DIR$/warehouses.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="recipient.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inboundsh/recipient.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="1161" column="80" lean-forward="false" selection-start-line="1161" selection-start-column="80" selection-end-line="1161" selection-end-column="80" />
+              <folding>
+                <marker date="1492072552110" expanded="true" signature="3582:3600" ph="..." />
+                <marker date="1492072552110" expanded="true" signature="3773:3878" ph="..." />
+                <marker date="1492072552110" expanded="true" signature="4090:4173" ph="..." />
+                <marker date="1492072552110" expanded="true" signature="4503:4555" ph="..." />
+                <marker date="1492072552110" expanded="true" signature="4588:4631" ph="..." />
+                <marker date="1492072552110" expanded="true" signature="4797:4902" ph="..." />
+                <marker date="1492072552110" expanded="true" signature="5133:5238" ph="..." />
+                <marker date="1492072552110" expanded="true" signature="6855:7632" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="6882:7075" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="6909:7071" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="7692:8304" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="7719:7817" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="7746:7812" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="9531:17572" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="9562:17569" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="9737:10595" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="9776:10470" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="9806:10170" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="9836:10162" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="10624:12010" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="10739:11885" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="10769:11619" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="10799:11610" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="10855:11432" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="24795:25085" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="25442:25750" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="27269:29797" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="27295:29793" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="35368:38108" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="36425:36892" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="36467:36782" ph="{...}" />
+                <marker date="1492072552110" expanded="true" signature="36544:36667" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skuqty.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inboundsh/skuqty.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="93" column="56" lean-forward="false" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+              <folding>
+                <marker date="1492072552124" expanded="true" signature="25:2900" ph="{...}" />
+                <marker date="1492072552124" expanded="true" signature="291:1044" ph="{...}" />
+                <marker date="1492072552124" expanded="true" signature="1637:2419" ph="{...}" />
+                <marker date="1492072552124" expanded="true" signature="1668:2416" ph="{...}" />
+                <marker date="1492072552124" expanded="true" signature="2018:2412" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inboundsh/start.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="31" column="58" lean-forward="false" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-488">
+              <caret line="267" column="26" lean-forward="true" selection-start-line="267" selection-start-column="26" selection-end-line="267" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICQALightMenu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/light/ICQALightMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+              <folding>
+                <marker date="1492072552140" expanded="true" signature="24:1840" ph="{...}" />
+                <marker date="1492072552140" expanded="true" signature="1526:1716" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scancar_id.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outbound/scancar_id.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="143" column="34" lean-forward="false" selection-start-line="143" selection-start-column="34" selection-end-line="143" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outbound/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usermessages.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outbound/usermessages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="61" column="48" lean-forward="false" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+              <folding>
+                <marker date="1492072552268" expanded="true" signature="1535:1760" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problemSolve/select.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scancar_id.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inbandsg/scancar_id.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-659">
+              <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console.log(data)</find>
+      <find>console.log(html)</find>
+      <find>console.log(&quot;ajax error&quot;, arguments);</find>
+      <find>console.log();</find>
+      <find>console.log</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\WeX5_V3.5\model\UI2\truk</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ICQA.js" />
+        <option value="$PROJECT_DIR$/inBound.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/login1.js" />
+        <option value="$PROJECT_DIR$/login2.js" />
+        <option value="$PROJECT_DIR$/outBound.js" />
+        <option value="$PROJECT_DIR$/problem.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/warehouses.js" />
+        <option value="$PROJECT_DIR$/ICQA/commodityTreatment.js" />
+        <option value="$PROJECT_DIR$/ICQA/dailyInventoryMain.js" />
+        <option value="$PROJECT_DIR$/ICQA/roundOne.js" />
+        <option value="$PROJECT_DIR$/ICQA/roundTwo.js" />
+        <option value="$PROJECT_DIR$/ICQA/systemCountMain.js" />
+        <option value="$PROJECT_DIR$/inbandsg/ground.js" />
+        <option value="$PROJECT_DIR$/inbandsg/sgend.js" />
+        <option value="$PROJECT_DIR$/inbandsg/sgmenu.js" />
+        <option value="$PROJECT_DIR$/inboundsh/recipient.js" />
+        <option value="$PROJECT_DIR$/inboundsh/skuqty.js" />
+        <option value="$PROJECT_DIR$/inboundsh/start.js" />
+        <option value="$PROJECT_DIR$/js/api.js" />
+        <option value="$PROJECT_DIR$/light/ICQALightMenu.js" />
+        <option value="$PROJECT_DIR$/outbound/scancar_id.js" />
+        <option value="$PROJECT_DIR$/outbound/user.js" />
+        <option value="$PROJECT_DIR$/outbound/usermessages.js" />
+        <option value="$PROJECT_DIR$/problemSolve/select.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="truk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="truk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="truk" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="715f1a50-3345-44db-a04a-c714add9cdc5" name="Default" comment="" />
+      <created>1492071698952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492071698952</updated>
+      <workItem from="1492071700362" duration="1517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1517000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ICQA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+          <folding>
+            <marker date="1492072119571" expanded="true" signature="2295:2345" ph="..." />
+            <marker date="1492072119571" expanded="true" signature="2539:2643" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inBound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+          <folding>
+            <marker date="1492072119741" expanded="true" signature="1854:1904" ph="..." />
+            <marker date="1492072119741" expanded="true" signature="2098:2202" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="213" column="55" lean-forward="false" selection-start-line="213" selection-start-column="55" selection-end-line="213" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outBound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding>
+            <marker date="1492072119694" expanded="true" signature="2189:2239" ph="..." />
+            <marker date="1492072119694" expanded="true" signature="2432:2536" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding>
+            <marker date="1492072119710" expanded="true" signature="2254:2304" ph="..." />
+            <marker date="1492072119710" expanded="true" signature="2498:2602" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warehouses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICQA/commodityTreatment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="459" column="0" lean-forward="false" selection-start-line="459" selection-start-column="0" selection-end-line="459" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICQA/dailyInventoryMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="260" column="40" lean-forward="false" selection-start-line="260" selection-start-column="40" selection-end-line="260" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICQA/roundOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="295" column="44" lean-forward="false" selection-start-line="295" selection-start-column="44" selection-end-line="295" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICQA/roundTwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="719" column="40" lean-forward="false" selection-start-line="719" selection-start-column="40" selection-end-line="719" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICQA/systemCountMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="99" column="29" lean-forward="false" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inbandsg/ground.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="607" column="54" lean-forward="false" selection-start-line="607" selection-start-column="54" selection-end-line="607" selection-end-column="54" />
+          <folding>
+            <marker date="1492072552253" expanded="true" signature="3540:3558" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="3729:3786" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="4005:4040" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="4372:4390" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="4561:4618" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="4837:4872" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="5429:5447" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="5665:5716" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="5935:5980" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="6391:6409" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="6528:6579" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="6744:6789" ph="..." />
+            <marker date="1492072552253" expanded="true" signature="9734:9752" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inbandsg/sgend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="207" column="26" lean-forward="false" selection-start-line="207" selection-start-column="26" selection-end-line="207" selection-end-column="26" />
+          <folding>
+            <marker date="1492072552204" expanded="true" signature="1442:1458" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="1651:1656" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="1901:1948" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="3068:3155" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="3753:3769" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="4541:4673" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="5446:5494" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="5917:6049" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="6254:6270" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="7221:7266" ph="..." />
+            <marker date="1492072552204" expanded="true" signature="8656:8673" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inbandsg/sgmenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="55" column="50" lean-forward="false" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inboundsh/recipient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1161" column="80" lean-forward="false" selection-start-line="1161" selection-start-column="80" selection-end-line="1161" selection-end-column="80" />
+          <folding>
+            <marker date="1492072552110" expanded="true" signature="3582:3600" ph="..." />
+            <marker date="1492072552110" expanded="true" signature="3773:3878" ph="..." />
+            <marker date="1492072552110" expanded="true" signature="4090:4173" ph="..." />
+            <marker date="1492072552110" expanded="true" signature="4503:4555" ph="..." />
+            <marker date="1492072552110" expanded="true" signature="4588:4631" ph="..." />
+            <marker date="1492072552110" expanded="true" signature="4797:4902" ph="..." />
+            <marker date="1492072552110" expanded="true" signature="5133:5238" ph="..." />
+            <marker date="1492072552110" expanded="true" signature="6855:7632" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="6882:7075" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="6909:7071" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="7692:8304" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="7719:7817" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="7746:7812" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="9531:17572" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="9562:17569" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="9737:10595" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="9776:10470" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="9806:10170" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="9836:10162" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="10624:12010" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="10739:11885" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="10769:11619" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="10799:11610" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="10855:11432" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="24795:25085" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="25442:25750" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="27269:29797" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="27295:29793" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="35368:38108" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="36425:36892" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="36467:36782" ph="{...}" />
+            <marker date="1492072552110" expanded="true" signature="36544:36667" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inboundsh/skuqty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="93" column="56" lean-forward="false" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+          <folding>
+            <marker date="1492072552124" expanded="true" signature="25:2900" ph="{...}" />
+            <marker date="1492072552124" expanded="true" signature="291:1044" ph="{...}" />
+            <marker date="1492072552124" expanded="true" signature="1637:2419" ph="{...}" />
+            <marker date="1492072552124" expanded="true" signature="1668:2416" ph="{...}" />
+            <marker date="1492072552124" expanded="true" signature="2018:2412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inboundsh/start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="31" column="58" lean-forward="false" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/light/ICQALightMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+          <folding>
+            <marker date="1492072552140" expanded="true" signature="24:1840" ph="{...}" />
+            <marker date="1492072552140" expanded="true" signature="1526:1716" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outbound/scancar_id.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="143" column="34" lean-forward="false" selection-start-line="143" selection-start-column="34" selection-end-line="143" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outbound/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outbound/usermessages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="61" column="48" lean-forward="false" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+          <folding>
+            <marker date="1492072552268" expanded="true" signature="1535:1760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSolve/select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inbandsg/scancar_id.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-659">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="267" column="26" lean-forward="true" selection-start-line="267" selection-start-column="26" selection-end-line="267" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

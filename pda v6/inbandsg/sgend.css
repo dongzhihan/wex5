@@ -1,0 +1,27 @@
+.spstyle
+{ text-decoration:underline;
+ font-weight:bold;
+}
+.spstyle2
+{ text-decoration:underline;
+ font-weight:bold;
+ font-size:2em;
+}
+.waring span
+{
+	font-size:0.5rem;
+}
+.spstyle3
+{  
+ font-weight:normal;
+}
+.spstyle2
+{ text-decoration:underline;
+ font-weight:bold;
+ font-size:0.6rem;
+}
+.clr
+{
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	background: linear-gradient(#5C81CA,#2F62BB );
+}

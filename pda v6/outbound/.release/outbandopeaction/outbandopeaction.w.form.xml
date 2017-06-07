@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cEF3A3q" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cEF3A3q" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onModelConstruct:modelModelConstruct;onLoad:modelLoad" __cid="cEF3A3q" class="cEF3A3q"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;src&quot;:&quot;$model/UI2/mushiny/login3.w&quot;}" __cid="cEF3A3q" class="cEF3A3q">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cEF3A3q" __cid="cEF3A3q"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cEF3A3q" style="display:none;" __cid="cEF3A3q">
+      <xhtml:div class="x-dialog-title cEF3A3q" __cid="cEF3A3q">
+        <xhtml:button class="close cEF3A3q" __cid="cEF3A3q">
+          <xhtml:span __cid="cEF3A3q" class="cEF3A3q">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cEF3A3q" __cid="cEF3A3q"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cEF3A3q" __cid="cEF3A3q"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p3b7b1334887640c09949680c855b518e-iosstatusbar cEF3A3q" xid="panel1" style="height:90%;" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cEF3A3q"> 
+    <div class="x-panel-content cEF3A3q" xid="content1" style="height:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEF3A3q">
+      <label xid="outbandopwaring" style="text-align:center;font-size:2rem;font-family:宋体;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;background-color:red;color:#FFFFFF;" dir="rtl" bind-text="text" __cid="cEF3A3q" class="cEF3A3q"/>
+      <label xid="opeactionlab" style="text-align:center;margin:0px 0px 0px 0px;width:100%;padding:25px 25px 25px 25px;font-size:2rem;" dir="rtl" __cid="cEF3A3q" class="cEF3A3q">请选择操作方式</label>
+      <div xid="div1" style="width:100%;height:12%;margin:10px auto auto auto;" class="center-block cEF3A3q" __cid="cEF3A3q">
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-lg cEF3A3q" xid="button6" style="width:100%;background-color:#D3CFD0;font-size:20px;color:#FFFFFF;font-family:宋体;font-weight:bold;background-image: url($model/UI2/mushiny/img/btn3.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;返回主页面&quot;}" __cid="cEF3A3q"> 
+          <i xid="i6" __cid="cEF3A3q" class="cEF3A3q"/>  
+          <span xid="span6" __cid="cEF3A3q" class="cEF3A3q">返回主页面</span>
+        </a>
+      </div>  
+      <div xid="div3" style="width:100%;height:12%;margin:10px auto auto auto;" class="center-block cEF3A3q" __cid="cEF3A3q"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-lg cEF3A3q" xid="button8" style="width:100%;background-color:#D3CFD0;font-size:20px;color:#FFFFFF;font-family:宋体;font-weight:bold;background-image: url($model/UI2/mushiny/img/btn3.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button8Click" data-config="{&quot;label&quot;:&quot;继续进入拣货页面&quot;}" __cid="cEF3A3q"> 
+          <i xid="i8" __cid="cEF3A3q" class="cEF3A3q"/>  
+          <span xid="span8" __cid="cEF3A3q" class="cEF3A3q">继续进入拣货页面</span>
+        </a> 
+      </div> 
+    </div>  
+    <style __cid="cEF3A3q" class="cEF3A3q">.x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p3b7b1334887640c09949680c855b518e-iosstatusbar &gt;.x-panel-content {top: 0px;}</style>
+  </div> 
+</div>

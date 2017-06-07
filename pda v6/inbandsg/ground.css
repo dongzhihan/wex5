@@ -1,0 +1,72 @@
+.type {
+	color: red;
+	font: SimSun;
+	font-size: 0.8rem;
+}
+
+.text {
+	color: blue;
+	font: SimSun;
+	font-size: 0.4rem;
+}
+
+.qtystyle {
+	font-size: 0.6rem;
+	font-weight: bold;
+}
+
+#sp8 {
+	float: left;
+}
+
+.righttext {
+	color: black;
+	float: right;
+	font-size: 0.5rem;
+}
+
+.waring1  span {
+	
+}
+
+.clr {
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	background: linear-gradient(#5C81CA, #2F62BB);
+}
+
+.waring1 {
+	background-color: #FF0000;
+	color: #FFFFFF;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+	font-size: 1em;
+	position: relative;
+}
+
+.x-dialog-body {
+	padding: 0;
+}
+
+.spstyle {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#scaninput {
+	-webkit-user-modify: read-write-plaintext-only;
+}
+
+#qty {
+	-webkit-user-modify: read-write-plaintext-only;
+}
+
+.spstyle3 {
+	font-weight: normal;
+}
+
+.spstyle2 {
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 0.6rem;
+}

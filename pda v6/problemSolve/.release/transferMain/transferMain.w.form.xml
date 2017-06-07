@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cVBJV3u" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cVBJV3u" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cVBJV3u" class="cVBJV3u"></div>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p05982c104ed8485b9de741054d695fed-iosstatusbar cVBJV3u" xid="panel1" tabindex="1" bind-click="panel1Click" bind-keypress="panel1Keypress" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cVBJV3u"> 
+    <div class="x-panel-top cVBJV3u" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cVBJV3u"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/truk/problemSolve/img/out.png) fixed center center no-repeat;background-size:cover;font-size:0.7rem;height:auto;" class="x-titlebar cVBJV3u" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cVBJV3u"> 
+        <div class="x-titlebar-title cVBJV3u" style="width:262px;" xid="title1" __cid="cVBJV3u">请选择移货工具类型</div>
+      </div>
+    </div>  
+    <div class="x-panel-content cVBJV3u" xid="content1" style="background-color:transparent;height:100%;width:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cVBJV3u"> 
+      <div xid="divmain" style="height:65%;margin-top:0.5rem;" __cid="cVBJV3u" class="cVBJV3u"> 
+        <div xid="div1" style="width:65%;height:12%;margin:0.5rem auto auto auto;" class="center-block cVBJV3u" __cid="cVBJV3u"/>  
+        <div xid="div3" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block   cVBJV3u" __cid="cVBJV3u"></div>  
+        <div xid="div4" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block cVBJV3u" __cid="cVBJV3u"></div>  
+        <div xid="div5" style="width:65%;height:12%;margin:10px auto auto auto;" class="center-block cVBJV3u" __cid="cVBJV3u"></div>  
+        <div xid="div6" style="width:60%;height:12%;margin:10px auto auto auto;" class="center-block cVBJV3u" __cid="cVBJV3u"/> 
+      </div>  
+      <div xid="div7" style="height:20%;text-align:center;line-height:normal;width:80%;" class="center-block cVBJV3u" __cid="cVBJV3u">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cVBJV3u" xid="row2" style="margin:50px 0px 0px 0px;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cVBJV3u"> 
+          <div class="x-col cVBJV3u" xid="col4" style="width:20%;" __cid="cVBJV3u"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cVBJV3u" xid="mainbtn" style="width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-weight:bold;font-family:微软雅黑;" bind-click="mainbtnClick" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;主页&quot;}" __cid="cVBJV3u"> 
+              <i xid="i3" __cid="cVBJV3u" class="cVBJV3u"/>  
+              <span xid="span3" __cid="cVBJV3u" class="cVBJV3u">主页</span>
+            </a> 
+          </div>  
+          <div class="x-col cVBJV3u" xid="col5" style="width:20%;" __cid="cVBJV3u"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cVBJV3u" xid="button4" style="font-weight:bold;width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;" bind-click="button4Click" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;库房&quot;}" __cid="cVBJV3u"> 
+              <i xid="i4" __cid="cVBJV3u" class="cVBJV3u"/>  
+              <span xid="span4" __cid="cVBJV3u" class="cVBJV3u">库房</span>
+            </a> 
+          </div>  
+          <div class="x-col cVBJV3u" xid="col6" style="width:20%;" __cid="cVBJV3u"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cVBJV3u" xid="quit" style="font-weight:bold;width:100%;height:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;" bind-click="quitClick" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;返回&quot;}" __cid="cVBJV3u"> 
+              <i xid="i5" __cid="cVBJV3u" class="cVBJV3u"/>  
+              <span xid="span5" __cid="cVBJV3u" class="cVBJV3u">返回</span>
+            </a> 
+          </div> 
+        </div>
+      </div>
+    </div>  
+    <style __cid="cVBJV3u" class="cVBJV3u">.x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p05982c104ed8485b9de741054d695fed-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

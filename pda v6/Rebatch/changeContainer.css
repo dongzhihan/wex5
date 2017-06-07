@@ -1,0 +1,29 @@
+table{
+	width:100%;
+	margin-top:0.2rem;
+	text-align:center;
+	font:0.44rem 宋体;
+	background:#cfd5ea;
+	color:#000000;
+	border-left:0.05rem solid white;
+	display:none;
+}
+table th{
+	border-bottom:0.05rem solid white;
+	border-right:0.05rem solid white;
+	text-align:center;
+	padding:0.2rem;
+	background:#4472c4;
+	font-weight:bold;
+	color:#ffffff
+}
+
+table td{
+	border-bottom:0.05rem solid white;
+	border-right:0.05rem solid white;
+	padding:0.2rem;
+}
+
+.bg-info{
+	background:#e9ebf5;
+}

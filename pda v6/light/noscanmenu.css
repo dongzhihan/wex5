@@ -1,0 +1,11 @@
+.listyle
+{
+  font-family:"微软雅黑";
+   font-size:0.4rem;
+   color:black;
+}
+.clr
+{
+	box-shadow: 0rem 0.1rem 0.1rem #8b8b8b;
+	background: linear-gradient(#5C81CA,#2F62BB );
+}

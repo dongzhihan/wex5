@@ -1,0 +1,13 @@
+ul{
+	padding:0.5rem 0rem 0 1.4rem;
+	font:0.47rem 微软雅黑;
+	line-height:0.8rem;
+	color:#000000;
+}
+
+.x-dialog.x-dialog-normal .x-dialog-body{
+	padding:0;
+}
+.labelEdit2{
+	width:auto
+}

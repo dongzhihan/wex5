@@ -1,0 +1,20 @@
+.tittle{
+	width:100%;
+	font:bold 0.8rem 宋体;
+	margin-top:0.5rem;
+	text-align:center;
+}
+
+ul{
+	font:0.5rem calibri,宋体;
+	padding:0.5rem;
+	line-height:1rem;
+}
+
+.btn{
+	width:100%;	
+	background:#ffc000;
+	font:bold 0.5rem 微软雅黑;
+	color:#000000;
+	margin-top:2rem;
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cUNjMbm" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cUNjMbm" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.slotmsg.cUNjMbm{display: inline-block; font-family: Calibri; padding: 0.2rem} span.cUNjMbm{color: rgb(255, 255, 255); width: 100%; text-align: center; font-weight: bold} .data.cUNjMbm{display: inline-block; font-size: 0.44rem; font-family: Calibri; padding: 0.2rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139)} .success.cUNjMbm{display: inline-block; font-family: 微软雅黑; font-size: 0.5rem; font-weight: normal; text-align: center; padding: 0.5rem; background: linear-gradient(rgb(128, 184, 96), rgb(97, 163, 53)); box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139)} btn.cUNjMbm{}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onParamsReceive:modelParamsReceive" __cid="cUNjMbm" class="cUNjMbm"/>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;height&quot;:&quot;70%&quot;,&quot;status&quot;:&quot;normal&quot;}" __cid="cUNjMbm" class="cUNjMbm">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cUNjMbm" __cid="cUNjMbm"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cUNjMbm" style="display:none;" __cid="cUNjMbm">
+      <xhtml:div class="x-dialog-title cUNjMbm" __cid="cUNjMbm">
+        <xhtml:button class="close cUNjMbm" __cid="cUNjMbm">
+          <xhtml:span __cid="cUNjMbm" class="cUNjMbm">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cUNjMbm" __cid="cUNjMbm"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cUNjMbm" __cid="cUNjMbm"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pdde87f765b2e4d26b02d277c932660c3-iosstatusbar cUNjMbm" xid="panel1" bind-click="panel1Click" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cUNjMbm"> 
+    <div class="x-panel-top cUNjMbm" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cUNjMbm"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cUNjMbm" xid="titleBar1" style="background: linear-gradient(#FFC744, #E5B600);box-shadow: 0rem 0.1rem 0.1rem #8B8B8B;display:-webkit-box" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cUNjMbm"> 
+        <div class="x-titlebar-left cUNjMbm" xid="left1" bind-text="headTittle" style="color:#000000;font-size:0.44rem;font-weight:bold;font-family:calibri,'宋体'" __cid="cUNjMbm"/>  
+        <div class="x-titlebar-right  cUNjMbm" xid="right1" __cid="cUNjMbm">
+          <div class="empty cUNjMbm" __cid="cUNjMbm"/>
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cUNjMbm" xid="button3" bind-click="button3Click" style="padding:0.2rem 0.3rem;font-size:0.4rem;margin-right:0.15rem;background: linear-gradient(#5C81CA,#2F62BB );" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cUNjMbm"> 
+            <i xid="i3" __cid="cUNjMbm" class="cUNjMbm"/>  
+            <span xid="span3" style="font-weight:normal" __cid="cUNjMbm" class="cUNjMbm">查看换车</span>
+          </a>
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cUNjMbm" xid="button2" bind-click="button2Click" style="padding:0.2rem 0.3rem;font-size:0.4rem;margin-right:0.15rem;background: linear-gradient(#5C81CA,#2F62BB );" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;&quot;}" __cid="cUNjMbm"> 
+            <i xid="i2" __cid="cUNjMbm" class="cUNjMbm"/>  
+            <span xid="span2" style="font-weight:normal" __cid="cUNjMbm" class="cUNjMbm">退出</span>
+          </a>
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cUNjMbm" xid="content1" style="height:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cUNjMbm"> 
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full cUNjMbm" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0,&quot;routable&quot;:false}" __cid="cUNjMbm"> 
+        <div class="x-contents-content active cUNjMbm" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" __cid="cUNjMbm"> 
+          <div __cid="cUNjMbm" class="cUNjMbm"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cUNjMbm" xid="input1" style="height:0.6rem;opacity:0" bind-keydown="input1Keydown" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cUNjMbm"/>  
+            <label xid="label1" style="text-align:center;font-family:微软雅黑;width:100%;font-weight:bold;font-size:0.5rem;color:#000000;margin-bottom:0.5rem" dir="rtl" bind-text="tittle" __cid="cUNjMbm" class="cUNjMbm"/>  
+            <div xid="slotCon" style="display:none;margin-bottom:0.5rem" __cid="cUNjMbm" class="cUNjMbm"> 
+              <div xid="div4" style="box-shadow:0rem 0.1rem 0.1rem #8B8B8B" __cid="cUNjMbm" class="cUNjMbm"> 
+                <span xid="rq" style="display:inline-block;background-color:#000000;padding:0.1rem;font-family:Calibri;font-size:0.5rem;color:#ffffff;font-weight:bold;width:100%;text-align:center" bind-text="containerName" __cid="cUNjMbm" class="cUNjMbm"/> 
+              </div>  
+              <div bind-style="{ background: currentProfit.get()  }" __cid="cUNjMbm" class="cUNjMbm"> 
+                <span xid="slot" class="slotmsg cUNjMbm" bind-text="slot" bind-style="{ fontSize: fontSize.get(),color: fontColor.get()}" __cid="cUNjMbm"></span> 
+              </div>  
+              <div bind-style="{ background: exsdColors.get()  }" __cid="cUNjMbm" class="cUNjMbm"> 
+                <span class="data cUNjMbm" xid="data" bind-style="{ color: exsdFontColor.get()  }" __cid="cUNjMbm">ExSD:
+                  <span bind-text="date" __cid="cUNjMbm" class="cUNjMbm"/>
+                </span> 
+              </div> 
+            </div>  
+            <div xid="div1" style="display:none;background-color:#FF0000;font-family:微软雅黑;font-weight:bold;color:#FFFFFF;font-size:0.5rem;text-align:center;padding:0.5rem;" dir="rtl" __cid="cUNjMbm" class="cUNjMbm">
+              <span xid="errorMsg" __cid="cUNjMbm" class="cUNjMbm"/> 
+            </div>  
+            <div xid="div2" style="display:none" __cid="cUNjMbm" class="cUNjMbm"> 
+              <span xid="success" class="success cUNjMbm" __cid="cUNjMbm"/> 
+            </div> 
+          </div> 
+        </div> 
+      </div> 
+    </div>  
+    <div style="position:fixed; bottom:0;background-color:#d9d9d9;font-family:微软雅黑;font-weight:bold;text-align:center;font-size:0.5rem;width:100%" __cid="cUNjMbm" class="cUNjMbm"> 
+      <span style="display:inline-block;padding:0.4rem;color:#000000;" id="prvmsg" __cid="cUNjMbm" class="cUNjMbm">上一个容器：
+        <span bind-text="prvContainer" style="color:#000000;" __cid="cUNjMbm" class="cUNjMbm"/>
+      </span> 
+    </div>  
+    <style __cid="cUNjMbm" class="cUNjMbm">.x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pdde87f765b2e4d26b02d277c932660c3-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

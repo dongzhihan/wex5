@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cvEf2Qv" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cvEf2Qv" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.spstyle.cvEf2Qv{text-decoration: underline; font-weight: bold} .spstyle2.cvEf2Qv{text-decoration: underline; font-weight: bold; font-size: 2em} .waring.cvEf2Qv span.cvEf2Qv{font-size: 0.5rem} .spstyle3.cvEf2Qv{font-weight: normal} .spstyle2.cvEf2Qv{text-decoration: underline; font-weight: bold; font-size: 0.6rem} .clr.cvEf2Qv{box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); background: linear-gradient(rgb(92, 129, 202), rgb(47, 98, 187))}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="cvEf2Qv" class="cvEf2Qv"></div>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" data-events="onReceive:windowReceiver1Receive" __cid="cvEf2Qv" class="cvEf2Qv"/>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;forceRefreshOnOpen&quot;:false,&quot;routable&quot;:true}" __cid="cvEf2Qv" class="cvEf2Qv">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cvEf2Qv" __cid="cvEf2Qv"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cvEf2Qv" style="display:none;" __cid="cvEf2Qv">
+      <xhtml:div class="x-dialog-title cvEf2Qv" __cid="cvEf2Qv">
+        <xhtml:button class="close cvEf2Qv" __cid="cvEf2Qv">
+          <xhtml:span __cid="cvEf2Qv" class="cvEf2Qv">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cvEf2Qv" __cid="cvEf2Qv"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cvEf2Qv" __cid="cvEf2Qv"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar cvEf2Qv" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cvEf2Qv"> 
+    <div class="x-panel-top cvEf2Qv" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cvEf2Qv"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cvEf2Qv" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cvEf2Qv"> 
+        <div class="x-titlebar-right  cvEf2Qv" style="margin:1px 1px 1px 1px;width:30%;height:100%;" xid="right1" __cid="cvEf2Qv">
+          <div class="empty cvEf2Qv" __cid="cvEf2Qv"/>
+          <img src="$model/UI2/truk/img/car1.png" alt="" xid="car1" style="height:80%;" height="100%" dir="ltr" __cid="cvEf2Qv" class="cvEf2Qv"/>
+          <span xid="car1qty" bind-text="carNumber" class="qtystyle cvEf2Qv" __cid="cvEf2Qv"/>
+          <img src="$model/UI2/truk/img/chezi.png" alt="" xid="car2" style="height:80%;" __cid="cvEf2Qv" class="cvEf2Qv"/>
+          <span xid="car2qty" bind-text="hsNumber" class="qtystyle cvEf2Qv" __cid="cvEf2Qv"/>
+        </div>
+      </div> 
+    </div>  
+    <div class="x-panel-content cvEf2Qv" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cvEf2Qv">
+      <label xid="label3" style="text-align:center;font-size:0.8rem;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:0px 25px 25px 25px;width:100%;font-weight:bold;" dir="rtl" __cid="cvEf2Qv" class="cvEf2Qv">上架结束</label>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cvEf2Qv" xid="row2" style="width:100%;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:8rem;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cvEf2Qv"> 
+        <div class="x-col cvEf2Qv" xid="col6" style="height:100%;width:100%;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;" __cid="cvEf2Qv"> 
+          <div id="message" xid="div1" class="waring cvEf2Qv" align="justify" style="text-align:center;background-color:#DEEBF7;height:auto;width:100%;font-family:微软雅黑;font-size:0.5rem;padding:10px 10px 10px 10px;" dir="ltr" bind-html="details" bind-style="{'color':color.get(),'background-color':bgcolor.get()}" __cid="cvEf2Qv"></div> 
+        </div> 
+      </div>  
+      <input component="$model/UI2/system/components/justep/input/input" class="form-control cvEf2Qv" xid="input3" bind-keydown="input2Keydown" style="opacity:0;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cvEf2Qv"/>
+    </div>  
+    <div id="hw" tabindex="-1" xid="div2" align="center" style="position:absolute;background-color:#D9D9D9;left:0;width:100%;top:94%;height:6%;font-weight:bold;font-family:微软雅黑;" class="pull-left center-block cvEf2Qv" __cid="cvEf2Qv"> 
+      <span id="s10" xid="span10" style="font-size:0.4rem;display:block;position:absolute;width:100%;height:40%;top:30%;" bind-text="lastStorage" __cid="cvEf2Qv" class="cvEf2Qv"/>
+    </div>
+    <style __cid="cvEf2Qv" class="cvEf2Qv">.x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pb98c9a9f8448481093f546d1ae4ee3fc-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

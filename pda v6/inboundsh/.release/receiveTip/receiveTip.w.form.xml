@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;resolution:320 x 568;" xid="window" class="window container-fluid cjQJrqq" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cjQJrqq" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.x-row.cjQJrqq{display: -webkit-box} .block.cjQJrqq{display: inline-block} .div.cjQJrqq{font: 0.47rem 微软雅黑; color: rgb(0, 0, 0)} .weight.cjQJrqq{font: bold 0.5rem 微软雅黑; text-decoration: underline}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cjQJrqq" class="cjQJrqq"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialoglight" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;forceRefreshOnOpen&quot;:false,&quot;height&quot;:&quot;65%&quot;,&quot;resizable&quot;:true,&quot;routable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;,&quot;status&quot;:&quot;normal&quot;}" __cid="cjQJrqq" class="cjQJrqq">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cjQJrqq" __cid="cjQJrqq"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cjQJrqq" style="display:none;" __cid="cjQJrqq">
+      <xhtml:div class="x-dialog-title cjQJrqq" __cid="cjQJrqq">
+        <xhtml:button class="close cjQJrqq" __cid="cjQJrqq">
+          <xhtml:span __cid="cjQJrqq" class="cjQJrqq">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cjQJrqq" __cid="cjQJrqq"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cjQJrqq" __cid="cjQJrqq"/>
+    </xhtml:div>
+  </span>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cjQJrqq" class="cjQJrqq"/>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p357da3dab1204919a5ff38c57378d3d1-iosstatusbar cjQJrqq" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cjQJrqq"> 
+    <div class="x-panel-top cjQJrqq" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cjQJrqq"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/truk/inboundsh/img/out.png) fixed center center no-repeat; background-size:cover;" class="x-titlebar cjQJrqq" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cjQJrqq"> 
+        <div xid="left1" reverse="false" class="x-titlebar-right  cjQJrqq" style="width:70px;text-align:right;" __cid="cjQJrqq">
+          <div class="empty cjQJrqq" __cid="cjQJrqq"/>
+        </div>
+        <div class="x-titlebar-title cjQJrqq" style="width:262px;" __cid="cjQJrqq">请确认是否多货</div>  
+        <div class="x-titlebar-right reverse cjQJrqq" __cid="cjQJrqq"></div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content  x-scroll-view cjQJrqq" xid="content1" _xid="C745E73767000001E5C355A01748AA50" style="bottom: 0px;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cjQJrqq"> 
+      <div xid="div7" class="div cjQJrqq" __cid="cjQJrqq">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row  cjQJrqq" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cjQJrqq"> 
+          <div class="x-col block cjQJrqq" xid="col1" style="word-break: break-all" __cid="cjQJrqq">商品：
+            <span bind-text="itemName" __cid="cjQJrqq" class="cjQJrqq"/>
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row  cjQJrqq" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cjQJrqq"> 
+          <div class="x-col block cjQJrqq" xid="col4" __cid="cjQJrqq">DN内总数量：</div>  
+          <div class="x-col cjQJrqq" xid="col6" __cid="cjQJrqq">
+            <span bind-text="itemAmount" __cid="cjQJrqq" class="cjQJrqq"/>件
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cjQJrqq" xid="row4" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cjQJrqq"> 
+          <div class="x-col block cjQJrqq" xid="col9" __cid="cjQJrqq">已 收 货数量：</div>  
+          <div class="x-col cjQJrqq" xid="col10" __cid="cjQJrqq">
+            <span bind-text="receiveAmount" __cid="cjQJrqq" class="cjQJrqq"/>件
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cjQJrqq" xid="row5" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cjQJrqq"> 
+          <div class="x-col block cjQJrqq" xid="col12" __cid="cjQJrqq">已 输 入数量：</div>  
+          <div class="x-col cjQJrqq" xid="col13" __cid="cjQJrqq">
+            <span bind-text="total" __cid="cjQJrqq" class="cjQJrqq"/>件
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cjQJrqq" xid="row6" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cjQJrqq"> 
+          <div class="x-col block cjQJrqq" xid="col15" style="word-break: break-all" __cid="cjQJrqq">超出DN数量：
+            <span id="overtop" __cid="cjQJrqq" class="cjQJrqq"/>
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cjQJrqq" xid="row3" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cjQJrqq"> 
+          <div class="x-col cjQJrqq" xid="col5" __cid="cjQJrqq">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cjQJrqq" xid="button1" style="background: linear-gradient(#5C81CA,#2F62BB );" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;确定&quot;}" __cid="cjQJrqq"> 
+              <i xid="i1" __cid="cjQJrqq" class="cjQJrqq"/>  
+              <span xid="span2" __cid="cjQJrqq" class="cjQJrqq">确定</span>
+            </a>
+          </div>  
+          <div class="x-col cjQJrqq" xid="col7" __cid="cjQJrqq">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cjQJrqq" xid="button2" style="background: linear-gradient(#5C81CA,#2F62BB );" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;取消&quot;}" __cid="cjQJrqq"> 
+              <i xid="i2" __cid="cjQJrqq" class="cjQJrqq"/>  
+              <span xid="span3" __cid="cjQJrqq" class="cjQJrqq">取消</span>
+            </a>
+          </div>
+        </div>
+      </div> 
+    </div>  
+    <style __cid="cjQJrqq" class="cjQJrqq">.x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p357da3dab1204919a5ff38c57378d3d1-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

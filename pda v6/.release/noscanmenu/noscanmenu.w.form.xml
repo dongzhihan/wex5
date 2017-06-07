@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window container-fluid cmaENVj" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cmaENVj" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.listyle.cmaENVj{margin-left: 20%; font-size: 1em}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cmaENVj" class="cmaENVj"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialogR1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;resizable&quot;:true,&quot;routable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;}" __cid="cmaENVj" class="cmaENVj">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cmaENVj" __cid="cmaENVj"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cmaENVj" style="display:none;" __cid="cmaENVj">
+      <xhtml:div class="x-dialog-title cmaENVj" __cid="cmaENVj">
+        <xhtml:button class="close cmaENVj" __cid="cmaENVj">
+          <xhtml:span __cid="cmaENVj" class="cmaENVj">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cmaENVj" __cid="cmaENVj"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cmaENVj" __cid="cmaENVj"/>
+    </xhtml:div>
+  </span>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiverR1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cmaENVj" class="cmaENVj"/>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p703743279330416592e1b4ded95fa492-iosstatusbar cmaENVj" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cmaENVj"> 
+    <div class="x-panel-top cmaENVj" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cmaENVj"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/mushiny/img/out.png) fixed center center no-repeat; background-size:cover;" class="x-titlebar cmaENVj" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cmaENVj"> 
+        <div class="x-titlebar-title cmaENVj" style="width:262px;font-size:1.8rem;" __cid="cmaENVj">R-1货位条码无法扫描菜单</div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content  x-scroll-view cmaENVj" xid="content1" _xid="C745E73767000001E5C355A01748AA50" style="bottom: 0px;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cmaENVj"> 
+      <div xid="div7" __cid="cmaENVj" class="cmaENVj">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cmaENVj" xid="row2" style="width:100%;margin:0px 0px 5px 0px;padding:0px 0px 0px 0px;height:10%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmaENVj"> 
+          <div class="x-col cmaENVj" xid="col6" style="height:100%;width:100%;" __cid="cmaENVj"> 
+            <div xid="div1" style="width:100%;height:63%;text-align:center;" __cid="cmaENVj" class="cmaENVj"> 
+              <span xid="span1" style="font-family:宋体;font-size:20px;height:36px;" __cid="cmaENVj" class="cmaENVj">热键号码：</span>  
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control cmaENVj" style="width:20%;display:inline-block;" xid="hotkeyR1" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cmaENVj"/>
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cmaENVj" xid="row1" style="width:100%;height:40%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmaENVj"> 
+          <div class="x-col cmaENVj" xid="col1" __cid="cmaENVj"> 
+            <div xid="div2" __cid="cmaENVj" class="cmaENVj"> 
+              <ul xid="ul1" dir="ltr" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;" __cid="cmaENVj" class="cmaENVj"> 
+                <li class="listyle cmaENVj" xid="li2" __cid="cmaENVj">1—扫描问题货位正上方货位</li>  
+                <li class="listyle cmaENVj" xid="li3" __cid="cmaENVj">2—扫描问题货位正下方货位</li>  
+                <li class="listyle cmaENVj" xid="li4" __cid="cmaENVj">3—扫描问题货位正左方货位</li>  
+                <li class="listyle cmaENVj" xid="li5" __cid="cmaENVj">4—扫描问题货位正右方货位</li> 
+              </ul> 
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cmaENVj" xid="row3" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cmaENVj"> 
+          <div class="x-col cmaENVj" xid="col5" __cid="cmaENVj">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cmaENVj" xid="button1" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;确定&quot;}" __cid="cmaENVj"> 
+              <i xid="i1" __cid="cmaENVj" class="cmaENVj"/>  
+              <span xid="span2" __cid="cmaENVj" class="cmaENVj">确定</span>
+            </a>
+          </div>  
+          <div class="x-col cmaENVj" xid="col7" __cid="cmaENVj">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cmaENVj" xid="button2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;取消&quot;}" __cid="cmaENVj"> 
+              <i xid="i2" __cid="cmaENVj" class="cmaENVj"/>  
+              <span xid="span3" __cid="cmaENVj" class="cmaENVj">取消</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>  
+    <style __cid="cmaENVj" class="cmaENVj">.x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p703743279330416592e1b4ded95fa492-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

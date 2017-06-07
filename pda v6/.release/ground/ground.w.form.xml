@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" id="di1" tabindex="-1" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window c2mIRvy" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="c2mIRvy" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.type.c2mIRvy{color: red; font: SimSun; font-size: 2em} .text.c2mIRvy{color: blue; font: SimSun; font-size: 1em} #sp8.c2mIRvy{float: left} .righttext.c2mIRvy{color: black; float: right; font: SimSun; font-size: 1em} .waring1.c2mIRvy span.c2mIRvy{font-size: 1.5em} .waring1.c2mIRvy{background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); text-align: center; height: 100%; width: 100%; font-size: 1em; position: relative} .spstyle.c2mIRvy{text-decoration: underline; font-weight: bold} #scaninput.c2mIRvy{-webkit-user-modify: read-write-plaintext-only} #qty.c2mIRvy{-webkit-user-modify: read-write-plaintext-only} .spstyle2.c2mIRvy{text-decoration: underline; font-weight: bold; font-size: 2em}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onInactive:modelInactive;onLoad:modelLoad" __cid="c2mIRvy" class="c2mIRvy"></div>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="c2mIRvy" class="c2mIRvy"/>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;routable&quot;:false}" __cid="c2mIRvy" class="c2mIRvy">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c2mIRvy" __cid="c2mIRvy"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c2mIRvy" style="display:none;" __cid="c2mIRvy">
+      <xhtml:div class="x-dialog-title c2mIRvy" __cid="c2mIRvy">
+        <xhtml:button class="close c2mIRvy" __cid="c2mIRvy">
+          <xhtml:span __cid="c2mIRvy" class="c2mIRvy">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text c2mIRvy" __cid="c2mIRvy"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body c2mIRvy" __cid="c2mIRvy"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar c2mIRvy" xid="panel1" style="height:100%;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="c2mIRvy"> 
+    <div class="x-panel-top c2mIRvy" xid="top1" style="width:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" data-config="{&quot;height&quot;:48}" __cid="c2mIRvy"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar c2mIRvy" style="background-image: url($model/UI2/mushiny/img/btn3.png);height:100%;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="c2mIRvy"> 
+        <div class="x-titlebar-left c2mIRvy" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;width:30%;" __cid="c2mIRvy"> 
+          <a component="$model/UI2/system/components/justep/button/button" id="sgsp" xid="button1" style="margin-left:5px;background-image: url($model/UI2/mushiny/img/btn12.png);font-size:1.5rem;text-align:center;border:none;" bind-keypress="button1Keypress" class="btn btn-default c2mIRvy" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;S单件&quot;}" __cid="c2mIRvy"> 
+            <i xid="i1" __cid="c2mIRvy" class="c2mIRvy"/>  
+            <span xid="span1" __cid="c2mIRvy" class="c2mIRvy">S单件</span>
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-only-label c2mIRvy" xid="button2" style="margin-left:5px;background-image: url($model/UI2/mushiny/img/btn12.png);font-size:1.5rem;text-align:center;border:none;" id="btnshow" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;D批量&quot;}" __cid="c2mIRvy"> 
+            <i xid="i2" __cid="c2mIRvy" class="c2mIRvy"/>  
+            <span xid="span2" __cid="c2mIRvy" class="c2mIRvy">D批量</span>
+          </a>
+        </div>  
+        <div class="x-titlebar-title c2mIRvy" __cid="c2mIRvy"/>  
+        <div class="x-titlebar-right  c2mIRvy" style="margin:1px 20px 1px 1px;width:30%;height:100%;" __cid="c2mIRvy">
+          <div class="empty c2mIRvy" __cid="c2mIRvy"/>
+          <img src="$model/UI2/mushiny/img/car1.png" alt="" xid="car1" style="height:100%;width:20%;" height="100%" dir="ltr" __cid="c2mIRvy" class="c2mIRvy"/>
+          <span class="label c2mIRvy" xid="car1qty" __cid="c2mIRvy">123</span>
+          <img src="$model/UI2/mushiny/img/chezi.png" alt="" xid="car2" style="height:100%;width:20%;" __cid="c2mIRvy" class="c2mIRvy"/>
+          <span class="label c2mIRvy" xid="car2qty" __cid="c2mIRvy">123</span>
+        </div> 
+      </div> 
+    </div>  
+    <div id="hw" tabindex="-1" xid="div2" align="center" style="position:absolute;background-color:#D5E2ED;left:0;width:100%;height:7%;top:94%;" class="pull-left center-block c2mIRvy" __cid="c2mIRvy"> 
+      <span id="s10" xid="span10" style="font-size:1em;display:block;position:absolute;width:100%;height:40%;top:30%;" __cid="c2mIRvy" class="c2mIRvy">上一货位：P-1-A332B432</span>
+    </div>
+    <div class="x-panel-content c2mIRvy" xid="content1" style="width:100%;height:80%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c2mIRvy"> 
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row center-block c2mIRvy" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2mIRvy"> 
+        <div class="x-col c2mIRvy" xid="col1" __cid="c2mIRvy"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control c2mIRvy" xid="input1" id="scaninput" bind-keydown="input2Keypress" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="c2mIRvy"/>
+          <span id="sp8" xid="span8" __cid="c2mIRvy" class="c2mIRvy">当前需要进行操作</span> 
+        </div>
+      </div>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row c2mIRvy" xid="row5" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2mIRvy"> 
+        <div class="x-col c2mIRvy" xid="col3" style="text-align:center;" __cid="c2mIRvy">
+          <span xid="span3" style="font-size:3rem;font-weight:bold;" class="center-block c2mIRvy" __cid="c2mIRvy">确认并扫描商品</span>
+        </div> 
+      </div>
+      <div xid="line" style="background-color:#FF0000;height:0.1rem;display:none;" __cid="c2mIRvy" class="c2mIRvy"/>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row c2mIRvy" xid="row3" style="margin-top:30px;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2mIRvy"> 
+        <div class="x-col c2mIRvy" xid="col2" __cid="c2mIRvy">
+          <span class="type c2mIRvy" xid="span4" bind-text="fID" __cid="c2mIRvy"/>  
+          <span xid="span6" bind-text="fContent" style="margin-top:5px;" class="righttext c2mIRvy" __cid="c2mIRvy"/>
+        </div> 
+      </div>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row c2mIRvy" xid="row4" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2mIRvy"> 
+        <span xid="span5" class="text c2mIRvy" bind-text="fTitle" style="font-size:2rem;" __cid="c2mIRvy"/>
+      </div>
+      <label xid="label3" style="text-align:center;font-size:30px;font-family:宋体;width:100%;clip:rect(20px auto auto auto);background-color:#C00000;color:#FFFFFF;display:none;" dir="rtl" id="goodsall" __cid="c2mIRvy" class="c2mIRvy">XXXXXX</label>
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row c2mIRvy" style="width:100%;padding:0px 0px 0px 0px;margin:40px 0px 0px 0px;height:30%;" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c2mIRvy"> 
+        <div class="x-col c2mIRvy" xid="col6" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;height:100%;" __cid="c2mIRvy">
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control center-block c2mIRvy" xid="input3" id="qty" style="display:none;width:10%;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="c2mIRvy"/>
+          <div id="messaged" xid="div1" class="waring1 c2mIRvy" align="center" bind-click="div1Click" style="height:auto;text-align:center;padding:10px 10px 10px 10px;display:none;" dir="ltr" bind-html="det" __cid="c2mIRvy"></div> 
+        </div>
+      </div>
+      <div xid="div3" __cid="c2mIRvy" class="c2mIRvy"/>
+    </div>  
+    <style __cid="c2mIRvy" class="c2mIRvy">.x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p965d098a2dbf4da3aec0ececaad1f97f-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog" style="left:523px;top:120px;" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialogReceive" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;height&quot;:&quot;80%&quot;,&quot;resizable&quot;:false,&quot;routable&quot;:true,&quot;showTitle&quot;:false,&quot;src&quot;:&quot;$model/UI2/mushiny/sgmenu.w&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="c2mIRvy" class="c2mIRvy"> 
+    <result concept="data" operation="edit" origin="data" xid="default6" __cid="c2mIRvy" class="c2mIRvy"> 
+      <mapping from="id" to="id" locator="true" xid="default7" __cid="c2mIRvy" class="c2mIRvy"/>  
+      <mapping from="name" to="name" xid="default8" __cid="c2mIRvy" class="c2mIRvy"/>  
+      <mapping from="age" to="age" xid="default9" __cid="c2mIRvy" class="c2mIRvy"/>
+    </result>  
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c2mIRvy" __cid="c2mIRvy"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c2mIRvy" style="display:none;" showTitle="false" __cid="c2mIRvy">
+      <xhtml:div class="x-dialog-title c2mIRvy" __cid="c2mIRvy">
+        <xhtml:button class="close c2mIRvy" __cid="c2mIRvy">
+          <xhtml:span __cid="c2mIRvy" class="c2mIRvy">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text c2mIRvy" __cid="c2mIRvy"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body c2mIRvy" __cid="c2mIRvy"/>
+    </xhtml:div>
+  </span>
+</div>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window container-fluid cMJJ3eq" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cMJJ3eq" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.listyle.cMJJ3eq{margin-left: 20%; font-size: 1em}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="cMJJ3eq" class="cMJJ3eq"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialogsg" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;resizable&quot;:true,&quot;routable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;}" __cid="cMJJ3eq" class="cMJJ3eq">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cMJJ3eq" __cid="cMJJ3eq"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cMJJ3eq" style="display:none;" __cid="cMJJ3eq">
+      <xhtml:div class="x-dialog-title cMJJ3eq" __cid="cMJJ3eq">
+        <xhtml:button class="close cMJJ3eq" __cid="cMJJ3eq">
+          <xhtml:span __cid="cMJJ3eq" class="cMJJ3eq">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cMJJ3eq" __cid="cMJJ3eq"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cMJJ3eq" __cid="cMJJ3eq"/>
+    </xhtml:div>
+  </span>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiversg" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" data-events="onReceive:windowReceiver1Receive" __cid="cMJJ3eq" class="cMJJ3eq"/>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar cMJJ3eq" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cMJJ3eq"> 
+    <div class="x-panel-top cMJJ3eq" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cMJJ3eq"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/mushiny/img/out.png) fixed center center no-repeat; background-size:cover;" class="x-titlebar cMJJ3eq" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cMJJ3eq"> 
+        <div xid="left1" reverse="false" class="x-titlebar-right  cMJJ3eq" style="width:70px;text-align:right;" __cid="cMJJ3eq">
+          <div class="empty cMJJ3eq" __cid="cMJJ3eq"/>
+        </div>
+        <div class="x-titlebar-title cMJJ3eq" style="width:262px;" __cid="cMJJ3eq">上架菜单</div>  
+        <div class="x-titlebar-right reverse cMJJ3eq" __cid="cMJJ3eq"></div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content  x-scroll-view cMJJ3eq" xid="content1" _xid="C745E73767000001E5C355A01748AA50" style="bottom: 0px;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cMJJ3eq"> 
+      <div xid="div7" __cid="cMJJ3eq" class="cMJJ3eq">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cMJJ3eq" xid="row2" style="width:100%;margin:0px 0px 5px 0px;padding:0px 0px 0px 0px;height:10%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cMJJ3eq"> 
+          <div class="x-col cMJJ3eq" xid="col6" style="height:100%;width:100%;" __cid="cMJJ3eq"> 
+            <div xid="div1" style="width:100%;height:63%;text-align:center;" __cid="cMJJ3eq" class="cMJJ3eq"> 
+              <span xid="span1" style="font-family:宋体;font-size:20px;height:36px;" __cid="cMJJ3eq" class="cMJJ3eq">热键号码：</span>  
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control cMJJ3eq" xid="input5" id="hotkey" style="width:20%;display:inline-block;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cMJJ3eq"/>
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cMJJ3eq" xid="row1" style="width:100%;height:40%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cMJJ3eq"> 
+          <div class="x-col cMJJ3eq" xid="col1" __cid="cMJJ3eq"> 
+            <div xid="div2" __cid="cMJJ3eq" class="cMJJ3eq"> 
+              <ul xid="ul1" dir="ltr" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;" __cid="cMJJ3eq" class="cMJJ3eq"> 
+                <li class="listyle cMJJ3eq" xid="li2" __cid="cMJJ3eq">S—单件上架</li>  
+                <li class="listyle cMJJ3eq" xid="li3" __cid="cMJJ3eq">Q—批量上架</li>  
+                <li class="listyle cMJJ3eq" xid="li4" __cid="cMJJ3eq">D—商品残损</li>  
+                <li class="listyle cMJJ3eq" xid="li5" __cid="cMJJ3eq">I—信息查询</li>  
+                <li class="listyle cMJJ3eq" xid="li6" __cid="cMJJ3eq">R—报告暗灯</li>  
+                <li class="listyle cMJJ3eq" xid="li1" __cid="cMJJ3eq">E—结束上架</li>
+              </ul> 
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cMJJ3eq" xid="row3" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cMJJ3eq"> 
+          <div class="x-col cMJJ3eq" xid="col5" __cid="cMJJ3eq">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cMJJ3eq" xid="button1" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;确定&quot;}" __cid="cMJJ3eq"> 
+              <i xid="i1" __cid="cMJJ3eq" class="cMJJ3eq"/>  
+              <span xid="span2" __cid="cMJJ3eq" class="cMJJ3eq">确定</span>
+            </a>
+          </div>  
+          <div class="x-col cMJJ3eq" xid="col7" __cid="cMJJ3eq">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cMJJ3eq" xid="button2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;取消&quot;}" __cid="cMJJ3eq"> 
+              <i xid="i2" __cid="cMJJ3eq" class="cMJJ3eq"/>  
+              <span xid="span3" __cid="cMJJ3eq" class="cMJJ3eq">取消</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>  
+    <style __cid="cMJJ3eq" class="cMJJ3eq">.x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p0922cd04b7f344e8b75a71aafdc6b377-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

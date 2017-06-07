@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cvIZZVf" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cvIZZVf" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/contents/content,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/contents/contents,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.errorCon.cvIZZVf{display: none; background-color: rgb(255, 0, 0); font-family: 微软雅黑; font-weight: bold; color: rgb(255, 255, 255); font-size: 0.5rem; text-align: center; padding: 0.5rem; margin-top: 0.2rem}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="cvIZZVf" class="cvIZZVf"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;src&quot;:&quot;$model/UI2/mushiny/login3.w&quot;}" __cid="cvIZZVf" class="cvIZZVf">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cvIZZVf" __cid="cvIZZVf"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cvIZZVf" style="display:none;" __cid="cvIZZVf">
+      <xhtml:div class="x-dialog-title cvIZZVf" __cid="cvIZZVf">
+        <xhtml:button class="close cvIZZVf" __cid="cvIZZVf">
+          <xhtml:span __cid="cvIZZVf" class="cvIZZVf">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cvIZZVf" __cid="cvIZZVf"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cvIZZVf" __cid="cvIZZVf"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar cvIZZVf" xid="panel1" style="height:90%;" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cvIZZVf"> 
+    <div class="x-panel-top cvIZZVf" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cvIZZVf"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cvIZZVf" style="font-family:微软雅黑;height:auto;font-size:0.7rem;background-color:#6EB041;" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cvIZZVf"> 
+        <div class="x-titlebar-title cvIZZVf" bind-text="comename" style="width:262px;" __cid="cvIZZVf">信息</div> 
+      </div> 
+    </div>  
+    <div xid="content1" style="height:100%;" class="x-panel-content cvIZZVf" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cvIZZVf"> 
+      <div component="$model/UI2/system/components/justep/contents/contents" class="x-contents x-full cvIZZVf" xid="contents1" data-bind="component:{name:'$model/UI2/system/components/justep/contents/contents'}" data-config="{&quot;active&quot;:0}" __cid="cvIZZVf"> 
+        <div class="x-contents-content active cvIZZVf" xid="content2" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" __cid="cvIZZVf">
+          <div xid="div3" style="width:100%;height:12%;margin:0.5rem auto auto auto;" class="center-block cvIZZVf" __cid="cvIZZVf"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cvIZZVf" xid="button6" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;font-weight:bold;background-image: url($model/UI2/truk/img/btn3.png); opacity:0.5" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;DN激活&quot;}" __cid="cvIZZVf"> 
+              <i xid="i6" __cid="cvIZZVf" class="cvIZZVf"/>  
+              <span xid="span6" __cid="cvIZZVf" class="cvIZZVf">DN激活</span>
+            </a>
+          </div>
+          <label xid="label3" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;font-weight:normal;font-size:0.65rem;color:#000000;" dir="rtl" __cid="cvIZZVf" class="cvIZZVf">请选择收货模式</label>
+          <div xid="div1" style="width:100%;height:12%;margin:10px auto auto auto;" class="center-block cvIZZVf" __cid="cvIZZVf">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cvIZZVf" xid="button1" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;font-weight:bold;background-image: url($model/UI2/truk/img/btn3.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button6Click" data-config="{&quot;label&quot;:&quot;托盘收货&quot;}" __cid="cvIZZVf"> 
+              <i xid="i1" __cid="cvIZZVf" class="cvIZZVf"/>  
+              <span xid="span1" __cid="cvIZZVf" class="cvIZZVf">托盘收货</span>
+            </a>
+          </div>
+        </div>  
+        <div class="x-contents-content cvIZZVf" xid="content3" bind-click="content3Click" component="$model/UI2/system/components/justep/contents/content" data-bind="component:{name:'$model/UI2/system/components/justep/contents/content'}" data-events="onActive:content3Active" __cid="cvIZZVf"> 
+          <label xid="label2" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;font-weight:normal;font-size:0.65rem;" dir="rtl" __cid="cvIZZVf" class="cvIZZVf">请扫描工作站</label>  
+          <img src="$model/UI2/truk/img/tiaoma.png" alt="" xid="image1" class="center-block cvIZZVf" style="width:4rem;1rem;" __cid="cvIZZVf"/>  
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control cvIZZVf" xid="input1" bind-keydown="input1Keydown" style="height:100;opacity: 0;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cvIZZVf"/>  
+          <div xid="errorCon" class="errorCon cvIZZVf" __cid="cvIZZVf"> 
+            <span id="errorMsg" __cid="cvIZZVf" class="cvIZZVf"/> 
+          </div> 
+        </div> 
+      </div>
+    </div>  
+    <style __cid="cvIZZVf" class="cvIZZVf">.x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pdfe11e65b58a42d492b7dedaa27a5832-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

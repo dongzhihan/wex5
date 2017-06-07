@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window c6bIjaq" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="c6bIjaq" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.welcome.c6bIjaq{font: bold 0.5rem calibri, 宋体; color: rgb(0, 0, 0); background: linear-gradient(rgb(255, 199, 70), rgb(229, 182, 0)); display: -webkit-box} .tittle.c6bIjaq{width: 100%; text-align: center; margin: 0.5rem 0 0.5rem 0; font: bold 0.5rem 微软雅黑; color: rgb(0, 0, 0)} .location.c6bIjaq{text-align: center; font: bold 0.75rem calibri; border-top: 0.3rem solid yellow; border-bottom: 0.3rem solid yellow; color: rgb(0, 0, 0)} .locationB.c6bIjaq{text-align: center; background: yellow; font: bold 0.625rem calibri; color: rgb(0, 0, 0)} .x-row.c6bIjaq{padding: 0.2rem 0} .inputNum.c6bIjaq{display: inline-block; width: 20%; text-align: center; background: rgb(251, 229, 214); font: bold 0.625rem calibri; color: rgb(0, 0, 0); margin-bottom: 0.3rem} .successCon.c6bIjaq{display: none; font: 0.5rem 微软雅黑; background: linear-gradient(rgb(129, 184, 97), rgb(97, 162, 53)); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white} .num.c6bIjaq{font: bold 0.625rem calibri; text-decoration: underline} .errorCon.c6bIjaq{display: none; font: bold 0.5rem 微软雅黑; text-align: center; background: rgb(255, 0, 0); padding: 0.8rem; box-shadow: 0rem 0.1rem 0.1rem rgb(139, 139, 139); color: white} .x-dialog.x-dialog-normal.c6bIjaq .x-dialog-body.c6bIjaq{padding: 0} .num1.c6bIjaq{font: bold 0.8rem calibri; text-decoration: underline}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onParamsReceive:modelParamsReceive" __cid="c6bIjaq" class="c6bIjaq"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiver1" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" data-events="onReceive:windowReceiver1Receive" __cid="c6bIjaq" class="c6bIjaq"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog2" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;height&quot;:&quot;65%&quot;,&quot;status&quot;:&quot;normal&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="c6bIjaq" class="c6bIjaq"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c6bIjaq" __cid="c6bIjaq"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c6bIjaq" style="display:none;" __cid="c6bIjaq">  
+      <div class="x-dialog-title c6bIjaq" __cid="c6bIjaq"> 
+        <button class="close c6bIjaq" __cid="c6bIjaq"> 
+          <span __cid="c6bIjaq" class="c6bIjaq">×</span> 
+        </button>  
+        <div class="x-dialog-title-text c6bIjaq" __cid="c6bIjaq"/> 
+      </div>  
+      <div class="x-dialog-body c6bIjaq" __cid="c6bIjaq"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pe5504f08e07a414a82f98b76dc904038-iosstatusbar c6bIjaq" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{click:$model._callModelFn.bind($model, 'panel1Click')}" __cid="c6bIjaq"> 
+    <div class="x-panel-top c6bIjaq" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c6bIjaq"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar welcome c6bIjaq" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="c6bIjaq"> 
+        <div class="x-titlebar-left c6bIjaq" xid="left1" __cid="c6bIjaq"> 
+          <span xid="welTittle" __cid="c6bIjaq" class="c6bIjaq" data-bind="text:welTittle"/> 
+        </div>  
+        <div class="x-titlebar-right  c6bIjaq" xid="right1" __cid="c6bIjaq"> 
+          <div class="empty c6bIjaq" __cid="c6bIjaq"/>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default c6bIjaq" xid="button1" style="font:0.38rem 微软雅黑;padding:0.2rem;background: linear-gradient(#5C81CA,#2F62BB )" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button1Click')}" __cid="c6bIjaq"> 
+            <i xid="i1" __cid="c6bIjaq" class="c6bIjaq"/>  
+            <span xid="span1" __cid="c6bIjaq" class="c6bIjaq">返回</span> 
+          </a> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content c6bIjaq" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c6bIjaq"> 
+      <div xid="div1" __cid="c6bIjaq" class="c6bIjaq"> 
+        <label xid="label1" class="tittle c6bIjaq" __cid="c6bIjaq" data-bind="text:tittle"/>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control c6bIjaq" xid="input1" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input1Keydown')}" data-events="onBlur:input1Blur" __cid="c6bIjaq"/>  
+        <div xid="mainCon" __cid="c6bIjaq" class="c6bIjaq"> 
+          <div xid="locationACon" __cid="c6bIjaq" class="c6bIjaq"> 
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row c6bIjaq" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c6bIjaq"> 
+              <div class="x-col location c6bIjaq" xid="locationA" __cid="c6bIjaq"> 
+                <span __cid="c6bIjaq" class="c6bIjaq" data-bind="text:location"/> 
+              </div> 
+            </div> 
+          </div>  
+          <div xid="locationBCon" style="display:none" __cid="c6bIjaq" class="c6bIjaq"> 
+            <div component="$model/UI2/system/components/justep/row/row" class="x-row c6bIjaq" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c6bIjaq"> 
+              <div class="x-col locationB c6bIjaq" xid="locationB" __cid="c6bIjaq"> 
+                <span __cid="c6bIjaq" class="c6bIjaq" data-bind="text:location"/> 
+              </div> 
+            </div> 
+          </div>  
+          <div xid="inputNumCon" style="text-align:center;display:none;" __cid="c6bIjaq" class="c6bIjaq"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control inputNum c6bIjaq" xid="inputNum" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'inputNumKeydown')}" data-events="onBlur:inputNumBlur" data-config="{&quot;dataType&quot;:&quot;Integer&quot;}" __cid="c6bIjaq"/> 
+          </div> 
+        </div>  
+        <div xid="gunCon" style="text-align:center;display:none;" __cid="c6bIjaq" class="c6bIjaq"> 
+          <input component="$model/UI2/system/components/justep/input/input" class="form-control inputNum c6bIjaq" xid="inputGun" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'inputGunKeydown')}" data-config="{&quot;dataType&quot;:&quot;Integer&quot;}" __cid="c6bIjaq"/> 
+        </div>  
+        <div xid="successCon" class="successCon c6bIjaq" style="text-align:center" __cid="c6bIjaq"> 
+          <span id="successMsg" __cid="c6bIjaq" class="c6bIjaq"/> 
+        </div>  
+        <div xid="lightCon" class="successCon c6bIjaq" __cid="c6bIjaq"> 
+          <span id="lightMsg" style="text-align:left" __cid="c6bIjaq" class="c6bIjaq"/> 
+        </div>  
+        <div xid="errorCon" class="errorCon c6bIjaq" __cid="c6bIjaq"> 
+          <span id="errorMsg" __cid="c6bIjaq" class="c6bIjaq"/> 
+        </div> 
+      </div>  
+      <div style="position:fixed; bottom:0;background-color:#d9d9d9;font-family:微软雅黑;font-weight:bold;text-align:center;font-size:0.5rem;width:100%" __cid="c6bIjaq" class="c6bIjaq"> 
+        <span style="display:inline-block;padding:0.4rem;color:#000000;" xid="nextMsg" __cid="c6bIjaq" class="c6bIjaq">下一货位：
+          <span xid="nextLonction" __cid="c6bIjaq" class="c6bIjaq" data-bind="text:nextLocation"/> 
+        </span> 
+      </div> 
+    </div>  
+    <style __cid="c6bIjaq" class="c6bIjaq">.x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pe5504f08e07a414a82f98b76dc904038-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;height&quot;:&quot;65%&quot;,&quot;resizable&quot;:true,&quot;status&quot;:&quot;normal&quot;,&quot;width&quot;:&quot;80%&quot;}" __cid="c6bIjaq" class="c6bIjaq"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c6bIjaq" __cid="c6bIjaq"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c6bIjaq" style="display:none;" __cid="c6bIjaq">  
+      <div class="x-dialog-title c6bIjaq" __cid="c6bIjaq"> 
+        <button class="close c6bIjaq" __cid="c6bIjaq"> 
+          <span __cid="c6bIjaq" class="c6bIjaq">×</span> 
+        </button>  
+        <div class="x-dialog-title-text c6bIjaq" __cid="c6bIjaq"/> 
+      </div>  
+      <div class="x-dialog-body c6bIjaq" __cid="c6bIjaq"/> 
+    </div> 
+  </span> 
+</div>

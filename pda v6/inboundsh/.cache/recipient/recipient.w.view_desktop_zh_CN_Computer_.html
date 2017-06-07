@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window cEr2Yj2" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cEr2Yj2" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/list/list,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/data/data,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.type.cEr2Yj2{color: red; font: SimSun; font-size: 0.8rem} .text.cEr2Yj2{color: blue; font: SimSun; font-size: 0.4rem} .righttext.cEr2Yj2{color: black; float: right; font-size: 0.5rem} .spstyle.cEr2Yj2{text-decoration: underline; font-weight: bold} .iptcar.cEr2Yj2{width: 6rem} .btnsty.cEr2Yj2{background: linear-gradient(rgb(92, 129, 202), rgb(47, 98, 187)); margin-left: 5px; font-size: 0.4rem; text-align: center; border: none} .btnstygray.cEr2Yj2{background: rgb(138, 138, 138); margin-left: 5px; font-size: 0.4rem; text-align: center; border: none} .spstyle3.cEr2Yj2{font-weight: normal} .spstyle2.cEr2Yj2{text-decoration: underline; font-weight: bold; font-size: 0.6rem} .tipCon.cEr2Yj2{background: rgb(255, 0, 0); font: bold 0.5rem 微软雅黑; color: rgb(255, 255, 255); padding: 0.5rem 0.3rem} .tipli.cEr2Yj2{font: 0.5rem 微软雅黑; color: rgb(0, 0, 0); border: solid 0.01rem rgb(170, 194, 215); padding: 0.3rem} .errorCon.cEr2Yj2{display: none; background-color: rgb(255, 0, 0); font-family: 微软雅黑; font-weight: bold; color: rgb(255, 255, 255); font-size: 0.5rem; text-align: center; padding: 0.3rem; margin-top: 0.2rem} .btnOpation.cEr2Yj2{font: 0.5rem 微软雅黑; color: rgb(255, 255, 255); width: 60%; margin-top: 0.3rem; background: linear-gradient(rgb(96, 131, 203), rgb(46, 97, 186)); box-shadow: 0 0.1rem 0.1rem rgb(139, 139, 139)} .dateDes.cEr2Yj2{font: 0.5rem 微软雅黑; color: rgb(255, 255, 255)} .dateIn.cEr2Yj2{font: 0.5rem 微软雅黑; color: rgb(0, 0, 0); line-height: 0.8rem; display: -webkit-box} .btnOk.cEr2Yj2{width: auto; background: linear-gradient(rgb(98, 132, 203), rgb(48, 97, 185)); margin: 0.5rem 0.5rem 0 0.5rem}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onModelConstructDone:modelModelConstructDone;onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar cEr2Yj2" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{click:$model._callModelFn.bind($model, 'panel1Click')}" __cid="cEr2Yj2"> 
+    <div class="x-panel-top cEr2Yj2" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEr2Yj2"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cEr2Yj2" style="box-shadow:0rem 0.1rem 0.1rem #8b8b8b;background-image: url(@justepContextPath@/v_bdfa7beaeb1e497c99b5894c3d9d3512l_zh_CNs_desktopd_pc/truk/img/btn3.png);" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" data-config="{&quot;title&quot;:&quot;标题&quot;}" __cid="cEr2Yj2"> 
+        <div class="x-titlebar-left cEr2Yj2" style="padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;width:30%;" xid="left1" __cid="cEr2Yj2"> 
+          <a component="$model/UI2/system/components/justep/button/button" id="sgsp" xid="mkbtn" class="btn btn-default btnsty cEr2Yj2" style="font-size:0.4rem;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{keypress:$model._callModelFn.bind($model, 'button1Keypress')}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;H手动满筐&quot;}" __cid="cEr2Yj2"> 
+            <i xid="i1" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+            <span xid="span1" __cid="cEr2Yj2" class="cEr2Yj2">H手动满筐</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnstygray cEr2Yj2" xid="automkbtn" id="btnshow" style="font-size:0.4rem;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;A自动满筐&quot;}" __cid="cEr2Yj2"> 
+            <i xid="i2" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+            <span xid="span2" __cid="cEr2Yj2" class="cEr2Yj2">A自动满筐</span> 
+          </a> 
+        </div>  
+        <div class="x-titlebar-right  cEr2Yj2" __cid="cEr2Yj2"> 
+          <div class="empty cEr2Yj2" __cid="cEr2Yj2"/>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-only-label cEr2Yj2" xid="mk1btn" style="background: linear-gradient(#5C81CA,#2F62BB );margin-left:5px;font-size:0.4rem;text-align:center;border:none;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:mk1btnClick" data-config="{&quot;label&quot;:&quot;F满筐&quot;}" __cid="cEr2Yj2"> 
+            <i xid="i3" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+            <span xid="span3" __cid="cEr2Yj2" class="cEr2Yj2">F满筐</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-only-label cEr2Yj2" xid="back" style="background: linear-gradient(#5C81CA,#2F62BB );margin-left:5px;font-size:0.4rem;text-align:center;border:none;" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'backClick')}" data-config="{&quot;label&quot;:&quot;收货菜单&quot;}" __cid="cEr2Yj2"> 
+            <i xid="i3" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+            <span xid="span3" __cid="cEr2Yj2" class="cEr2Yj2">收货菜单</span> 
+          </a> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cEr2Yj2" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEr2Yj2"> 
+      <input component="$model/UI2/system/components/justep/input/input" class="form-control cEr2Yj2" xid="scanrecipient" style="opacity:0;height:0.6rem" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'scanrecipientKeydown')}" __cid="cEr2Yj2"/>  
+      <label xid="label2" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);margin-top:-0.3rem;width:100%;font-weight:normal;font-size:0.65rem;color:#000000;" dir="rtl" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:opt">请扫描工作站</label>  
+      <div xid="maindiv" style="display:none;" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row3" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col7" __cid="cEr2Yj2"> 
+            <span xid="span6" style="font-family:微软雅黑;font-weight:bold;font-size:0.55rem;color:#000000;" __cid="cEr2Yj2" class="cEr2Yj2">收货单号码：</span>  
+            <span xid="span13" style="font-size:0.5rem;font-family:微软雅黑;color:#0033CC;font-weight:bold;" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:textid"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row4" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col2" __cid="cEr2Yj2"> 
+            <span class="type cEr2Yj2" xid="span14" style="font-weight:bold;font-family:微软雅黑;" __cid="cEr2Yj2" data-bind="text:fID"/>  
+            <span xid="span16" style="margin-top:0.2rem;font-family:微软雅黑;" class="righttext cEr2Yj2" __cid="cEr2Yj2" data-bind="text:fContent"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row4" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <span xid="span15" class="text cEr2Yj2" style="font-size:0.5rem;font-family:微软雅黑;font-weight:bold;" __cid="cEr2Yj2" data-bind="text:fTitle"/> 
+        </div> 
+      </div>  
+      <div xid="iptcar" style="font-weight:bold;font-family:微软雅黑;display:none;" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col1" __cid="cEr2Yj2"> 
+            <span xid="span4" style="width:3rem;display:inline-block;font-weight:bold;font-size:0.5rem;font-family:微软雅黑;" class="carnumber cEr2Yj2" __cid="cEr2Yj2">目的地ID：</span>  
+            <input component="$model/UI2/system/components/justep/input/input" xid="ipt1" style="font-weight:bold;font-size:0.5rem;font-family:微软雅黑;text-align:center;" class="iptcar cEr2Yj2" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'ipt1Keydown')}" __cid="cEr2Yj2"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col6" __cid="cEr2Yj2"> 
+            <span xid="span5" style="font-size:0.5rem;display:inline-block;width:3rem;font-weight:bold;font-family:微软雅黑;" __cid="cEr2Yj2" class="cEr2Yj2">车牌号码 :</span>  
+            <input component="$model/UI2/system/components/justep/input/input" xid="input3" style="font-weight:bold;font-size:0.5rem;font-family:微软雅黑;text-align:center;" class="iptcar cEr2Yj2" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input3Keydown')}" __cid="cEr2Yj2"/> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="dateCon" style="display:none;background:linear-gradient(#F18D59,#E26B1A);box-shadow:0rem 0.1rem 0.1rem #8b8b8b" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="dateRow1" style="" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col54" __cid="cEr2Yj2"> 
+            <span xid="pd" class="dateDes cEr2Yj2" __cid="cEr2Yj2">生产日期：
+              <span xid="productionDate" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:productionDate"/> 
+            </span> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="dateRow2" style="" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col55" __cid="cEr2Yj2"> 
+            <span xid="lot" class="dateDes cEr2Yj2" __cid="cEr2Yj2">到期日期：
+              <span xid="expirationDate" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:expirationDate"/> 
+            </span> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="dateRow3" style="" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col56" __cid="cEr2Yj2"> 
+            <span xid="exp" class="dateDes cEr2Yj2" __cid="cEr2Yj2">有 效 期 ：
+              <span xid="expiryDateOut" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:expiryDateOut"/> 
+            </span> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="opationCon" style="display:none" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cEr2Yj2" xid="btnPd" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'btnPdClick')}" __cid="cEr2Yj2"> 
+          <i xid="i4" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+          <span xid="span8" __cid="cEr2Yj2" class="cEr2Yj2">1按生产日期修改</span> 
+        </a>  
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation cEr2Yj2" xid="btnLot" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'btnLotClick')}" __cid="cEr2Yj2"> 
+          <i xid="i7" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+          <span xid="span9" __cid="cEr2Yj2" class="cEr2Yj2">2按到期日期修改</span> 
+        </a> 
+      </div>  
+      <div xid="dateInCon" style="display:none" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cEr2Yj2" xid="dateInRow1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col3" style="width:80%" __cid="cEr2Yj2"> 
+            <span xid="year" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:yearlab"/> 
+          </div>  
+          <div class="x-col cEr2Yj2" xid="col4" __cid="cEr2Yj2"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cEr2Yj2" xid="yearIn" style="height:0.8rem;text-align:center" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'yearInKeydown')}" __cid="cEr2Yj2"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cEr2Yj2" xid="dateInRow2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col9" style="width:80%" __cid="cEr2Yj2"> 
+            <span xid="monthlab" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:monthlab"/> 
+          </div>  
+          <div class="x-col cEr2Yj2" xid="col10" __cid="cEr2Yj2"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cEr2Yj2" xid="monthIn" style="height:0.8rem;text-align:center" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'monthInKeydown')}" __cid="cEr2Yj2"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cEr2Yj2" xid="dateInRow3" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col6" style="width:80%" __cid="cEr2Yj2"> 
+            <span xid="daylab" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:daylab"/> 
+          </div>  
+          <div class="x-col cEr2Yj2" xid="co07" __cid="cEr2Yj2"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cEr2Yj2" xid="dayIn" style="height:0.8rem;text-align:center" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'dayInKeydown')}" __cid="cEr2Yj2"/> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row dateIn cEr2Yj2" xid="dateInRow4" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col99" style="width:80%" __cid="cEr2Yj2"> 
+            <span xid="expiryDate" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:expiryDatelab"/> 
+          </div>  
+          <div class="x-col cEr2Yj2" xid="col17" __cid="cEr2Yj2"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cEr2Yj2" xid="expiryDateIn" style="height:0.8rem;text-align:center" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'expiryDateInKeydown')}" __cid="cEr2Yj2"/> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="okCon" style="width:100%;display:none" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div style="width:6rem;text-align:center;margin:0 auto" __cid="cEr2Yj2" class="cEr2Yj2"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation btnOk cEr2Yj2" xid="confirm" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'confirmClick')}" __cid="cEr2Yj2"> 
+            <i xid="i6" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+            <span xid="span11" __cid="cEr2Yj2" class="cEr2Yj2">确定</span> 
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btnOpation btnOk cEr2Yj2" xid="cancel" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'cancelClick')}" __cid="cEr2Yj2"> 
+            <i xid="i7" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+            <span xid="span12" __cid="cEr2Yj2" class="cEr2Yj2">取消</span> 
+          </a> 
+        </div> 
+      </div>  
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="qtyipt" style="display:none;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+        <div class="x-col cEr2Yj2" xid="col12" __cid="cEr2Yj2"> 
+          <a component="$model/UI2/system/components/justep/button/button" xid="inputqty" style="background: linear-gradient(#5C81CA,#2F62BB );margin-left:5px;font-size:0.6rem;text-align:center;border:none;" class="btn btn-default cEr2Yj2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{keypress:$model._callModelFn.bind($model, 'button1Keypress'),click:$model._callModelFn.bind($model, 'button5Click')}" data-config="{&quot;label&quot;:&quot;输入数量&quot;}" __cid="cEr2Yj2"> 
+            <i xid="i5" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+            <span xid="span18" __cid="cEr2Yj2" class="cEr2Yj2">输入数量</span> 
+          </a> 
+        </div> 
+      </div>  
+      <div id="messaged" xid="div1" class="waring1 cEr2Yj2" align="center" style="text-align:center;margin-top: 0.3rem;padding:20px 10px 20px 10px;font-family:微软雅黑;font-size:0.5rem;font-weight:bold;display:none;color:#000000;" dir="ltr" __cid="cEr2Yj2"/>  
+      <div xid="Hmk" style="display:none;" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row11" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col28" __cid="cEr2Yj2"> 
+            <span xid="span28" style="font-family:微软雅黑;font-weight:bold;font-size:0.6rem;color:#000000;" __cid="cEr2Yj2" class="cEr2Yj2">已满车牌：</span>  
+            <span xid="span29" style="color:#007FEE;font-size:0.6rem;font-weight:bold;" __cid="cEr2Yj2" class="cEr2Yj2">toOB0000001</span> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="number" style="display:none;line-height:1rem" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row8" style="display:inline-block;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col19" style="display:inline-block;width:3.6rem;" __cid="cEr2Yj2"> 
+            <span xid="span20" style="font-family:微软雅黑;font-weight:bold;font-size:0.55rem;color:#000000;" __cid="cEr2Yj2" class="cEr2Yj2">总数量：</span> 
+          </div>  
+          <div class="x-col cEr2Yj2" xid="col20" style="display:inline-block;width:2.8rem;" __cid="cEr2Yj2"> 
+            <span xid="span21" style="background:linear-gradient(#7EB75D, #62A336);font-size:0.8rem;font-weight:bold;padding-right:0.5rem;padding-left:0.5rem;font-family:微软雅黑;vertical-align:top;color:#FFFFFF;" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:numbercut"/> 
+          </div>  
+          <div class="x-col cEr2Yj2" xid="col21" style="display:inline-block;width:2rem;margin-left:0.6rem;" __cid="cEr2Yj2"> 
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default btn-only-label cEr2Yj2" xid="button7" style="background:linear-gradient(#5C81CA,#2F62BB );margin-left:5px;font-size:0.4rem;text-align:center;border:none;font-family:微软雅黑;vertical-align:top;padding:0.25rem 0.35rem 0.25rem 0.35rem;" id="btnshow" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button7Click" data-config="{&quot;label&quot;:&quot;修改&quot;}" __cid="cEr2Yj2"> 
+              <i xid="i7" __cid="cEr2Yj2" class="cEr2Yj2"/>  
+              <span xid="span23" __cid="cEr2Yj2" class="cEr2Yj2">修改</span> 
+            </a> 
+          </div> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cEr2Yj2" xid="row10" style="display:inline-block;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEr2Yj2"> 
+          <div class="x-col cEr2Yj2" xid="col27" style="display:inline-block;width:3.6rem;vertical-align:top;" __cid="cEr2Yj2"> 
+            <span xid="span26" style="font-family:微软雅黑;font-weight:bold;font-size:0.55rem;color:#000000;" __cid="cEr2Yj2" class="cEr2Yj2">车牌号：</span> 
+          </div>  
+          <div class="x-col cEr2Yj2" xid="col26" style="display:inline-block;width:5.5rem;" __cid="cEr2Yj2"> 
+            <input component="$model/UI2/system/components/justep/input/input" class="form-control cEr2Yj2" xid="input5" style="font-family:微软雅黑;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},value:cartextid" data-config="{&quot;dataType&quot;:&quot;String&quot;,&quot;readonly&quot;:true}" __cid="cEr2Yj2"/> 
+          </div> 
+        </div> 
+      </div>  
+      <div component="$model/UI2/system/components/justep/list/list" class="x-list cEr2Yj2" xid="carlist" style="display:none;position:absolute;bottom:0px;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;autoLoad&quot;:true,&quot;data&quot;:&quot;datacar&quot;}" __cid="cEr2Yj2"> 
+        <ul class="x-list-template hide cEr2Yj2" xid="listTemplateUl1" __cid="cEr2Yj2" data-bind="foreach:{data:$model.foreach_carlist($element),afterRender:$model.foreach_afterRender_carlist.bind($model,$element)}"> 
+          <li xid="li1" style="background-color:#92D050;color:#000000;border-color:#0070C0;font-size:0.6rem;border-style:solid solid solid solid;border-width:1px 1px 1px 1px;font-family:微软雅黑;" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="event:{click:$model._callModelFn.bind($model, 'li1Click')}"> 
+            <span xid="span8" __cid="cEr2Yj2" class="cEr2Yj2"> 
+              <span __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:row.receivingDestination.name"/>-
+              <span __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:row.container.name"/> 
+            </span> 
+          </li> 
+        </ul> 
+      </div>  
+      <div xid="tipXX" style="display:none" __cid="cEr2Yj2" class="cEr2Yj2"> 
+        <div xid="tipCon" class="tipCon cEr2Yj2" __cid="cEr2Yj2"> 
+          <span id="tip" __cid="cEr2Yj2" class="cEr2Yj2"/> 
+        </div>  
+        <div component="$model/UI2/system/components/justep/list/list" class="x-list cEr2Yj2" xid="itemlist" data-bind="component:{name:'$model/UI2/system/components/justep/list/list'}" data-config="{&quot;autoLoad&quot;:true,&quot;data&quot;:&quot;dataItem&quot;}" __cid="cEr2Yj2"> 
+          <ul class="x-list-template hide cEr2Yj2" xid="listTemplateUl2" __cid="cEr2Yj2" data-bind="foreach:{data:$model.foreach_itemlist($element),afterRender:$model.foreach_afterRender_itemlist.bind($model,$element)}"> 
+            <li xid="li5" class="tipli cEr2Yj2" __cid="cEr2Yj2"> 
+              <span xid="span36" __cid="cEr2Yj2" class="cEr2Yj2" data-bind="text:ref(&quot;name&quot;),event:{click:$model._callModelFn.bind($model, 'span36Click')}"/> 
+            </li> 
+          </ul> 
+        </div> 
+      </div>  
+      <div xid="errorCon" class="errorCon cEr2Yj2" __cid="cEr2Yj2"> 
+        <span xid="errorMsg" __cid="cEr2Yj2" class="cEr2Yj2"/> 
+      </div> 
+    </div>  
+    <style __cid="cEr2Yj2" class="cEr2Yj2">.x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p2b948a42c4c54f66bd5ddd54621aa876-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;height&quot;:&quot;70%&quot;,&quot;resizable&quot;:false,&quot;routable&quot;:false,&quot;status&quot;:&quot;normal&quot;,&quot;top&quot;:&quot;10%&quot;,&quot;width&quot;:&quot;95%&quot;}" __cid="cEr2Yj2" class="cEr2Yj2"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cEr2Yj2" __cid="cEr2Yj2"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cEr2Yj2" style="display:none;" __cid="cEr2Yj2">  
+      <div class="x-dialog-title cEr2Yj2" __cid="cEr2Yj2"> 
+        <button class="close cEr2Yj2" __cid="cEr2Yj2"> 
+          <span __cid="cEr2Yj2" class="cEr2Yj2">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cEr2Yj2" __cid="cEr2Yj2"/> 
+      </div>  
+      <div class="x-dialog-body cEr2Yj2" __cid="cEr2Yj2"/> 
+    </div> 
+  </span> 
+</div>

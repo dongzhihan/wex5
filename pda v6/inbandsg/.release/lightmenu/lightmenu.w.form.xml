@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window container-fluid cn2EZfu" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cn2EZfu" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.listyle.cn2EZfu{font-family: "微软雅黑"; font-size: 0.4rem; color: black}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cn2EZfu" class="cn2EZfu"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialoglight" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;height&quot;:&quot;55%&quot;,&quot;resizable&quot;:true,&quot;routable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;,&quot;status&quot;:&quot;normal&quot;,&quot;top&quot;:&quot;10%&quot;}" __cid="cn2EZfu" class="cn2EZfu">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cn2EZfu" __cid="cn2EZfu"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cn2EZfu" style="display:none;" __cid="cn2EZfu">
+      <xhtml:div class="x-dialog-title cn2EZfu" __cid="cn2EZfu">
+        <xhtml:button class="close cn2EZfu" __cid="cn2EZfu">
+          <xhtml:span __cid="cn2EZfu" class="cn2EZfu">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cn2EZfu" __cid="cn2EZfu"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cn2EZfu" __cid="cn2EZfu"/>
+    </xhtml:div>
+  </span>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiverlight" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="cn2EZfu" class="cn2EZfu"/>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p057eaa0622a64447a6853e039b125f0f-iosstatusbar cn2EZfu" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="cn2EZfu"> 
+    <div class="x-panel-top cn2EZfu" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cn2EZfu"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/mushiny/inbandsg/img/out.png) fixed center center no-repeat; background-size:cover;" class="x-titlebar cn2EZfu" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cn2EZfu"> 
+        <div xid="left1" reverse="false" class="x-titlebar-right  cn2EZfu" style="width:70px;text-align:right;" __cid="cn2EZfu">
+          <div class="empty cn2EZfu" __cid="cn2EZfu"/>
+        </div>
+        <div class="x-titlebar-title cn2EZfu" style="width:262px;" __cid="cn2EZfu">R报告暗灯菜单</div>  
+        <div class="x-titlebar-right reverse cn2EZfu" __cid="cn2EZfu"></div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content  x-scroll-view cn2EZfu" xid="content1" _xid="C745E73767000001E5C355A01748AA50" style="bottom: 0px;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cn2EZfu"> 
+      <div xid="div7" __cid="cn2EZfu" class="cn2EZfu">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cn2EZfu" xid="row2" style="width:100%;margin:0px 0px 5px 0px;padding:0px 0px 0px 0px;height:10%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cn2EZfu"> 
+          <div class="x-col cn2EZfu" xid="col6" style="height:100%;width:100%;" __cid="cn2EZfu"> 
+            <div xid="div1" style="width:100%;height:63%;text-align:center;" __cid="cn2EZfu" class="cn2EZfu"> 
+              <span xid="span1" style="font-family:微软雅黑;font-size:0.6rem;height:36px;font-weight:bold;" __cid="cn2EZfu" class="cn2EZfu">热键号码：</span>  
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control cn2EZfu" xid="input5" id="hotkeylight" style="width:20%;display:inline-block;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="cn2EZfu"/>
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row center-block cn2EZfu" xid="row1" style="width:100%;height:40%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cn2EZfu"> 
+          <div class="x-col cn2EZfu" xid="col1" style="text-align:center;" __cid="cn2EZfu"> 
+            <div xid="div2" style="width:80%;text-align:left;" class="center-block cn2EZfu" __cid="cn2EZfu"> 
+              <ul xid="ul1" dir="ltr" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;" __cid="cn2EZfu" class="cn2EZfu"> 
+                <li class="listyle cn2EZfu" xid="li2" __cid="cn2EZfu">1—货位条码无法扫描</li>  
+                <li class="listyle cn2EZfu" xid="li3" __cid="cn2EZfu">2—货位存在残品</li>  
+                <li class="listyle cn2EZfu" xid="li4" __cid="cn2EZfu">3—货位存在条码无法扫描商品</li>  
+                <li class="listyle cn2EZfu" xid="li5" __cid="cn2EZfu">4—货位需要检查</li>  
+                <li class="listyle cn2EZfu" xid="li6" __cid="cn2EZfu">5—扫描枪存在问题</li> 
+              </ul> 
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row cn2EZfu" xid="row3" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cn2EZfu"> 
+          <div class="x-col cn2EZfu" xid="col5" __cid="cn2EZfu">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cn2EZfu" xid="button1" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;确定&quot;}" __cid="cn2EZfu"> 
+              <i xid="i1" __cid="cn2EZfu" class="cn2EZfu"/>  
+              <span xid="span2" __cid="cn2EZfu" class="cn2EZfu">确定</span>
+            </a>
+          </div>  
+          <div class="x-col cn2EZfu" xid="col7" __cid="cn2EZfu">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default cn2EZfu" xid="button2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;取消&quot;}" __cid="cn2EZfu"> 
+              <i xid="i2" __cid="cn2EZfu" class="cn2EZfu"/>  
+              <span xid="span3" __cid="cn2EZfu" class="cn2EZfu">取消</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>  
+    <style __cid="cn2EZfu" class="cn2EZfu">.x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p057eaa0622a64447a6853e039b125f0f-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

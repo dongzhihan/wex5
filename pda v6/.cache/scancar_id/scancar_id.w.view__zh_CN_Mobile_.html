@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window c7bAz2y" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="c7bAz2y" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/messageDialog/messageDialog,$model/UI2/system/components/justep/panel/panel,">  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="c7bAz2y" class="c7bAz2y"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/messageDialog/messageDialog" xid="messageDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/messageDialog/messageDialog'}" data-events="onYes:messageDialog1Yes" data-config="{&quot;type&quot;:&quot;YesNo&quot;}" __cid="c7bAz2y" class="c7bAz2y"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal-overlay c7bAz2y" __cid="c7bAz2y"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal c7bAz2y" __cid="c7bAz2y">  
+      <div class="x-modal-inner c7bAz2y" __cid="c7bAz2y"> 
+        <div class="x-modal-title c7bAz2y" __cid="c7bAz2y"/>  
+        <div class="x-modal-text c7bAz2y" __cid="c7bAz2y"/>  
+        <input class="x-modal-prompt-input c7bAz2y" type="text" __cid="c7bAz2y"/> 
+      </div>  
+      <div class="x-modal-buttons c7bAz2y" __cid="c7bAz2y"> 
+        <a class="x-modal-button x-modal-button-bold OK c7bAz2y" value="ok" __cid="c7bAz2y">确定</a>  
+        <a class="x-modal-button x-modal-button-bold Yes c7bAz2y" value="yes" __cid="c7bAz2y">是</a>  
+        <a class="x-modal-button x-modal-button-bold No c7bAz2y" value="no" __cid="c7bAz2y">否</a>  
+        <a class="x-modal-button x-modal-button-bold Cancel c7bAz2y" value="cancel" __cid="c7bAz2y">取消</a> 
+      </div> 
+    </div> 
+  </span>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;routable&quot;:true}" __cid="c7bAz2y" class="c7bAz2y"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c7bAz2y" __cid="c7bAz2y"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c7bAz2y" style="display:none;" __cid="c7bAz2y">  
+      <div class="x-dialog-title c7bAz2y" __cid="c7bAz2y"> 
+        <button class="close c7bAz2y" __cid="c7bAz2y"> 
+          <span __cid="c7bAz2y" class="c7bAz2y">×</span> 
+        </button>  
+        <div class="x-dialog-title-text c7bAz2y" __cid="c7bAz2y"/> 
+      </div>  
+      <div class="x-dialog-body c7bAz2y" __cid="c7bAz2y"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pba1a44edc325442eb30e5fc6574af704-iosstatusbar c7bAz2y" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{keypress:$model._callModelFn.bind($model, 'panel1Keypress')}" __cid="c7bAz2y"> 
+    <div class="x-panel-content c7bAz2y" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c7bAz2y"> 
+      <input id="ipt" component="$model/UI2/system/components/justep/input/input" class="form-control c7bAz2y" xid="input2" style="opacity:0;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keypress:$model._callModelFn.bind($model, 'input2Keypress'),click:$model._callModelFn.bind($model, 'input2Click')}" data-events="onFocus:input2Focus" data-config="{&quot;valueUpdateMode&quot;:&quot;input&quot;}" __cid="c7bAz2y"/> 
+    </div>  
+    <div class="x-panel-bottom c7bAz2y" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c7bAz2y"/>  
+    <label id="lb" style="text-align:center;font-size:2em;font-family:宋体;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;" dir="rtl" __cid="c7bAz2y" class="c7bAz2y">扫描上架车车牌号</label>  
+    <img src="@justepContextPath@/v_8e902518f0454b78a50d10f48fe5e925l_zh_CNs_d_m/mushiny/img/ibnlog.png" alt="" xid="image1" class="center-block c7bAz2y" align="middle" style="width:252px;height:194px;" __cid="c7bAz2y"/>  
+    <div style="position:relative;text-align:center;height:8%;width:60%;" class="center-block c7bAz2y" xid="change" __cid="c7bAz2y"> 
+      <a component="$model/UI2/system/components/justep/button/button" xid="mainbtn" style="background-image: url(@justepContextPath@/v_5e3fd272be1f4e199ce12bd10f0cf076l_zh_CNs_d_m/mushiny/img/btn12.png);background-size:100% 100%;font-size:2rem;position:absolute;text-align:center;width:100%;top:0;left:0;" class="btn btn-default center-block c7bAz2y" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:mainbtnClick" data-config="{&quot;label&quot;:&quot;重新选择上架模式&quot;}" __cid="c7bAz2y"> 
+        <i xid="i3" __cid="c7bAz2y" class="c7bAz2y"/>  
+        <span xid="span3" __cid="c7bAz2y" class="c7bAz2y">重新选择上架模式</span> 
+      </a> 
+    </div>  
+    <style __cid="c7bAz2y" class="c7bAz2y">.x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pba1a44edc325442eb30e5fc6574af704-iosstatusbar &gt;.x-panel-content {top: 0px;}</style> 
+  </div> 
+</div>

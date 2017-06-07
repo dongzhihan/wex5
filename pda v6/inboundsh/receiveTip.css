@@ -1,0 +1,17 @@
+.x-row{
+	display: -webkit-box;
+}
+
+.block{
+	display:inline-block;
+}
+
+.div{
+	font:0.47rem 微软雅黑;
+	color:#000000;
+}
+
+.weight{
+	font:bold 0.5rem 微软雅黑;
+	text-decoration: underline; 
+}

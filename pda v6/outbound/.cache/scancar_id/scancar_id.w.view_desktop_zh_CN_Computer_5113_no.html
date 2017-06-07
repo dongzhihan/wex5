@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cymiUr2" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cymiUr2" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/messageDialog/messageDialog,$model/UI2/system/components/justep/panel/panel,">  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cymiUr2" class="cymiUr2"/>  
+  <span xmlns="" component="$model/UI2/system/components/justep/messageDialog/messageDialog" xid="messageDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/messageDialog/messageDialog'}" data-events="onYes:messageDialog1Yes" data-config="{&quot;type&quot;:&quot;YesNo&quot;}" __cid="cymiUr2" class="cymiUr2"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal-overlay cymiUr2" __cid="cymiUr2"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-modal cymiUr2" __cid="cymiUr2">  
+      <div class="x-modal-inner cymiUr2" __cid="cymiUr2"> 
+        <div class="x-modal-title cymiUr2" __cid="cymiUr2"/>  
+        <div class="x-modal-text cymiUr2" __cid="cymiUr2"/>  
+        <input class="x-modal-prompt-input cymiUr2" type="text" __cid="cymiUr2"/> 
+      </div>  
+      <div class="x-modal-buttons cymiUr2" __cid="cymiUr2"> 
+        <a class="x-modal-button x-modal-button-bold OK cymiUr2" value="ok" __cid="cymiUr2">确定</a>  
+        <a class="x-modal-button x-modal-button-bold Yes cymiUr2" value="yes" __cid="cymiUr2">是</a>  
+        <a class="x-modal-button x-modal-button-bold No cymiUr2" value="no" __cid="cymiUr2">否</a>  
+        <a class="x-modal-button x-modal-button-bold Cancel cymiUr2" value="cancel" __cid="cymiUr2">取消</a> 
+      </div> 
+    </div> 
+  </span>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;routable&quot;:true}" __cid="cymiUr2" class="cymiUr2"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cymiUr2" __cid="cymiUr2"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cymiUr2" style="display:none;" __cid="cymiUr2">  
+      <div class="x-dialog-title cymiUr2" __cid="cymiUr2"> 
+        <button class="close cymiUr2" __cid="cymiUr2"> 
+          <span __cid="cymiUr2" class="cymiUr2">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cymiUr2" __cid="cymiUr2"/> 
+      </div>  
+      <div class="x-dialog-body cymiUr2" __cid="cymiUr2"/> 
+    </div> 
+  </span>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar cymiUr2" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{keypress:$model._callModelFn.bind($model, 'panel1Keypress')}" __cid="cymiUr2"> 
+    <label xid="outbandopwaring" style="text-align:center;font-size:2rem;font-family:宋体;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;background-color:red;color:#FFFFFF;" dir="rtl" __cid="cymiUr2" class="cymiUr2"/>  
+    <div class="x-panel-content cymiUr2" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cymiUr2"> 
+      <input id="ipt" component="$model/UI2/system/components/justep/input/input" class="form-control cymiUr2" xid="input2" style="opacity:0;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keypress:$model._callModelFn.bind($model, 'input2Keypress'),click:$model._callModelFn.bind($model, 'input2Click')}" data-events="onFocus:input2Focus" data-config="{&quot;valueUpdateMode&quot;:&quot;input&quot;}" __cid="cymiUr2"/> 
+    </div>  
+    <div class="x-panel-bottom cymiUr2" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cymiUr2"/>  
+    <div xid="div1" style="padding-left:3rem;" __cid="cymiUr2" class="cymiUr2"> 
+      <label id="lb" style="font-size:0.8rem;font-family:宋体;clip:rect(20px auto auto auto);" dir="rtl" __cid="cymiUr2" class="cymiUr2">请扫描车牌号码</label>  
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cymiUr2" xid="row1" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cymiUr2"> 
+        <div class="x-col cymiUr2" xid="col3" __cid="cymiUr2"> 
+          <span xid="span1" __cid="cymiUr2" class="cymiUr2">开始货位：1-2-A056-019C01</span> 
+        </div> 
+      </div>  
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cymiUr2" xid="row2" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cymiUr2"> 
+        <div class="x-col cymiUr2" xid="col5" __cid="cymiUr2"> 
+          <span xid="span2" __cid="cymiUr2" class="cymiUr2">当 前 PP ：Single Pick</span> 
+        </div> 
+      </div> 
+    </div>  
+    <img src="@justepContextPath@/v_5113_nol_zh_CNs_desktopd_pc/mushiny/img/ibnlog.png" alt="" xid="image1" class="center-block cymiUr2" align="middle" style="width:252px;height:194px;" __cid="cymiUr2"/>  
+    <div style="position:relative;text-align:center;height:8%;width:60%;" class="center-block cymiUr2" xid="change" __cid="cymiUr2"> 
+      <a component="$model/UI2/system/components/justep/button/button" xid="mainbtn" style="background-image: url(@justepContextPath@/v_5113_nol_zh_CNs_desktopd_pc/mushiny/img/btn12.png);background-size:100% 100%;font-size:0.6rem;position:absolute;text-align:center;width:100%;top:0;left:0;" class="btn btn-default center-block cymiUr2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:mainbtnClick" data-config="{&quot;label&quot;:&quot;重新选择拣货模式&quot;}" __cid="cymiUr2"> 
+        <i xid="i3" __cid="cymiUr2" class="cymiUr2"/>  
+        <span xid="span3" __cid="cymiUr2" class="cymiUr2">重新选择拣货模式</span> 
+      </a> 
+    </div>  
+    <style __cid="cymiUr2" class="cymiUr2">.x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p61d3b9a89f0d4731bad111f82a6c67a4-iosstatusbar &gt;.x-panel-content {top: 0px;}</style> 
+  </div> 
+</div>

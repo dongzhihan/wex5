@@ -1,0 +1,11 @@
+.errorCon {
+	display: none;
+	background-color: #FF0000;
+	font-family: 微软雅黑;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 0.5rem;
+	text-align: center;
+	padding: 0.5rem;
+	margin-top: 0.2rem;
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window creYBFz" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="creYBFz" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onLoad:modelLoad" __cid="creYBFz" class="creYBFz"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-config="{&quot;src&quot;:&quot;$model/UI2/mushiny/login3.w&quot;}" __cid="creYBFz" class="creYBFz">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay creYBFz" __cid="creYBFz"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog creYBFz" style="display:none;" __cid="creYBFz">
+      <xhtml:div class="x-dialog-title creYBFz" __cid="creYBFz">
+        <xhtml:button class="close creYBFz" __cid="creYBFz">
+          <xhtml:span __cid="creYBFz" class="creYBFz">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text creYBFz" __cid="creYBFz"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body creYBFz" __cid="creYBFz"/>
+    </xhtml:div>
+  </span>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full pdb76716226ee4f72b0365d376f144b0b-iosstatusbar creYBFz" xid="panel1" style="height:90%;" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="creYBFz"> 
+    <div class="x-panel-content creYBFz" xid="content1" style="height:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="creYBFz">
+      <div id="messagpp" xid="div2" class="waring1 creYBFz" align="center" bind-click="div1Click" style="height:auto;text-align:center;padding:20px 10px 20px 10px;display:none;font-family:微软雅黑;font-size:0.5rem;font-weight:bold;color:#FFFFFF;" dir="ltr" __cid="creYBFz"/>
+      <label xid="label3" style="text-align:center;font-family:微软雅黑;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;font-weight:normal;font-size:0.65rem;color:#000000;" dir="rtl" __cid="creYBFz" class="creYBFz">请选择操作模式</label>
+      <div xid="div1" style="width:100%;height:12%;margin:10px auto auto auto;" class="center-block creYBFz" __cid="creYBFz">
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default creYBFz" xid="button6" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;font-weight:bold;background-image: url($model/UI2/truk/img/btn3.png);" bind-click="modelActive" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button6Click" data-config="{&quot;label&quot;:&quot;返回主页面&quot;}" __cid="creYBFz"> 
+          <i xid="i6" __cid="creYBFz" class="creYBFz"/>  
+          <span xid="span6" __cid="creYBFz" class="creYBFz">返回主页面</span>
+        </a>
+      </div>  
+      <div xid="div3" style="width:100%;height:12%;margin:10px auto auto auto;" class="center-block creYBFz" __cid="creYBFz"> 
+        <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default  creYBFz" xid="button8" style="width:100%;background-color:#D3CFD0;font-size:0.6rem;color:#000000;font-family:微软雅黑;font-weight:bold;background-image: url($model/UI2/truk/img/btn3.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button8Click" data-config="{&quot;label&quot;:&quot;继续进入拣货页面&quot;}" __cid="creYBFz"> 
+          <i xid="i8" __cid="creYBFz" class="creYBFz"/>  
+          <span xid="span8" __cid="creYBFz" class="creYBFz">继续进入拣货页面</span>
+        </a> 
+      </div> 
+    </div>  
+    <style __cid="creYBFz" class="creYBFz">.x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-top {height: 0px;}.x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-content { top: 0px;bottom: nullpx;}.x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-content { top: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-top {height: 0px;}.iosstatusbar .x-panel .x-panel-content .x-panel.pdb76716226ee4f72b0365d376f144b0b-iosstatusbar &gt;.x-panel-content {top: 0px;}</style>
+  </div> 
+</div>

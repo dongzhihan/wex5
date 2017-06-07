@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cEZbMzi" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cEZbMzi" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">  
+  <style xmlns="" xmlns:xhtml="http://www.w3.org/1999/xhtml">.type.cEZbMzi{color: red; font-family: 微软雅黑; font-size: 0.8rem} .qty.cEZbMzi{color: black; font-size: 0.8rem; font-weight: bold} .qtystyle.cEZbMzi{font-size: 0.6rem; font-weight: bold} .spstyle.cEZbMzi{text-decoration: underline; font-weight: bold} .spstyle4.cEZbMzi{font-weight: bold} .text.cEZbMzi{color: blue; font-family: 微软雅黑; font-size: 0.4rem} .righttext.cEZbMzi{color: black; float: right; font-size: 0.5rem} .war1.cEZbMzi{background: linear-gradient(rgb(111, 171, 70), rgb(113, 176, 72))} .qtystyle.cEZbMzi{font-size: 0.6rem; font-weight: bold} .spstyle3.cEZbMzi{font-weight: normal} .spstyle2.cEZbMzi{text-decoration: underline; font-weight: bold; font-size: 0.6rem}</style>  
+  <div xmlns="" component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" data-events="onActive:modelActive;onLoad:modelLoad;onParamsReceive:modelParamsReceive" __cid="cEZbMzi" class="cEZbMzi"/>  
+  <div xmlns="" component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar cEZbMzi" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'},event:{click:$model._callModelFn.bind($model, 'panel1Click')}" __cid="cEZbMzi"> 
+    <div class="x-panel-top cEZbMzi" xid="top1" style="width:100%;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" data-config="{&quot;height&quot;:48}" __cid="cEZbMzi"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar cEZbMzi" style="box-shadow:0rem 0.1rem 0.1rem #8b8b8b;background: linear-gradient(#FFC642,#E6B600);height:100%;width:100%;" xid="titleBar1" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="cEZbMzi"> 
+        <div class="x-titlebar-right  cEZbMzi" style="margin:1px 1px 1px 1px;width:30%;height:100%;" xid="right1" __cid="cEZbMzi"> 
+          <div class="empty cEZbMzi" __cid="cEZbMzi"/>  
+          <img src="@justepContextPath@/v_dc00c6e697034074b2e5cc57b352b354l_zh_CNs_d_m/truk/img/car1.png" alt="" xid="car1" style="height:100%;" height="100%" dir="ltr" __cid="cEZbMzi" class="cEZbMzi"/>  
+          <span class="qtystyle cEZbMzi" xid="car1qty" __cid="cEZbMzi" data-bind="text:carQty"/>  
+          <img src="@justepContextPath@/v_dc3edc2282c04892911bb758e55a255fl_zh_CNs_d_m/truk/img/chezi.png" alt="" xid="car2" style="height:100%;" __cid="cEZbMzi" class="cEZbMzi"/>  
+          <span class="qtystyle cEZbMzi" xid="car2qty" __cid="cEZbMzi" data-bind="text:lostQty"/> 
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content cEZbMzi" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEZbMzi"> 
+      <input component="$model/UI2/system/components/justep/input/input" style="opacity: 0;height:0.6rem" class="form-control cEZbMzi" xid="input1" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input1Keydown')}" __cid="cEZbMzi"/>  
+      <div component="$model/UI2/system/components/justep/row/row" class="x-row cEZbMzi" xid="row5" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEZbMzi"> 
+        <div class="x-col cEZbMzi" xid="col3" style="text-align:center;" __cid="cEZbMzi"> 
+          <span xid="span3" style="font-size:0.6rem;font-weight:bold;font-family:微软雅黑;color:#000000;" class="center-block cEZbMzi" __cid="cEZbMzi" data-bind="text:hintreminder">扫描货位</span> 
+        </div> 
+      </div>  
+      <div xid="allocation" style="text-align:center;font-family:微软雅黑;font-weight:bold;color:#000000;" __cid="cEZbMzi" class="cEZbMzi"> 
+        <div xid="div3" __cid="cEZbMzi" class="cEZbMzi"> 
+          <div xid="div4" style="height:0.2rem;background-color:#66FFFF;" __cid="cEZbMzi" class="cEZbMzi" data-bind="style:{'background':color.get()}"/>  
+          <span xid="span1" style="font-size:0.9rem;font-family:微软雅黑;color:#000000;" __cid="cEZbMzi" class="cEZbMzi" data-bind="text:hw"/>  
+          <div xid="div5" style="height:0.2rem;background-color:#66FFFF;" __cid="cEZbMzi" class="cEZbMzi" data-bind="style:{'background':color.get()}"/> 
+        </div>  
+        <div xid="div6" __cid="cEZbMzi" class="cEZbMzi"> 
+          <div xid="div7" style="height:1.2rem;background-color:#66FFFF;" dir="ltr" __cid="cEZbMzi" class="cEZbMzi" data-bind="style:{'background':color.get()}"> 
+            <span xid="span2" style="font-size:0.8rem" __cid="cEZbMzi" class="cEZbMzi" data-bind="text:hw,style:{'color':fontColor.get()}"/> 
+          </div> 
+        </div>  
+        <div xid="div1" style="text-align:left;" __cid="cEZbMzi" class="cEZbMzi"> 
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cEZbMzi" xid="row3" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEZbMzi"> 
+            <div class="x-col cEZbMzi" xid="col2" __cid="cEZbMzi"> 
+              <span class="qty cEZbMzi" xid="span7" style="font-weight:bold;font-family:微软雅黑;" __cid="cEZbMzi" data-bind="text:fqty,visible:fqty.get()&gt;1"/>  
+              <span class="qty cEZbMzi" xid="span8" style="font-weight:bold;font-family:微软雅黑;" __cid="cEZbMzi" data-bind="visible:fqty.get()&gt;1">件</span>  
+              <span class="type cEZbMzi" xid="span4" style="font-weight:bold;font-family:微软雅黑;" __cid="cEZbMzi" data-bind="text:unitType"/>  
+              <span xid="span6" style="margin-top:0.2rem;font-family:微软雅黑;" class="righttext cEZbMzi" __cid="cEZbMzi" data-bind="text:itemNo"/> 
+            </div> 
+          </div>  
+          <div component="$model/UI2/system/components/justep/row/row" class="x-row cEZbMzi" xid="row4" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="cEZbMzi"> 
+            <span xid="span5" class="text cEZbMzi" style="font-size:0.5rem;font-family:微软雅黑;font-weight:bold;" __cid="cEZbMzi" data-bind="text:text"/> 
+          </div> 
+        </div>  
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control center-block cEZbMzi" xid="input3" style="display:none;width:2rem;text-align:center;font-weight:bold;margin-top:0.2rem;margin-bottom:0.2rem;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input3Keydown')}" __cid="cEZbMzi"/> 
+      </div>  
+      <div xid="baoc" style="text-align:center;margin-bottom:0.3rem;display:none;" __cid="cEZbMzi" class="cEZbMzi"> 
+        <img src="@justepContextPath@/v_4f6f8961b25246c28ef867faecb6d0e4l_zh_CNs_d_m/truk/img/scrap.png" alt="" xid="image1" style="width:4rem;height:3rem;" __cid="cEZbMzi" class="cEZbMzi"/>  
+        <a component="$model/UI2/system/components/justep/button/button" xid="mainbtn" style="background: linear-gradient(#5C81CA,#2F62BB );background-size:100% 100%;font-size:0.6rem;text-align:center;top:0;left:0;font-family:微软雅黑;width:80%;" class="btn btn-default center-block cEZbMzi" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'mainbtnClick')}" data-config="{&quot;label&quot;:&quot;操作失误，返回上一页面&quot;}" __cid="cEZbMzi"> 
+          <i xid="i3" __cid="cEZbMzi" class="cEZbMzi"/>  
+          <span xid="span9" __cid="cEZbMzi" class="cEZbMzi">重新选择上架模式</span> 
+        </a> 
+      </div>  
+      <div xid="lostsku" style="text-align:center;" __cid="cEZbMzi" class="cEZbMzi"> 
+        <div xid="div9" style="display:none;margin-top:0.5rem;" __cid="cEZbMzi" class="cEZbMzi"> 
+          <a component="$model/UI2/system/components/justep/button/button" xid="button1" style="background:linear-gradient(#5C81CA,#2F62BB );background-size:100% 100%;font-size:0.6rem;text-align:center;top:0;left:0;font-family:微软雅黑;width:auto;display:inline;" class="btn btn-default center-block cEZbMzi" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button2Click')}" data-config="{&quot;label&quot;:&quot;货位为空 没有商品&quot;}" __cid="cEZbMzi"> 
+            <i xid="i1" __cid="cEZbMzi" class="cEZbMzi"/>  
+            <span xid="span11" __cid="cEZbMzi" class="cEZbMzi">货位为空 没有商品</span> 
+          </a> 
+        </div>  
+        <div xid="div10" style="display:none;margin-top:0.5rem;" __cid="cEZbMzi" class="cEZbMzi"> 
+          <a component="$model/UI2/system/components/justep/button/button" xid="button2" style="background:linear-gradient(#5C81CA,#2F62BB );background-size:100% 100%;font-size:0.6rem;text-align:center;top:0;left:0;font-family:微软雅黑;width:auto;display:inline;" class="btn btn-default center-block cEZbMzi" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'},event:{click:$model._callModelFn.bind($model, 'button2Click')}" data-config="{&quot;label&quot;:&quot;我已扫描完所有商品&quot;}" __cid="cEZbMzi"> 
+            <i xid="i2" __cid="cEZbMzi" class="cEZbMzi"/>  
+            <span xid="span12" __cid="cEZbMzi" class="cEZbMzi">我已扫描完所有商品</span> 
+          </a>  
+          <div xid="div11" style="font-size:0.5rem;background-color:red;width:100%;height:2rem;text-align:left;padding:15px 15px 15px 15px;font-family:微软雅黑;font-weight:bold;color:#FFFFFF;margin-top:0.5rem;" __cid="cEZbMzi" class="cEZbMzi"> 
+            <span xid="span13" style="vertical-align:middle;" __cid="cEZbMzi" class="cEZbMzi">商品扫描错误：</span>  
+            <span xid="span14" __cid="cEZbMzi" class="cEZbMzi" data-bind="text:skuid"/> 
+          </div> 
+        </div> 
+      </div>  
+      <div xid="scanning" style="display:none;" __cid="cEZbMzi" class="cEZbMzi"> 
+        <input component="$model/UI2/system/components/justep/input/input" class="form-control center-block cEZbMzi" xid="input2" style="width:2rem;text-align:center;font-weight:bold;margin-top:0.2rem;margin-bottom:0.2rem;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'},event:{keydown:$model._callModelFn.bind($model, 'input5Keydown')}" data-config="{&quot;dataType&quot;:&quot;String&quot;}" __cid="cEZbMzi"/> 
+      </div>  
+      <div id="messagpickmain" xid="div8" class="waring1 war cEZbMzi" align="center" style="text-align:center;padding:0.3rem;font-family:微软雅黑;font-size:0.5rem;font-weight:bold;height:auto;color:#FFFFFF;" dir="ltr" __cid="cEZbMzi"/> 
+    </div>  
+    <div class="x-panel-bottom cEZbMzi" xid="bottom1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="cEZbMzi"> 
+      <div tabindex="-1" xid="div2" align="center" style="background-color:#D9D9D9;width:100%;height:100%;font-weight:bold;font-family:微软雅黑;" class="pull-left center-block cEZbMzi" __cid="cEZbMzi"> 
+        <span xid="span10" style="font-size:0.4rem;display:block;position:absolute;width:100%;height:40%;top:30%;" __cid="cEZbMzi" class="cEZbMzi" data-bind="text:binName">下一货位：P-1-A332B432</span> 
+      </div> 
+    </div>  
+    <style __cid="cEZbMzi" class="cEZbMzi">.x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p89e5c965e38c4badae06d2157ebf6a05-iosstatusbar &gt;.x-panel-content {top: 48px;}</style> 
+  </div>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog3" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog3Receive" __cid="cEZbMzi" class="cEZbMzi"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cEZbMzi" __cid="cEZbMzi"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cEZbMzi" style="display:none;" __cid="cEZbMzi">  
+      <div class="x-dialog-title cEZbMzi" __cid="cEZbMzi"> 
+        <button class="close cEZbMzi" __cid="cEZbMzi"> 
+          <span __cid="cEZbMzi" class="cEZbMzi">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cEZbMzi" __cid="cEZbMzi"/> 
+      </div>  
+      <div class="x-dialog-body cEZbMzi" __cid="cEZbMzi"/> 
+    </div> 
+  </span>  
+  <span xmlns="" component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;forceRefreshOnOpen&quot;:true,&quot;height&quot;:&quot;65%&quot;,&quot;status&quot;:&quot;normal&quot;,&quot;top&quot;:&quot;10%&quot;}" __cid="cEZbMzi" class="cEZbMzi"> 
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cEZbMzi" __cid="cEZbMzi"></div>  
+    <div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cEZbMzi" style="display:none;" __cid="cEZbMzi">  
+      <div class="x-dialog-title cEZbMzi" __cid="cEZbMzi"> 
+        <button class="close cEZbMzi" __cid="cEZbMzi"> 
+          <span __cid="cEZbMzi" class="cEZbMzi">×</span> 
+        </button>  
+        <div class="x-dialog-title-text cEZbMzi" __cid="cEZbMzi"/> 
+      </div>  
+      <div class="x-dialog-body cEZbMzi" __cid="cEZbMzi"/> 
+    </div> 
+  </span> 
+</div>

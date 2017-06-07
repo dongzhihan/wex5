@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" xid="window" class="window cFNv2qq" component="$model/UI2/system/components/justep/window/window" design="device:m;" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="cFNv2qq" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,">  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="cFNv2qq" class="cFNv2qq"/>  
+  <input type="text" value="" xid="scanbanchipt" bind-keydown="scanbanchiptKeydown" __cid="cFNv2qq" class="cFNv2qq"/>
+  <label xid="scanbanchlab" style="text-align:center;font-size:30px;font-family:宋体;clip:rect(20px auto auto auto);padding:25px 25px 25px 25px;width:100%;" dir="rtl" __cid="cFNv2qq" class="cFNv2qq">请扫描批次号码</label>  
+  <img src="$model/UI2/mushiny/img/scanbanch.png" alt="" xid="scanbachimg" class="center-block cFNv2qq" __cid="cFNv2qq"/>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialog1" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" __cid="cFNv2qq" class="cFNv2qq">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay cFNv2qq" __cid="cFNv2qq"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog cFNv2qq" style="display:none;" __cid="cFNv2qq">
+      <xhtml:div class="x-dialog-title cFNv2qq" __cid="cFNv2qq">
+        <xhtml:button class="close cFNv2qq" __cid="cFNv2qq">
+          <xhtml:span __cid="cFNv2qq" class="cFNv2qq">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text cFNv2qq" __cid="cFNv2qq"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body cFNv2qq" __cid="cFNv2qq"/>
+    </xhtml:div>
+  </span>
+</div>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window container-fluid c6BjUre" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="c6BjUre" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/windowReceiver/windowReceiver,$model/UI2/system/components/justep/row/row,$model/UI2/system/components/justep/input/input,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/windowDialog/windowDialog,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">.listyle.c6BjUre{margin-left: 20%; font-size: 1em}</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="c6BjUre" class="c6BjUre"></div>  
+  <span component="$model/UI2/system/components/justep/windowDialog/windowDialog" xid="windowDialoglight" data-bind="component:{name:'$model/UI2/system/components/justep/windowDialog/windowDialog'}" data-events="onReceive:windowDialog1Receive" data-config="{&quot;resizable&quot;:true,&quot;routable&quot;:true,&quot;src&quot;:&quot;$model/UI2/mushiny/login2.w&quot;}" __cid="c6BjUre" class="c6BjUre">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog-overlay c6BjUre" __cid="c6BjUre"/>
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="x-dialog c6BjUre" style="display:none;" __cid="c6BjUre">
+      <xhtml:div class="x-dialog-title c6BjUre" __cid="c6BjUre">
+        <xhtml:button class="close c6BjUre" __cid="c6BjUre">
+          <xhtml:span __cid="c6BjUre" class="c6BjUre">×</xhtml:span>
+        </xhtml:button>
+        <xhtml:div class="x-dialog-title-text c6BjUre" __cid="c6BjUre"/>
+      </xhtml:div>
+      <xhtml:div class="x-dialog-body c6BjUre" __cid="c6BjUre"/>
+    </xhtml:div>
+  </span>  
+  <span component="$model/UI2/system/components/justep/windowReceiver/windowReceiver" xid="windowReceiverlight" data-bind="component:{name:'$model/UI2/system/components/justep/windowReceiver/windowReceiver'}" __cid="c6BjUre" class="c6BjUre"/>
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p78baf26763bf43dbad545b3347cea884-iosstatusbar c6BjUre" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="c6BjUre"> 
+    <div class="x-panel-top c6BjUre" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c6BjUre"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" style="background-image: url($model/UI2/mushiny/img/out.png) fixed center center no-repeat; background-size:cover;" class="x-titlebar c6BjUre" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="c6BjUre"> 
+        <div xid="left1" reverse="false" class="x-titlebar-right  c6BjUre" style="width:70px;text-align:right;" __cid="c6BjUre">
+          <div class="empty c6BjUre" __cid="c6BjUre"/>
+        </div>
+        <div class="x-titlebar-title c6BjUre" style="width:262px;" __cid="c6BjUre">R报告暗灯菜单</div>  
+        <div class="x-titlebar-right reverse c6BjUre" __cid="c6BjUre"></div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content  x-scroll-view c6BjUre" xid="content1" _xid="C745E73767000001E5C355A01748AA50" style="bottom: 0px;" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="c6BjUre"> 
+      <div xid="div7" __cid="c6BjUre" class="c6BjUre">
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row c6BjUre" xid="row2" style="width:100%;margin:0px 0px 5px 0px;padding:0px 0px 0px 0px;height:10%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c6BjUre"> 
+          <div class="x-col c6BjUre" xid="col6" style="height:100%;width:100%;" __cid="c6BjUre"> 
+            <div xid="div1" style="width:100%;height:63%;text-align:center;" __cid="c6BjUre" class="c6BjUre"> 
+              <span xid="span1" style="font-family:宋体;font-size:20px;height:36px;" __cid="c6BjUre" class="c6BjUre">热键号码：</span>  
+              <input component="$model/UI2/system/components/justep/input/input" class="form-control c6BjUre" xid="input5" id="hotkeylight" style="width:20%;display:inline-block;" data-bind="component:{name:'$model/UI2/system/components/justep/input/input'}" __cid="c6BjUre"/>
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row c6BjUre" xid="row1" style="width:100%;height:40%;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c6BjUre"> 
+          <div class="x-col c6BjUre" xid="col1" __cid="c6BjUre"> 
+            <div xid="div2" __cid="c6BjUre" class="c6BjUre"> 
+              <ul xid="ul1" dir="ltr" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;" __cid="c6BjUre" class="c6BjUre"> 
+                <li class="listyle c6BjUre" xid="li2" __cid="c6BjUre">1—货位条码无法扫描</li>  
+                <li class="listyle c6BjUre" xid="li3" __cid="c6BjUre">2—货位存在残品</li>  
+                <li class="listyle c6BjUre" xid="li4" __cid="c6BjUre">3—货位存在条码无法扫描商品</li>  
+                <li class="listyle c6BjUre" xid="li5" __cid="c6BjUre">4—货位需要检查</li>  
+                <li class="listyle c6BjUre" xid="li6" __cid="c6BjUre">5—扫描枪存在问题</li> 
+              </ul> 
+            </div> 
+          </div> 
+        </div>
+        <div component="$model/UI2/system/components/justep/row/row" class="x-row c6BjUre" xid="row3" style="text-align:center;" data-bind="component:{name:'$model/UI2/system/components/justep/row/row'}" __cid="c6BjUre"> 
+          <div class="x-col c6BjUre" xid="col5" __cid="c6BjUre">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default c6BjUre" xid="button1" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;确定&quot;}" __cid="c6BjUre"> 
+              <i xid="i1" __cid="c6BjUre" class="c6BjUre"/>  
+              <span xid="span2" __cid="c6BjUre" class="c6BjUre">确定</span>
+            </a>
+          </div>  
+          <div class="x-col c6BjUre" xid="col7" __cid="c6BjUre">
+            <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default c6BjUre" xid="button2" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button2Click" data-config="{&quot;label&quot;:&quot;取消&quot;}" __cid="c6BjUre"> 
+              <i xid="i2" __cid="c6BjUre" class="c6BjUre"/>  
+              <span xid="span3" __cid="c6BjUre" class="c6BjUre">取消</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>  
+    <style __cid="c6BjUre" class="c6BjUre">.x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-top {height: 48px;}.x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-content { top: 48px;bottom: nullpx;}.x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-top {height: 68px;}.iosstatusbar .x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-content { top: 68px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-top {height: 48px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p78baf26763bf43dbad545b3347cea884-iosstatusbar &gt;.x-panel-content {top: 48px;}</style>
+  </div> 
+</div>

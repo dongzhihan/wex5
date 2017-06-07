@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div xmlns="http://www.w3.org/1999/xhtml" component="$model/UI2/system/components/justep/window/window" design="device:m;" xid="window" class="window camaQ7n" data-bind="component:{name:'$model/UI2/system/components/justep/window/window'}" __cid="camaQ7n" components="$model/UI2/system/components/justep/model/model,$model/UI2/system/components/justep/loadingBar/loadingBar,$model/UI2/system/components/justep/button/button,$model/UI2/system/components/justep/titleBar/titleBar,$model/UI2/system/components/justep/panel/child,$model/UI2/system/components/justep/window/window,$model/UI2/system/components/justep/panel/panel,">
+  <xhtml:style xmlns:xhtml="http://www.w3.org/1999/xhtml">null</xhtml:style>  
+  <div component="$model/UI2/system/components/justep/model/model" xid="model" style="display:none" data-bind="component:{name:'$model/UI2/system/components/justep/model/model'}" __cid="camaQ7n" class="camaQ7n"></div>  
+  <div component="$model/UI2/system/components/justep/panel/panel" class="x-panel x-full p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar camaQ7n" xid="panel1" data-bind="component:{name:'$model/UI2/system/components/justep/panel/panel'}" __cid="camaQ7n"> 
+    <div class="x-panel-top camaQ7n" xid="top1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" data-config="{&quot;height&quot;:70}" __cid="camaQ7n"> 
+      <div component="$model/UI2/system/components/justep/titleBar/titleBar" class="x-titlebar camaQ7n" style="background-image: url($model/UI2/mushiny/img/btn3.png);height:100%;width:100%;" data-bind="component:{name:'$model/UI2/system/components/justep/titleBar/titleBar'}" __cid="camaQ7n"> 
+        <div class="x-titlebar-left camaQ7n" __cid="camaQ7n"> 
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default camaQ7n" xid="button1" style="background-image: url($model/UI2/mushiny/img/btn12.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-events="onClick:button1Click" data-config="{&quot;label&quot;:&quot;S单件&quot;}" __cid="camaQ7n"> 
+            <i xid="i1" __cid="camaQ7n" class="camaQ7n"/>  
+            <span xid="span1" __cid="camaQ7n" class="camaQ7n">S单件</span>
+          </a>  
+          <a component="$model/UI2/system/components/justep/button/button" class="btn btn-default camaQ7n" xid="button2" style="margin-left:5px;background-image: url($model/UI2/mushiny/img/btn12.png);" data-bind="component:{name:'$model/UI2/system/components/justep/button/button'}" data-config="{&quot;label&quot;:&quot;E结束&quot;}" __cid="camaQ7n"> 
+            <i xid="i2" __cid="camaQ7n" class="camaQ7n"/>  
+            <span xid="span2" __cid="camaQ7n" class="camaQ7n">E结束</span>
+          </a>
+        </div>  
+        <div class="x-titlebar-title camaQ7n" __cid="camaQ7n"/>
+        <div class="x-titlebar-right  camaQ7n" style="width:293px;margin-right:50px;" __cid="camaQ7n">
+          <div class="empty camaQ7n" __cid="camaQ7n"/>
+          <img src="$model/UI2/mushiny/img/car1.png" alt="" xid="car1" style="width:15%;height:15%;" __cid="camaQ7n" class="camaQ7n"/>
+          <span class="label camaQ7n" xid="car1qty" __cid="camaQ7n">123</span>
+          <img src="$model/UI2/mushiny/img/chezi.png" alt="" xid="car2" style="width:15%;height:15%;" __cid="camaQ7n" class="camaQ7n"/>
+          <span class="label camaQ7n" xid="car2qty" __cid="camaQ7n">123</span>
+          <span class="label camaQ7n" xid="name" __cid="camaQ7n">name</span>
+        </div> 
+      </div> 
+    </div>  
+    <div class="x-panel-content camaQ7n" xid="content1" component="$model/UI2/system/components/justep/panel/child" data-bind="component:{name:'$model/UI2/system/components/justep/panel/child'}" __cid="camaQ7n"/>  
+    <style __cid="camaQ7n" class="camaQ7n">.x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-top {height: 70px;}.x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-content { top: 70px;bottom: nullpx;}.x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-bottom {height: nullpx;}.iosstatusbar .x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-top,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-top {height: 90px;}.iosstatusbar .x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-content,.iosstatusbar .x-panel .x-panel-content .x-has-iosstatusbar.x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-content { top: 90px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-top {height: 70px;}.iosstatusbar .x-panel .x-panel-content .x-panel.p7f90e55373c74668b107e5f4c0908ab1-iosstatusbar &gt;.x-panel-content {top: 70px;}</style>
+  </div> 
+</div>
